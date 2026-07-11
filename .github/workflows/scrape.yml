@@ -2,11 +2,11 @@ name: Scrape IPO data
 
 on:
   schedule:
-    # Daily at 12:45 UTC = 18:15 IST, after the exchanges publish the day's
-    # final subscription figures. Add more entries for intraday freshness,
-    # e.g. "45 4 * * *" (10:15 IST). Actual start can lag a few minutes —
+    # Daily at 02:15 UTC = 07:45 IST, before the Indian market opens. Add more
+    # entries for intraday freshness, e.g. "45 12 * * *" (18:15 IST, after the
+    # day's final subscription figures). Actual start can lag a few minutes —
     # GitHub cron is best-effort.
-    - cron: "45 12 * * *"
+    - cron: "15 2 * * *"
   workflow_dispatch: {}
 
 permissions:
