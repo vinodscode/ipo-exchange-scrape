@@ -22,7 +22,7 @@ small viewer over the same JSON.
 scraper/scrape.py            # the scraper (Python 3.10+, only dependency: requests)
 data/ipos.json               # generated output (committed by the Action)
 index.html                   # static viewer for data/ipos.json
-.github/workflows/scrape.yml # schedule: daily 15:10 IST + manual trigger
+.github/workflows/scrape.yml # schedule: daily 15:00 IST + manual trigger
 SCHEMA.md                    # documentation of the common JSON format
 ```
 
