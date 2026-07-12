@@ -2,7 +2,7 @@ name: Scrape IPO data
 
 on:
   schedule:
-    - cron: "30 9 * * *" # 9:30 AM UTC (3:00 PM IST) daily
+    - cron: "50 1 * * *" # 1:50 AM UTC (7:20 AM IST) daily
   workflow_dispatch: {}
 
 permissions:
