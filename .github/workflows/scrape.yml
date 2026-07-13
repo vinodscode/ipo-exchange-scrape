@@ -3,6 +3,9 @@ name: Scrape IPO data
 on:
   schedule:
     - cron: "50 1 * * *" # 1:50 AM UTC (7:20 AM IST) daily
+    # Backup trigger: GitHub's scheduler sometimes delays or drops runs
+    # entirely. If the 7:20 run happened, this one just finds no changes.
+    - cron: "25 2 * * *" # 2:25 AM UTC (7:55 AM IST) daily
   workflow_dispatch: {}
 
 permissions:
