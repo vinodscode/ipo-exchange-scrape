@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30T17:07:37Z",
+ "generatedAt": "2026-07-31T01:04:08Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -11,11 +11,749 @@
   }
  },
  "counts": {
-  "open": 7,
-  "upcoming": 4,
+  "open": 8,
+  "upcoming": 2,
   "closed": 39
  },
  "ipos": [
+  {
+   "id": "fusion-klassroom-edutech",
+   "companyName": "Fusion Klassroom Edutech Limited",
+   "exchanges": [
+    "BSE"
+   ],
+   "symbol": "KLASSROOM",
+   "bseScripCode": "4707",
+   "series": "SME",
+   "status": "open",
+   "issueType": "Equity",
+   "issueStartDate": "2026-07-31",
+   "issueEndDate": "2026-08-04",
+   "listingDate": null,
+   "priceBand": {
+    "min": 151.0,
+    "max": 159.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 10.0,
+   "lotSize": 800,
+   "issueSize": {
+    "shares": 1758400,
+    "amount": null
+   },
+   "leadManagers": [
+    "Narnolia Financial Services Limited"
+   ],
+   "registrar": "Maashitla Securities Private Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": null,
+    "sharesBid": null,
+    "categories": {
+     "qib": 0.0,
+     "nii": 0.0,
+     "retail": 0.0
+    }
+   },
+   "urls": {
+    "nse": null,
+    "bse": "https://www.bseindia.com/publicissue"
+   },
+   "raw": {
+    "nse": {},
+    "bse": {
+     "list": {
+      "Scrip_cd": 4707,
+      "Scrip_Name": "Fusion Klassroom Edutech Limited",
+      "short_name": null,
+      "Start_Dt": "2026-07-31T00:00:00",
+      "End_Dt": "2026-08-04T00:00:00",
+      "Price_Band": "151.00 - 159.00",
+      "Face_Val": 10.0,
+      "IR_flag": "IPO",
+      "IR_FLAG_FULL": "IPO",
+      "Status": "L",
+      "eXCHANGE_PLATFORM": "SME",
+      "FLAG": 1,
+      "IPO_NO": 7853,
+      "Is_retailertype": 1,
+      "Cum_Shares_BuyBack": null,
+      "RN": 1,
+      "LONG_NAME": null
+     },
+     "detail": {
+      "IPONO_0": [
+       {
+        "DT_TM": "",
+        "DT_TMC": "",
+        "ISBID_Detail": "1",
+        "IPO_NO": "7853",
+        "ScripCode": "4707",
+        "ScripName": "Fusion Klassroom Edutech Limited",
+        "Security_Type": "Equity",
+        "Symbol": "KLASSROOM",
+        "Issue_Period": "31 Jul 2026 to 04 Aug 2026",
+        "IPO_Market_Timings": "",
+        "Post_Issue_Modification": "",
+        "DY1": "",
+        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
+        "Issue_Size_No_of_shares": "1758400",
+        "Price_Band": "151.00-159.00",
+        "Price_Band_Advertisement": "https://www.bseindia.com/downloads/ipo/Price Band Advertisment_290720261024.pdf",
+        "Face_Value": "10.00",
+        "Tick_Size": "1.00",
+        "Market_Lot": "800",
+        "Minimum_Bid_Quantity": "1600",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "1635200",
+        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "1170400",
+        "Rating": "",
+        "DY2": "",
+        "Book_Running_Lead_Manager": "Narnolia Financial Services Limited^201, 2nd Floor, Marble Arch, 236 B A.J.C Bose Road, Kolkata, West Bengal- 700020, India||||||||akash.das@narnolia.com|Mr. Akash Das",
+        "Co_Book_Running_Lead_Manager": "",
+        "Syndicate_Member": "",
+        "Eligible_Banks": "",
+        "Registrar": "Maashitla Securities Private Limited^451, Krishna Apra Business Square, Netaji Subhash Place, Pitampura, New Delhi-110034||||||||investor.ipo@maashitla.com",
+        "Sponsor_Bank": "AXIS BANK^15, India Exchange Place, Kolkata – 700001, West Bengal, India||||||||dalhousie.branchhead@axis.bank.in|Mr. Deepak Bhutra",
+        "DY3": "",
+        "Prospectus_GID": "https://www.bseindia.com/downloads/ipo/RHP&GID_290720261024.zip",
+        "Addendum": "",
+        "Corrigendum": "https://www.bseindia.com/downloads/ipo/Corrigendum to RHP_290720261024.zip",
+        "Anchor_Details": "",
+        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4707",
+        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4707",
+        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4707",
+        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
+        "DY4": "",
+        "Public_Notices": "",
+        "Notes": "",
+        "Remarks": "",
+        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
+        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
+        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
+        "DY5": "",
+        "DY6": ""
+       }
+      ],
+      "IPONO_1": [
+       {
+        "NEW_ID": "c59ba641-01bc-4269-9811-61714cf4a625",
+        "IPO_NO": "7853",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 22:34:07",
+        "DYN_ORDER": "1"
+       },
+       {
+        "NEW_ID": "757d36af-2e1c-4397-85cf-d77fa1d94901",
+        "IPO_NO": "7853",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 22:34:07",
+        "DYN_ORDER": "2"
+       },
+       {
+        "NEW_ID": "eaa77df3-0120-4947-af82-3e59db1a04da",
+        "IPO_NO": "7853",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 22:34:07",
+        "DYN_ORDER": "3"
+       },
+       {
+        "NEW_ID": "b4ba2dd3-78bd-40a1-a053-4c01bc06b732",
+        "IPO_NO": "7853",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 22:34:07",
+        "DYN_ORDER": "4"
+       },
+       {
+        "NEW_ID": "456682ce-28f0-4a56-a345-e76fdb18c347",
+        "IPO_NO": "7853",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 22:34:07",
+        "DYN_ORDER": "5"
+       },
+       {
+        "NEW_ID": "473e2be0-46d9-435b-aafe-6747be830f74",
+        "IPO_NO": "7853",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 22:34:07",
+        "DYN_ORDER": "6"
+       }
+      ],
+      "IPONO_2": [],
+      "IPONO_3": [],
+      "IPONO_4": [
+       {
+        "NOTICE_ID": "",
+        "NOTICE_DATE": "7/30/2026 18:08:32",
+        "NOTICE_NO": "20260730-29",
+        "SUBJECT": "Public Issue of FUSION KLASSROOM EDUTECH LIMITED - Allocation to Anchor Investors",
+        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260730-29/20260730-29.pdf"
+       }
+      ],
+      "status": "success"
+     },
+     "subscription": {
+      "table2": [
+       {
+        "SRNo": "Sr.No.",
+        "col2": "Category",
+        "col3": "No.of shares offered/reserved",
+        "col4": "No. of shares bid for",
+        "col5": "No. of times of total meant for the category",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1",
+        "col2": "Qualified Institutional Buyers (QIBs)",
+        "col3": "464800",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(a)",
+        "col2": "Foreign Institutional Investors (FIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(b)",
+        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(c)",
+        "col2": "Mutual Funds",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(D)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2",
+        "col2": "Non Institutional Investors",
+        "col3": "476000",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3",
+        "col2": "Retail Individual Investors (RIIs)",
+        "col3": "817600",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(a)",
+        "col2": "Cut Off",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(b)",
+        "col2": "Price Bids ",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4",
+        "col2": "Employee Reserved",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(a)",
+        "col2": "Employee (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(b)",
+        "col2": "Employee (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5",
+        "col2": "Reservation PortionShareholder",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(a)",
+        "col2": "RPS (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(b)",
+        "col2": "RPS (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "",
+        "col2": "Total",
+        "col3": "1758400",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Fusion Klassroom Edutech Limited",
+        "Maxdt": ""
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "g-v-electricals",
+   "companyName": "G V Electricals Ltd",
+   "exchanges": [
+    "BSE"
+   ],
+   "symbol": "GVELECTRIC",
+   "bseScripCode": "4714",
+   "series": "SME",
+   "status": "open",
+   "issueType": "Equity",
+   "issueStartDate": "2026-07-31",
+   "issueEndDate": "2026-08-04",
+   "listingDate": null,
+   "priceBand": {
+    "min": 123.0,
+    "max": 130.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 10.0,
+   "lotSize": 1000,
+   "issueSize": {
+    "shares": 2362000,
+    "amount": null
+   },
+   "leadManagers": [
+    "Seren Capital Private Limited"
+   ],
+   "registrar": "Mudra RTA Ventures Private Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": null,
+    "sharesBid": null,
+    "categories": {
+     "qib": 0.0,
+     "nii": 0.0,
+     "retail": 0.0
+    }
+   },
+   "urls": {
+    "nse": null,
+    "bse": "https://www.bseindia.com/publicissue"
+   },
+   "raw": {
+    "nse": {},
+    "bse": {
+     "list": {
+      "Scrip_cd": 4714,
+      "Scrip_Name": "G V Electricals Ltd",
+      "short_name": null,
+      "Start_Dt": "2026-07-31T00:00:00",
+      "End_Dt": "2026-08-04T00:00:00",
+      "Price_Band": "123.00 - 130.00",
+      "Face_Val": 10.0,
+      "IR_flag": "IPO",
+      "IR_FLAG_FULL": "IPO",
+      "Status": "L",
+      "eXCHANGE_PLATFORM": "SME",
+      "FLAG": 1,
+      "IPO_NO": 7859,
+      "Is_retailertype": 1,
+      "Cum_Shares_BuyBack": null,
+      "RN": 1,
+      "LONG_NAME": null
+     },
+     "detail": {
+      "IPONO_0": [
+       {
+        "DT_TM": "",
+        "DT_TMC": "",
+        "ISBID_Detail": "1",
+        "IPO_NO": "7859",
+        "ScripCode": "4714",
+        "ScripName": "G V Electricals Ltd",
+        "Security_Type": "Equity",
+        "Symbol": "GVELECTRIC",
+        "Issue_Period": "31 Jul 2026 to 04 Aug 2026",
+        "IPO_Market_Timings": "",
+        "Post_Issue_Modification": "",
+        "DY1": "",
+        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
+        "Issue_Size_No_of_shares": "2362000",
+        "Price_Band": "123.00-130.00",
+        "Price_Band_Advertisement": "https://www.bseindia.com/downloads/ipo/11. Final Ad_20260727190154_300720261406.pdf",
+        "Face_Value": "10.00",
+        "Tick_Size": "1.00",
+        "Market_Lot": "1000",
+        "Minimum_Bid_Quantity": "2000",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "2082000",
+        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "1490000",
+        "Rating": "",
+        "DY2": "",
+        "Book_Running_Lead_Manager": "Seren Capital Private Limited^Office no. 601 to 605, Raylon Arcade, Kondivita, J.B.\nNagar, Mumbai, Mumbai, Maharashtra, India, 400059.||||||||info@serencapital.in|Akun Goyal",
+        "Co_Book_Running_Lead_Manager": "",
+        "Syndicate_Member": "https://listing.bseindia.com/Download/E:\\inetpub\\LISTING\\RTA\\DocumentsSMEiPO\\275398\\Syndicate_Member_SyndicateMember.zip",
+        "Eligible_Banks": "",
+        "Registrar": "Mudra RTA Ventures Private Limited^B-117, 3rd Floor, DDA Shed, Okhla Industrial Area,\nPhase-1, New Delhi – 110020, India.||||||||ipo@mudrarta.com",
+        "Sponsor_Bank": "AXIS BANK^Ground Floor Sixth Sense Mall at Junction of Gokhale\nRoad Elphinston Road And Sayani Road Parel Mumbai – 400025||||||||Dilip.Kanaujiya@axisbank.com|Dilip Ramji Kanaujiya",
+        "DY3": "",
+        "Prospectus_GID": "https://www.bseindia.com/downloads/ipo/RHP_300720261406.zip",
+        "Addendum": "https://listing.bseindia.com/Download/E:\\inetpub\\LISTING\\RTA\\DocumentsSMEiPO\\275398\\Addendum_GV_Addendum.pdf",
+        "Corrigendum": "",
+        "Anchor_Details": "",
+        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4714",
+        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4714",
+        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4714",
+        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
+        "DY4": "",
+        "Public_Notices": "",
+        "Notes": "",
+        "Remarks": "",
+        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
+        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
+        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
+        "DY5": "",
+        "DY6": ""
+       }
+      ],
+      "IPONO_1": [
+       {
+        "NEW_ID": "ae04f7b5-30c8-46bc-acd1-34a1b128e6f9",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 21:09:45",
+        "DYN_ORDER": "1"
+       },
+       {
+        "NEW_ID": "7104695f-ec18-4c7e-91fa-17afecb84e83",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 21:09:45",
+        "DYN_ORDER": "2"
+       },
+       {
+        "NEW_ID": "b1c8c17f-5993-4eb4-9111-42d31a6d35d4",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 21:09:45",
+        "DYN_ORDER": "3"
+       },
+       {
+        "NEW_ID": "091f3e65-c4e5-4082-8a8b-6cba550d0eb7",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 21:09:45",
+        "DYN_ORDER": "4"
+       },
+       {
+        "NEW_ID": "c95b6768-4d36-4365-842b-1b61b3cc2754",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 21:09:45",
+        "DYN_ORDER": "5"
+       },
+       {
+        "NEW_ID": "42c1da4a-e117-46d9-8ad6-e7f345dda0b3",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "7/30/2026 21:09:45",
+        "DYN_ORDER": "6"
+       }
+      ],
+      "IPONO_2": [],
+      "IPONO_3": [],
+      "IPONO_4": [
+       {
+        "NOTICE_ID": "",
+        "NOTICE_DATE": "7/30/2026 18:15:57",
+        "NOTICE_NO": "20260730-31",
+        "SUBJECT": "Public Issue of G V ELECTRICALS LTD - Allocation to Anchor Investors",
+        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260730-31/20260730-31.pdf"
+       }
+      ],
+      "status": "success"
+     },
+     "subscription": {
+      "table2": [
+       {
+        "SRNo": "Sr.No.",
+        "col2": "Category",
+        "col3": "No.of shares offered/reserved",
+        "col4": "No. of shares bid for",
+        "col5": "No. of times of total meant for the category",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1",
+        "col2": "Qualified Institutional Buyers (QIBs)",
+        "col3": "592000",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(a)",
+        "col2": "Foreign Institutional Investors (FIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(b)",
+        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(c)",
+        "col2": "Mutual Funds",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(D)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2",
+        "col2": "Non Institutional Investors",
+        "col3": "730000",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3",
+        "col2": "Retail Individual Investors (RIIs)",
+        "col3": "1040000",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(a)",
+        "col2": "Cut Off",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(b)",
+        "col2": "Price Bids ",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4",
+        "col2": "Employee Reserved",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(a)",
+        "col2": "Employee (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(b)",
+        "col2": "Employee (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5",
+        "col2": "Reservation PortionShareholder",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(a)",
+        "col2": "RPS (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(b)",
+        "col2": "RPS (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "",
+        "col2": "Total",
+        "col3": "2362000",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": ""
+       }
+      ]
+     }
+    }
+   }
+  },
   {
    "id": "dhaval-packaging",
    "companyName": "DHAVAL PACKAGING LIMITED",
@@ -3073,8 +3811,8 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "7/30/2026 17:00:00",
-        "DT_TMC": "Thursday, July 30 ,  2026  5:00:00 PM",
+        "DT_TM": "7/30/2026 17:04:17",
+        "DT_TMC": "Thursday, July 30 ,  2026  5:04:17 PM",
         "ISBID_Detail": "1",
         "IPO_NO": "7852",
         "ScripCode": "4706",
@@ -3210,31 +3948,31 @@
         "Price": "83.00",
         "Quantity": "7648000",
         "Price1": "83",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "84.00",
         "Quantity": "7628800",
         "Price1": "84",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "86.00",
         "Quantity": "7625600",
         "Price1": "86",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "87.00",
         "Quantity": "7619200",
         "Price1": "87",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "88.00",
         "Quantity": "7616000",
         "Price1": "88",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        }
       ],
       "IPONO_4": [
@@ -4003,8 +4741,8 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "7/30/2026 17:00:00",
-        "DT_TMC": "Thursday, July 30 ,  2026  5:00:00 PM",
+        "DT_TM": "7/30/2026 17:04:17",
+        "DT_TMC": "Thursday, July 30 ,  2026  5:04:17 PM",
         "ISBID_Detail": "1",
         "IPO_NO": "7850",
         "ScripCode": "4704",
@@ -4290,193 +5028,193 @@
         "Price": "560.00",
         "Quantity": "40594625",
         "Price1": "560",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "561.00",
         "Quantity": "40519425",
         "Price1": "561",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "562.00",
         "Quantity": "40516050",
         "Price1": "562",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "563.00",
         "Quantity": "40515150",
         "Price1": "563",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "564.00",
         "Quantity": "40514650",
         "Price1": "564",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "565.00",
         "Quantity": "40514500",
         "Price1": "565",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "566.00",
         "Quantity": "40505975",
         "Price1": "566",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "567.00",
         "Quantity": "40505450",
         "Price1": "567",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "568.00",
         "Quantity": "40504850",
         "Price1": "568",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "569.00",
         "Quantity": "40503950",
         "Price1": "569",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "570.00",
         "Quantity": "40502850",
         "Price1": "570",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "571.00",
         "Quantity": "40482125",
         "Price1": "571",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "572.00",
         "Quantity": "40481750",
         "Price1": "572",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "573.00",
         "Quantity": "40480425",
         "Price1": "573",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "574.00",
         "Quantity": "40478600",
         "Price1": "574",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "575.00",
         "Quantity": "40478475",
         "Price1": "575",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "576.00",
         "Quantity": "40441750",
         "Price1": "576",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "577.00",
         "Quantity": "40440550",
         "Price1": "577",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "578.00",
         "Quantity": "40440475",
         "Price1": "578",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "579.00",
         "Quantity": "40440250",
         "Price1": "579",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "580.00",
         "Quantity": "40439500",
         "Price1": "580",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "581.00",
         "Quantity": "40414625",
         "Price1": "581",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "582.00",
         "Quantity": "40414500",
         "Price1": "582",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "583.00",
         "Quantity": "40413975",
         "Price1": "583",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "584.00",
         "Quantity": "40413825",
         "Price1": "584",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "585.00",
         "Quantity": "40413475",
         "Price1": "585",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "586.00",
         "Quantity": "40406950",
         "Price1": "586",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "587.00",
         "Quantity": "40406400",
         "Price1": "587",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "588.00",
         "Quantity": "40406000",
         "Price1": "588",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "589.00",
         "Quantity": "40400925",
         "Price1": "589",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "590.00",
         "Quantity": "40397175",
         "Price1": "590",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        },
        {
         "Price": "Cut-off",
         "Quantity": "6957625",
         "Price1": "9999",
-        "process_dttm": "7/30/2026 17:09:00"
+        "process_dttm": "7/30/2026 19:00:00"
        }
       ],
       "IPONO_4": [
@@ -4723,582 +5461,6 @@
         "col5": "0.0500",
         "Scripname": "Manipal Health Enterprises Limited",
         "Maxdt": "7/30/2026 17:00:00"
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "poojaa-precision-engg",
-   "companyName": "POOJAA PRECISION ENGG LIMITED",
-   "exchanges": [
-    "BSE"
-   ],
-   "symbol": "PPEL",
-   "bseScripCode": "4700",
-   "series": "SME",
-   "status": "open",
-   "issueType": "Equity",
-   "issueStartDate": "2026-07-28",
-   "issueEndDate": "2026-07-30",
-   "listingDate": null,
-   "priceBand": {
-    "min": 285.0,
-    "max": 301.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 10.0,
-   "lotSize": 400,
-   "issueSize": {
-    "shares": 3810400,
-    "amount": null
-   },
-   "leadManagers": [
-    "HEM SECURITIES LIMITED"
-   ],
-   "registrar": "LINK INTIME INDIA PRIVATE LIMITED",
-   "subscription": {
-    "timesSubscribed": 259.4242,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 206.4626,
-     "nii": 342.5033,
-     "retail": 247.5532,
-     "employee": 1.3269
-    }
-   },
-   "urls": {
-    "nse": null,
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {},
-    "bse": {
-     "list": {
-      "Scrip_cd": 4700,
-      "Scrip_Name": "POOJAA PRECISION ENGG LIMITED",
-      "short_name": null,
-      "Start_Dt": "2026-07-28T00:00:00",
-      "End_Dt": "2026-07-30T00:00:00",
-      "Price_Band": "285.00 - 301.00",
-      "Face_Val": 10.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "L",
-      "eXCHANGE_PLATFORM": "SME",
-      "FLAG": 1,
-      "IPO_NO": 7846,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "7/30/2026 18:57:00",
-        "DT_TMC": "Thursday, July 30 ,  2026  6:57:00 PM",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7846",
-        "ScripCode": "4700",
-        "ScripName": "POOJAA PRECISION ENGG LIMITED",
-        "Security_Type": "Equity",
-        "Symbol": "PPEL",
-        "Issue_Period": "28 Jul 2026 to 30 Jul 2026",
-        "IPO_Market_Timings": "",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
-        "Issue_Size_No_of_shares": "3810400",
-        "Price_Band": "285.00-301.00",
-        "Price_Band_Advertisement": "https://www.bseindia.com/downloads/ipo/BS  English_Mumbai_270720261808.pdf",
-        "Face_Value": "10.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "400",
-        "Minimum_Bid_Quantity": "800",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "3502800",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "2502400",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "HEM SECURITIES LIMITED^904, A Wing, 9th Floor Naman Midtown,Senapati Bapat Marg,Elphinstone Road Mumbai-400 013, India|||Mumbai|Maharashtra|400 013|91 22 2262 5991|91 22 4906 0000||",
-        "Co_Book_Running_Lead_Manager": "",
-        "Syndicate_Member": "",
-        "Eligible_Banks": "",
-        "Registrar": "LINK INTIME INDIA PRIVATE LIMITED^C-101,1st Floor, 247 Park,Lal Bahadur Shastri Marg,Vikhroli (West)Mumbai – 400083||||||||",
-        "Sponsor_Bank": "Kotak Mahindra Bank Limited^Kotak Infiniti, 6th Floor, Building No. 21, Infinity Park, Off Western Express HighwayGeneral AK Vaidya Marg, Malad (E)|||||||||",
-        "DY3": "",
-        "Prospectus_GID": "https://www.bseindia.com/downloads/ipo/RHP_270720261808.zip",
-        "Addendum": "",
-        "Corrigendum": "",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4700",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4700",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4700",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "c4ccf76d-03df-4957-b4d3-fa3e399a4ac1",
-        "IPO_NO": "7846",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 12:43:02",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "71daf097-4895-4f2d-9782-67d5c3aeae5d",
-        "IPO_NO": "7846",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 12:43:02",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "179023e3-c38e-4a98-8998-acd62e8bbadc",
-        "IPO_NO": "7846",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 12:43:02",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "83aa452f-039f-415e-a2f3-c5a211b81af5",
-        "IPO_NO": "7846",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 12:43:02",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "d5782947-7e93-4fc4-a2c8-f92eab99d3f0",
-        "IPO_NO": "7846",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 12:43:02",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "ea8710bc-daa9-4769-9c72-1d7fe2971c47",
-        "IPO_NO": "7846",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 12:43:02",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [
-       {
-        "Price": "285.00",
-        "Quantity": "988510000",
-        "Price1": "285",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "286.00",
-        "Quantity": "987760400",
-        "Price1": "286",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "287.00",
-        "Quantity": "987724400",
-        "Price1": "287",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "288.00",
-        "Quantity": "987711600",
-        "Price1": "288",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "289.00",
-        "Quantity": "987702000",
-        "Price1": "289",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "290.00",
-        "Quantity": "987697200",
-        "Price1": "290",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "291.00",
-        "Quantity": "987583200",
-        "Price1": "291",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "292.00",
-        "Quantity": "987568400",
-        "Price1": "292",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "293.00",
-        "Quantity": "987558800",
-        "Price1": "293",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "294.00",
-        "Quantity": "987548800",
-        "Price1": "294",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "295.00",
-        "Quantity": "987541200",
-        "Price1": "295",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "296.00",
-        "Quantity": "987474800",
-        "Price1": "296",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "297.00",
-        "Quantity": "987466800",
-        "Price1": "297",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "298.00",
-        "Quantity": "987455200",
-        "Price1": "298",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "299.00",
-        "Quantity": "987427600",
-        "Price1": "299",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "300.00",
-        "Quantity": "987340000",
-        "Price1": "300",
-        "process_dttm": "7/30/2026 18:57:00"
-       },
-       {
-        "Price": "301.00",
-        "Quantity": "986818000",
-        "Price1": "301",
-        "process_dttm": "7/30/2026 18:57:00"
-       }
-      ],
-      "IPONO_3": [
-       {
-        "Price": "285.00",
-        "Quantity": "988510000",
-        "Price1": "285",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "286.00",
-        "Quantity": "987760400",
-        "Price1": "286",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "287.00",
-        "Quantity": "987724400",
-        "Price1": "287",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "288.00",
-        "Quantity": "987711600",
-        "Price1": "288",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "289.00",
-        "Quantity": "987702000",
-        "Price1": "289",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "290.00",
-        "Quantity": "987697200",
-        "Price1": "290",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "291.00",
-        "Quantity": "987583200",
-        "Price1": "291",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "292.00",
-        "Quantity": "987568400",
-        "Price1": "292",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "293.00",
-        "Quantity": "987558800",
-        "Price1": "293",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "294.00",
-        "Quantity": "987548800",
-        "Price1": "294",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "295.00",
-        "Quantity": "987541200",
-        "Price1": "295",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "296.00",
-        "Quantity": "987474800",
-        "Price1": "296",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "297.00",
-        "Quantity": "987466800",
-        "Price1": "297",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "298.00",
-        "Quantity": "987455200",
-        "Price1": "298",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "299.00",
-        "Quantity": "987427600",
-        "Price1": "299",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "300.00",
-        "Quantity": "987340000",
-        "Price1": "300",
-        "process_dttm": "7/30/2026 19:00:00"
-       },
-       {
-        "Price": "301.00",
-        "Quantity": "986818000",
-        "Price1": "301",
-        "process_dttm": "7/30/2026 19:00:00"
-       }
-      ],
-      "IPONO_4": [
-       {
-        "NOTICE_ID": "",
-        "NOTICE_DATE": "7/27/2026 18:05:34",
-        "NOTICE_NO": "20260727-19",
-        "SUBJECT": "Public Issue of POOJAA PRECISION ENGG. LIMITED - Allocation to Anchor Investors",
-        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260727-19/20260727-19.pdf"
-       }
-      ],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "1000400",
-        "col4": "206545200",
-        "col5": "206.4626",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "39383600",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "28685200",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "4733600",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "1(D)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "133742800",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors",
-        "col3": "1017200",
-        "col4": "348394400",
-        "col5": "342.5033",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "3372400",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "340900800",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "4121200",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "1751200",
-        "col4": "433515200",
-        "col5": "247.5532",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "433515200",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "41600",
-        "col4": "55200",
-        "col5": "1.3269",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "55200",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "3810400",
-        "col4": "988510000",
-        "col5": "259.4242",
-        "Scripname": "POOJAA PRECISION ENGG LIMITED",
-        "Maxdt": "7/30/2026 18:58:13"
        }
       ]
      }
@@ -6097,744 +6259,6 @@
      }
     },
     "bse": {}
-   }
-  },
-  {
-   "id": "fusion-klassroom-edutech",
-   "companyName": "Fusion Klassroom Edutech Limited",
-   "exchanges": [
-    "BSE"
-   ],
-   "symbol": "KLASSROOM",
-   "bseScripCode": "4707",
-   "series": "SME",
-   "status": "upcoming",
-   "issueType": "Equity",
-   "issueStartDate": "2026-07-31",
-   "issueEndDate": "2026-08-04",
-   "listingDate": null,
-   "priceBand": {
-    "min": 151.0,
-    "max": 159.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 10.0,
-   "lotSize": 800,
-   "issueSize": {
-    "shares": 1758400,
-    "amount": null
-   },
-   "leadManagers": [
-    "Narnolia Financial Services Limited"
-   ],
-   "registrar": "Maashitla Securities Private Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 0.0,
-     "nii": 0.0,
-     "retail": 0.0
-    }
-   },
-   "urls": {
-    "nse": null,
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {},
-    "bse": {
-     "list": {
-      "Scrip_cd": 4707,
-      "Scrip_Name": "Fusion Klassroom Edutech Limited",
-      "short_name": null,
-      "Start_Dt": "2026-07-31T00:00:00",
-      "End_Dt": "2026-08-04T00:00:00",
-      "Price_Band": "151.00 - 159.00",
-      "Face_Val": 10.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "F",
-      "eXCHANGE_PLATFORM": "SME",
-      "FLAG": 7,
-      "IPO_NO": 7853,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "",
-        "DT_TMC": "",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7853",
-        "ScripCode": "4707",
-        "ScripName": "Fusion Klassroom Edutech Limited",
-        "Security_Type": "Equity",
-        "Symbol": "KLASSROOM",
-        "Issue_Period": "31 Jul 2026 to 04 Aug 2026",
-        "IPO_Market_Timings": "",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
-        "Issue_Size_No_of_shares": "1758400",
-        "Price_Band": "151.00-159.00",
-        "Price_Band_Advertisement": "https://www.bseindia.com/downloads/ipo/Price Band Advertisment_290720261024.pdf",
-        "Face_Value": "10.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "800",
-        "Minimum_Bid_Quantity": "1600",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "1635200",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "1170400",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "Narnolia Financial Services Limited^201, 2nd Floor, Marble Arch, 236 B A.J.C Bose Road, Kolkata, West Bengal- 700020, India||||||||akash.das@narnolia.com|Mr. Akash Das",
-        "Co_Book_Running_Lead_Manager": "",
-        "Syndicate_Member": "",
-        "Eligible_Banks": "",
-        "Registrar": "Maashitla Securities Private Limited^451, Krishna Apra Business Square, Netaji Subhash Place, Pitampura, New Delhi-110034||||||||investor.ipo@maashitla.com",
-        "Sponsor_Bank": "AXIS BANK^15, India Exchange Place, Kolkata – 700001, West Bengal, India||||||||dalhousie.branchhead@axis.bank.in|Mr. Deepak Bhutra",
-        "DY3": "",
-        "Prospectus_GID": "https://www.bseindia.com/downloads/ipo/RHP&GID_290720261024.zip",
-        "Addendum": "",
-        "Corrigendum": "https://www.bseindia.com/downloads/ipo/Corrigendum to RHP_290720261024.zip",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4707",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4707",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4707",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "c59ba641-01bc-4269-9811-61714cf4a625",
-        "IPO_NO": "7853",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 22:34:07",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "757d36af-2e1c-4397-85cf-d77fa1d94901",
-        "IPO_NO": "7853",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 22:34:07",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "eaa77df3-0120-4947-af82-3e59db1a04da",
-        "IPO_NO": "7853",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 22:34:07",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "b4ba2dd3-78bd-40a1-a053-4c01bc06b732",
-        "IPO_NO": "7853",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 22:34:07",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "456682ce-28f0-4a56-a345-e76fdb18c347",
-        "IPO_NO": "7853",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 22:34:07",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "473e2be0-46d9-435b-aafe-6747be830f74",
-        "IPO_NO": "7853",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 22:34:07",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [],
-      "IPONO_3": [],
-      "IPONO_4": [
-       {
-        "NOTICE_ID": "",
-        "NOTICE_DATE": "7/30/2026 18:08:32",
-        "NOTICE_NO": "20260730-29",
-        "SUBJECT": "Public Issue of FUSION KLASSROOM EDUTECH LIMITED - Allocation to Anchor Investors",
-        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260730-29/20260730-29.pdf"
-       }
-      ],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "464800",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(D)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors",
-        "col3": "476000",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "817600",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "1758400",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": ""
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "g-v-electricals",
-   "companyName": "G V Electricals Ltd",
-   "exchanges": [
-    "BSE"
-   ],
-   "symbol": "GVELECTRIC",
-   "bseScripCode": "4714",
-   "series": "SME",
-   "status": "upcoming",
-   "issueType": "Equity",
-   "issueStartDate": "2026-07-31",
-   "issueEndDate": "2026-08-04",
-   "listingDate": null,
-   "priceBand": {
-    "min": 123.0,
-    "max": 130.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 10.0,
-   "lotSize": 1000,
-   "issueSize": {
-    "shares": 2362000,
-    "amount": null
-   },
-   "leadManagers": [
-    "Seren Capital Private Limited"
-   ],
-   "registrar": "Mudra RTA Ventures Private Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 0.0,
-     "nii": 0.0,
-     "retail": 0.0
-    }
-   },
-   "urls": {
-    "nse": null,
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {},
-    "bse": {
-     "list": {
-      "Scrip_cd": 4714,
-      "Scrip_Name": "G V Electricals Ltd",
-      "short_name": null,
-      "Start_Dt": "2026-07-31T00:00:00",
-      "End_Dt": "2026-08-04T00:00:00",
-      "Price_Band": "123.00 - 130.00",
-      "Face_Val": 10.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "F",
-      "eXCHANGE_PLATFORM": "SME",
-      "FLAG": 7,
-      "IPO_NO": 7859,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "",
-        "DT_TMC": "",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7859",
-        "ScripCode": "4714",
-        "ScripName": "G V Electricals Ltd",
-        "Security_Type": "Equity",
-        "Symbol": "GVELECTRIC",
-        "Issue_Period": "31 Jul 2026 to 04 Aug 2026",
-        "IPO_Market_Timings": "",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
-        "Issue_Size_No_of_shares": "2362000",
-        "Price_Band": "123.00-130.00",
-        "Price_Band_Advertisement": "https://www.bseindia.com/downloads/ipo/11. Final Ad_20260727190154_300720261406.pdf",
-        "Face_Value": "10.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "1000",
-        "Minimum_Bid_Quantity": "2000",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "2082000",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "1490000",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "Seren Capital Private Limited^Office no. 601 to 605, Raylon Arcade, Kondivita, J.B.\nNagar, Mumbai, Mumbai, Maharashtra, India, 400059.||||||||info@serencapital.in|Akun Goyal",
-        "Co_Book_Running_Lead_Manager": "",
-        "Syndicate_Member": "https://listing.bseindia.com/Download/E:\\inetpub\\LISTING\\RTA\\DocumentsSMEiPO\\275398\\Syndicate_Member_SyndicateMember.zip",
-        "Eligible_Banks": "",
-        "Registrar": "Mudra RTA Ventures Private Limited^B-117, 3rd Floor, DDA Shed, Okhla Industrial Area,\nPhase-1, New Delhi – 110020, India.||||||||ipo@mudrarta.com",
-        "Sponsor_Bank": "AXIS BANK^Ground Floor Sixth Sense Mall at Junction of Gokhale\nRoad Elphinston Road And Sayani Road Parel Mumbai – 400025||||||||Dilip.Kanaujiya@axisbank.com|Dilip Ramji Kanaujiya",
-        "DY3": "",
-        "Prospectus_GID": "https://www.bseindia.com/downloads/ipo/RHP_300720261406.zip",
-        "Addendum": "https://listing.bseindia.com/Download/E:\\inetpub\\LISTING\\RTA\\DocumentsSMEiPO\\275398\\Addendum_GV_Addendum.pdf",
-        "Corrigendum": "",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4714",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4714",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4714",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "ae04f7b5-30c8-46bc-acd1-34a1b128e6f9",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 21:09:45",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "7104695f-ec18-4c7e-91fa-17afecb84e83",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 21:09:45",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "b1c8c17f-5993-4eb4-9111-42d31a6d35d4",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 21:09:45",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "091f3e65-c4e5-4082-8a8b-6cba550d0eb7",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 21:09:45",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "c95b6768-4d36-4365-842b-1b61b3cc2754",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 21:09:45",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "42c1da4a-e117-46d9-8ad6-e7f345dda0b3",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "7/30/2026 21:09:45",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [],
-      "IPONO_3": [],
-      "IPONO_4": [
-       {
-        "NOTICE_ID": "",
-        "NOTICE_DATE": "7/30/2026 18:15:57",
-        "NOTICE_NO": "20260730-31",
-        "SUBJECT": "Public Issue of G V ELECTRICALS LTD - Allocation to Anchor Investors",
-        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260730-31/20260730-31.pdf"
-       }
-      ],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "592000",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(D)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors",
-        "col3": "730000",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "1040000",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "2362000",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": ""
-       }
-      ]
-     }
-    }
    }
   },
   {
@@ -8922,13 +8346,13 @@
    "issueType": null,
    "issueStartDate": "2026-07-22",
    "issueEndDate": "2026-07-24",
-   "listingDate": "2023-04-19",
+   "listingDate": "2026-07-31",
    "priceBand": {
     "min": 151.0,
     "max": 152.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 156.0,
    "faceValue": null,
    "lotSize": 95,
    "issueSize": {
@@ -8960,9 +8384,9 @@
       "htmSym": "cubeinvit",
       "ipoEndDate": "24-JUL-2026",
       "ipoStartDate": "22-JUL-2026",
-      "issuePrice": "-",
+      "issuePrice": "   156",
       "linkRemovalDate": "28-JUL-2026",
-      "listingDate": "-",
+      "listingDate": "31-JUL-2026",
       "priceRange": "Rs.151 to Rs.152",
       "securityType": "IV",
       "symbol": "CUBEINVIT"
@@ -8986,7 +8410,7 @@
        "isETFSec": false,
        "isDelisted": false,
        "isin": "INE0NR623014",
-       "listingDate": "2023-04-19",
+       "listingDate": "2026-07-31",
        "isMunicipalBond": false,
        "isHybridSymbol": true,
        "segment": "EQUITY"
