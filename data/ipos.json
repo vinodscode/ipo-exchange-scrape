@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04T01:01:22Z",
+ "generatedAt": "2026-08-04T17:17:59Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -39,7 +39,7 @@
    "faceValue": 10.0,
    "lotSize": 1200,
    "issueSize": {
-    "shares": 2258400,
+    "shares": 1686000,
     "amount": null
    },
    "leadManagers": [
@@ -47,13 +47,13 @@
    ],
    "registrar": "Skyline financial services private Limited",
    "subscription": {
-    "timesSubscribed": 0.0,
+    "timesSubscribed": 0.3082,
     "sharesOffered": null,
     "sharesBid": null,
     "categories": {
      "qib": 0.0,
-     "nii": 0.0,
-     "retail": 0.0
+     "nii": 0.1265,
+     "retail": 0.6525
     }
    },
    "urls": {
@@ -85,8 +85,8 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "",
-        "DT_TMC": "",
+        "DT_TM": "8/4/2026 17:00:00",
+        "DT_TMC": "Tuesday, August 04 ,  2026  5:00:00 PM",
         "ISBID_Detail": "1",
         "IPO_NO": "7861",
         "ScripCode": "4715",
@@ -98,14 +98,14 @@
         "Post_Issue_Modification": "",
         "DY1": "",
         "Cut_off_time_for_UPI_Mandate_Confirmation": "",
-        "Issue_Size_No_of_shares": "2258400",
+        "Issue_Size_No_of_shares": "1686000",
         "Price_Band": "100.00-105.00",
         "Price_Band_Advertisement": "https://www.bseindia.com/downloads/ipo/Price Band Advertisment_310720262015.pdf",
         "Face_Value": "10.00",
         "Tick_Size": "1.00",
         "Market_Lot": "1200",
         "Minimum_Bid_Quantity": "2400",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "1933200",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "1360800",
         "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "968400",
         "Rating": "",
         "DY2": "",
@@ -141,7 +141,7 @@
         "IPO_NO": "7861",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 19:23:06",
+        "INSERT_DTTM": "8/4/2026 08:33:50",
         "DYN_ORDER": "1"
        },
        {
@@ -149,7 +149,7 @@
         "IPO_NO": "7861",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 19:23:06",
+        "INSERT_DTTM": "8/4/2026 08:33:50",
         "DYN_ORDER": "2"
        },
        {
@@ -157,7 +157,7 @@
         "IPO_NO": "7861",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 19:23:06",
+        "INSERT_DTTM": "8/4/2026 08:33:50",
         "DYN_ORDER": "3"
        },
        {
@@ -165,7 +165,7 @@
         "IPO_NO": "7861",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 19:23:06",
+        "INSERT_DTTM": "8/4/2026 08:33:50",
         "DYN_ORDER": "4"
        },
        {
@@ -173,7 +173,7 @@
         "IPO_NO": "7861",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 19:23:06",
+        "INSERT_DTTM": "8/4/2026 08:33:50",
         "DYN_ORDER": "5"
        },
        {
@@ -181,12 +181,74 @@
         "IPO_NO": "7861",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 19:23:06",
+        "INSERT_DTTM": "8/4/2026 08:33:50",
         "DYN_ORDER": "6"
        }
       ],
-      "IPONO_2": [],
-      "IPONO_3": [],
+      "IPONO_2": [
+       {
+        "Price": "100.00",
+        "Quantity": "519600",
+        "Price1": "100",
+        "process_dttm": "8/4/2026 17:04:49"
+       },
+       {
+        "Price": "102.00",
+        "Quantity": "510000",
+        "Price1": "102",
+        "process_dttm": "8/4/2026 17:04:49"
+       },
+       {
+        "Price": "103.00",
+        "Quantity": "510000",
+        "Price1": "103",
+        "process_dttm": "8/4/2026 17:04:49"
+       },
+       {
+        "Price": "104.00",
+        "Quantity": "510000",
+        "Price1": "104",
+        "process_dttm": "8/4/2026 17:04:49"
+       },
+       {
+        "Price": "105.00",
+        "Quantity": "505200",
+        "Price1": "105",
+        "process_dttm": "8/4/2026 17:04:49"
+       }
+      ],
+      "IPONO_3": [
+       {
+        "Price": "100.00",
+        "Quantity": "519600",
+        "Price1": "100",
+        "process_dttm": "8/4/2026 17:09:00"
+       },
+       {
+        "Price": "102.00",
+        "Quantity": "510000",
+        "Price1": "102",
+        "process_dttm": "8/4/2026 17:09:00"
+       },
+       {
+        "Price": "103.00",
+        "Quantity": "510000",
+        "Price1": "103",
+        "process_dttm": "8/4/2026 17:09:00"
+       },
+       {
+        "Price": "104.00",
+        "Quantity": "510000",
+        "Price1": "104",
+        "process_dttm": "8/4/2026 17:09:00"
+       },
+       {
+        "Price": "105.00",
+        "Quantity": "505200",
+        "Price1": "105",
+        "process_dttm": "8/4/2026 17:09:00"
+       }
+      ],
       "IPONO_4": [
        {
         "NOTICE_ID": "",
@@ -207,7 +269,7 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "1",
@@ -216,7 +278,7 @@
         "col4": "0",
         "col5": "0.0000",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "1(a)",
@@ -225,7 +287,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "1(b)",
@@ -234,7 +296,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "1(c)",
@@ -243,7 +305,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "1(D)",
@@ -252,34 +314,34 @@
         "col4": "",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "2",
         "col2": "Non Institutional Investors",
         "col3": "616800",
-        "col4": "0",
-        "col5": "0.0000",
+        "col4": "78000",
+        "col5": "0.1265",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "2(a)",
         "col2": "Corporates",
         "col3": "",
-        "col4": "",
+        "col4": "3600",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "2(b)",
         "col2": "Individuals (Other than RIIs)",
         "col3": "",
-        "col4": "",
+        "col4": "74400",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "2(c)",
@@ -288,16 +350,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "3",
         "col2": "Retail Individual Investors (RIIs)",
         "col3": "676800",
-        "col4": "0",
-        "col5": "0.0000",
+        "col4": "441600",
+        "col5": "0.6525",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "3(a)",
@@ -306,16 +368,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "3(b)",
         "col2": "Price Bids ",
         "col3": "",
-        "col4": "",
+        "col4": "441600",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "4",
@@ -324,7 +386,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "4(a)",
@@ -333,7 +395,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "4(b)",
@@ -342,7 +404,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "5",
@@ -351,7 +413,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "5(a)",
@@ -360,7 +422,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "5(b)",
@@ -369,16 +431,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "",
         "col2": "Total",
         "col3": "1686000",
-        "col4": "0",
-        "col5": "0.0000",
+        "col4": "519600",
+        "col5": "0.3082",
         "Scripname": "Aegeus Technologies Limited",
-        "Maxdt": ""
+        "Maxdt": "8/4/2026 17:00:00"
        }
       ]
      }
@@ -416,9 +478,9 @@
    ],
    "registrar": "Bigshare Services Private Limited",
    "subscription": {
-    "timesSubscribed": 4.42,
+    "timesSubscribed": 10.41,
     "sharesOffered": 4710000,
-    "sharesBid": 20806400,
+    "sharesBid": 49041600,
     "categories": {
      "qib": 0.0,
      "nii": 0.0
@@ -438,9 +500,9 @@
       "series": "SME",
       "status": "Active",
       "symbol": "ANAWIL",
-      "noOfsharesBid": "20806400",
+      "noOfsharesBid": "49041600",
       "noOfSharesOffered": "4710000",
-      "noOfTime": "4.42"
+      "noOfTime": "10.41"
      },
      "detail": {
       "companyName": "ANAWIL",
@@ -448,8 +510,8 @@
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
-        "noOfshareBid": "8868800",
-        "noofapplication": "3",
+        "noOfshareBid": "11147200",
+        "noofapplication": "8",
         "srNo": "1"
        },
        {
@@ -466,80 +528,80 @@
        },
        {
         "category": "Mutual funds",
-        "noOfshareBid": "0",
-        "noofapplication": "0",
+        "noOfshareBid": "2222400",
+        "noofapplication": "4",
         "srNo": "1(c)"
        },
        {
         "category": "Others",
-        "noOfshareBid": "8868800",
-        "noofapplication": "3",
+        "noOfshareBid": "8924800",
+        "noofapplication": "4",
         "srNo": "1(d)"
        },
        {
         "category": "Non Institutional Investors",
-        "noOfshareBid": "2625600",
-        "noofapplication": "1047",
+        "noOfshareBid": "9223200",
+        "noofapplication": "3673",
         "srNo": "2"
        },
        {
         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-        "noOfshareBid": "1568400",
-        "noofapplication": "294",
+        "noOfshareBid": "6036800",
+        "noofapplication": "1349",
         "srNo": "2.1"
        },
        {
         "category": "Corporates",
-        "noOfshareBid": "341200",
-        "noofapplication": "3",
+        "noOfshareBid": "526000",
+        "noofapplication": "49",
         "srNo": "2.1(a)"
        },
        {
         "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "1207200",
-        "noofapplication": "286",
+        "noOfshareBid": "5430000",
+        "noofapplication": "1287",
         "srNo": "2.1(b)"
        },
        {
         "category": "Others",
-        "noOfshareBid": "20000",
-        "noofapplication": "5",
+        "noOfshareBid": "80800",
+        "noofapplication": "13",
         "srNo": "2.1(c)"
        },
        {
         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-        "noOfshareBid": "1057200",
-        "noofapplication": "753",
+        "noOfshareBid": "3186400",
+        "noofapplication": "2324",
         "srNo": "2.2"
        },
        {
         "category": "Corporates",
-        "noOfshareBid": "3600",
-        "noofapplication": "3",
+        "noOfshareBid": "18400",
+        "noofapplication": "13",
         "srNo": "2.2(a)"
        },
        {
         "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "1052400",
-        "noofapplication": "749",
+        "noOfshareBid": "3157200",
+        "noofapplication": "2304",
         "srNo": "2.2(b)"
        },
        {
         "category": "Others",
-        "noOfshareBid": "1200",
-        "noofapplication": "1",
+        "noOfshareBid": "10800",
+        "noofapplication": "7",
         "srNo": "2.2(c)"
        },
        {
         "category": "Individual Investors (IND category bidding for 2 Lots)",
-        "noOfshareBid": "9312000",
-        "noofapplication": "11640",
+        "noOfshareBid": "28671200",
+        "noofapplication": "35839",
         "srNo": "3"
        },
        {
         "category": "Total",
-        "noOfshareBid": "20806400",
-        "noofapplication": "12690",
+        "noOfshareBid": "49041600",
+        "noofapplication": "39520",
         "srNo": null
        }
       ],
@@ -832,13 +894,13 @@
    ],
    "registrar": "Maashitla Securities Private Limited",
    "subscription": {
-    "timesSubscribed": 0.975,
+    "timesSubscribed": 1.465,
     "sharesOffered": null,
     "sharesBid": null,
     "categories": {
-     "qib": 0.6764,
-     "nii": 0.6655,
-     "retail": 1.3249
+     "qib": 1.0,
+     "nii": 1.3496,
+     "retail": 1.7965
     }
    },
    "urls": {
@@ -870,8 +932,8 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "8/3/2026 17:04:29",
-        "DT_TMC": "Monday, August 03 ,  2026  5:04:29 PM",
+        "DT_TM": "8/4/2026 18:58:58",
+        "DT_TMC": "Tuesday, August 04 ,  2026  6:58:58 PM",
         "ISBID_Detail": "1",
         "IPO_NO": "7853",
         "ScripCode": "4707",
@@ -973,65 +1035,89 @@
       "IPONO_2": [
        {
         "Price": "151.00",
-        "Quantity": "1714400",
+        "Quantity": "2576000",
         "Price1": "151",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 18:58:58"
+       },
+       {
+        "Price": "152.00",
+        "Quantity": "2571200",
+        "Price1": "152",
+        "process_dttm": "8/4/2026 18:58:58"
+       },
+       {
+        "Price": "155.00",
+        "Quantity": "2569600",
+        "Price1": "155",
+        "process_dttm": "8/4/2026 18:58:58"
        },
        {
         "Price": "156.00",
-        "Quantity": "1712800",
+        "Quantity": "2564000",
         "Price1": "156",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 18:58:58"
        },
        {
         "Price": "157.00",
-        "Quantity": "1709600",
+        "Quantity": "2560800",
         "Price1": "157",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 18:58:58"
        },
        {
         "Price": "158.00",
-        "Quantity": "1708000",
+        "Quantity": "2559200",
         "Price1": "158",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 18:58:58"
        },
        {
         "Price": "159.00",
-        "Quantity": "1706400",
+        "Quantity": "2556000",
         "Price1": "159",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 18:58:58"
        }
       ],
       "IPONO_3": [
        {
         "Price": "151.00",
-        "Quantity": "1714400",
+        "Quantity": "2576000",
         "Price1": "151",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 19:00:00"
+       },
+       {
+        "Price": "152.00",
+        "Quantity": "2571200",
+        "Price1": "152",
+        "process_dttm": "8/4/2026 19:00:00"
+       },
+       {
+        "Price": "155.00",
+        "Quantity": "2569600",
+        "Price1": "155",
+        "process_dttm": "8/4/2026 19:00:00"
        },
        {
         "Price": "156.00",
-        "Quantity": "1712800",
+        "Quantity": "2564000",
         "Price1": "156",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 19:00:00"
        },
        {
         "Price": "157.00",
-        "Quantity": "1709600",
+        "Quantity": "2560800",
         "Price1": "157",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 19:00:00"
        },
        {
         "Price": "158.00",
-        "Quantity": "1708000",
+        "Quantity": "2559200",
         "Price1": "158",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 19:00:00"
        },
        {
         "Price": "159.00",
-        "Quantity": "1706400",
+        "Quantity": "2556000",
         "Price1": "159",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 19:00:00"
        }
       ],
       "IPONO_4": [
@@ -1054,25 +1140,25 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "1",
         "col2": "Qualified Institutional Buyers (QIBs)",
         "col3": "464800",
-        "col4": "314400",
-        "col5": "0.6764",
+        "col4": "464800",
+        "col5": "1.0000",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "1(a)",
         "col2": "Foreign Institutional Investors (FIIs)",
         "col3": "",
-        "col4": "220000",
+        "col4": "370400",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "1(b)",
@@ -1081,7 +1167,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "1(c)",
@@ -1090,7 +1176,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "1(D)",
@@ -1099,34 +1185,34 @@
         "col4": "94400",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "2",
         "col2": "Non Institutional Investors",
         "col3": "476000",
-        "col4": "316800",
-        "col5": "0.6655",
+        "col4": "642400",
+        "col5": "1.3496",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "2(a)",
         "col2": "Corporates",
         "col3": "",
-        "col4": "123200",
+        "col4": "129600",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "2(b)",
         "col2": "Individuals (Other than RIIs)",
         "col3": "",
-        "col4": "193600",
+        "col4": "512800",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "2(c)",
@@ -1135,16 +1221,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "3",
         "col2": "Retail Individual Investors (RIIs)",
         "col3": "817600",
-        "col4": "1083200",
-        "col5": "1.3249",
+        "col4": "1468800",
+        "col5": "1.7965",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "3(a)",
@@ -1153,16 +1239,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "3(b)",
         "col2": "Price Bids ",
         "col3": "",
-        "col4": "1083200",
+        "col4": "1468800",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "4",
@@ -1171,7 +1257,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "4(a)",
@@ -1180,7 +1266,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "4(b)",
@@ -1189,7 +1275,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "5",
@@ -1198,7 +1284,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "5(a)",
@@ -1207,7 +1293,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "5(b)",
@@ -1216,16 +1302,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        },
        {
         "SRNo": "",
         "col2": "Total",
         "col3": "1758400",
-        "col4": "1714400",
-        "col5": "0.9750",
+        "col4": "2576000",
+        "col5": "1.4650",
         "Scripname": "Fusion Klassroom Edutech Limited",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 18:58:18"
        }
       ]
      }
@@ -1244,7 +1330,7 @@
    "status": "open",
    "issueType": "Equity",
    "issueStartDate": "2026-07-31",
-   "issueEndDate": "2026-08-04",
+   "issueEndDate": "2026-08-07",
    "listingDate": null,
    "priceBand": {
     "min": 123.0,
@@ -1263,13 +1349,13 @@
    ],
    "registrar": "Mudra RTA Ventures Private Limited",
    "subscription": {
-    "timesSubscribed": 19.6274,
+    "timesSubscribed": 129.4822,
     "sharesOffered": null,
     "sharesBid": null,
     "categories": {
-     "qib": 3.522,
-     "nii": 18.8699,
-     "retail": 29.3269
+     "qib": 66.4189,
+     "nii": 150.3247,
+     "retail": 150.75
     }
    },
    "urls": {
@@ -1284,7 +1370,7 @@
       "Scrip_Name": "G V Electricals Ltd",
       "short_name": null,
       "Start_Dt": "2026-07-31T00:00:00",
-      "End_Dt": "2026-08-04T00:00:00",
+      "End_Dt": "2026-08-07T00:00:00",
       "Price_Band": "123.00 - 130.00",
       "Face_Val": 10.0,
       "IR_flag": "IPO",
@@ -1301,15 +1387,15 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "8/3/2026 17:04:29",
-        "DT_TMC": "Monday, August 03 ,  2026  5:04:29 PM",
+        "DT_TM": "8/4/2026 17:00:00",
+        "DT_TMC": "Tuesday, August 04 ,  2026  5:00:00 PM",
         "ISBID_Detail": "1",
         "IPO_NO": "7859",
         "ScripCode": "4714",
         "ScripName": "G V Electricals Ltd",
         "Security_Type": "Equity",
         "Symbol": "GVELECTRIC",
-        "Issue_Period": "31 Jul 2026 to 04 Aug 2026",
+        "Issue_Period": "31 Jul 2026 to 07 Aug 2026|Issue has extended from 04th August 2026 to 07th August 2026.",
         "IPO_Market_Timings": "",
         "Post_Issue_Modification": "",
         "DY1": "",
@@ -1342,7 +1428,7 @@
         "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
         "DY4": "",
         "Public_Notices": "",
-        "Notes": "",
+        "Notes": "Withdrawal is allowed for all bidding categories .",
         "Remarks": "",
         "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
         "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
@@ -1357,7 +1443,7 @@
         "IPO_NO": "7859",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 10:05:09",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
         "DYN_ORDER": "1"
        },
        {
@@ -1365,7 +1451,7 @@
         "IPO_NO": "7859",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 10:05:09",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
         "DYN_ORDER": "2"
        },
        {
@@ -1373,7 +1459,7 @@
         "IPO_NO": "7859",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 10:05:09",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
         "DYN_ORDER": "3"
        },
        {
@@ -1381,7 +1467,7 @@
         "IPO_NO": "7859",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 10:05:09",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
         "DYN_ORDER": "4"
        },
        {
@@ -1389,7 +1475,7 @@
         "IPO_NO": "7859",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 10:05:09",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
         "DYN_ORDER": "5"
        },
        {
@@ -1397,108 +1483,108 @@
         "IPO_NO": "7859",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 10:05:09",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
         "DYN_ORDER": "6"
        }
       ],
       "IPONO_2": [
        {
         "Price": "123.00",
-        "Quantity": "46360000",
+        "Quantity": "305837000",
         "Price1": "123",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 17:07:54"
        },
        {
         "Price": "124.00",
-        "Quantity": "46246000",
+        "Quantity": "305477000",
         "Price1": "124",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 17:07:54"
        },
        {
         "Price": "125.00",
-        "Quantity": "46231000",
+        "Quantity": "305426000",
         "Price1": "125",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 17:07:54"
        },
        {
         "Price": "126.00",
-        "Quantity": "46187000",
+        "Quantity": "305304000",
         "Price1": "126",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 17:07:54"
        },
        {
         "Price": "127.00",
-        "Quantity": "46179000",
+        "Quantity": "305284000",
         "Price1": "127",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 17:07:54"
        },
        {
         "Price": "128.00",
-        "Quantity": "46175000",
+        "Quantity": "305245000",
         "Price1": "128",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 17:07:54"
        },
        {
         "Price": "129.00",
-        "Quantity": "46156000",
+        "Quantity": "305187000",
         "Price1": "129",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 17:07:54"
        },
        {
         "Price": "130.00",
-        "Quantity": "46106000",
+        "Quantity": "305053000",
         "Price1": "130",
-        "process_dttm": "8/3/2026 17:04:29"
+        "process_dttm": "8/4/2026 17:07:54"
        }
       ],
       "IPONO_3": [
        {
         "Price": "123.00",
-        "Quantity": "46360000",
+        "Quantity": "305837000",
         "Price1": "123",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 17:09:00"
        },
        {
         "Price": "124.00",
-        "Quantity": "46246000",
+        "Quantity": "305477000",
         "Price1": "124",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 17:09:00"
        },
        {
         "Price": "125.00",
-        "Quantity": "46231000",
+        "Quantity": "305426000",
         "Price1": "125",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 17:09:00"
        },
        {
         "Price": "126.00",
-        "Quantity": "46187000",
+        "Quantity": "305304000",
         "Price1": "126",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 17:09:00"
        },
        {
         "Price": "127.00",
-        "Quantity": "46179000",
+        "Quantity": "305284000",
         "Price1": "127",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 17:09:00"
        },
        {
         "Price": "128.00",
-        "Quantity": "46175000",
+        "Quantity": "305245000",
         "Price1": "128",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 17:09:00"
        },
        {
         "Price": "129.00",
-        "Quantity": "46156000",
+        "Quantity": "305187000",
         "Price1": "129",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 17:09:00"
        },
        {
         "Price": "130.00",
-        "Quantity": "46106000",
+        "Quantity": "305053000",
         "Price1": "130",
-        "process_dttm": "8/3/2026 19:00:00"
+        "process_dttm": "8/4/2026 17:09:00"
        }
       ],
       "IPONO_4": [
@@ -1521,97 +1607,97 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "1",
         "col2": "Qualified Institutional Buyers (QIBs)",
         "col3": "592000",
-        "col4": "2085000",
-        "col5": "3.5220",
+        "col4": "39320000",
+        "col5": "66.4189",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "1(a)",
         "col2": "Foreign Institutional Investors (FIIs)",
         "col3": "",
-        "col4": "",
+        "col4": "6437000",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "1(b)",
         "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
         "col3": "",
-        "col4": "",
+        "col4": "4163000",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "1(c)",
         "col2": "Mutual Funds",
         "col3": "",
-        "col4": "",
+        "col4": "384000",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "1(D)",
         "col2": "Others",
         "col3": "",
-        "col4": "2085000",
+        "col4": "28336000",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "2",
         "col2": "Non Institutional Investors",
         "col3": "730000",
-        "col4": "13775000",
-        "col5": "18.8699",
+        "col4": "109737000",
+        "col5": "150.3247",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "2(a)",
         "col2": "Corporates",
         "col3": "",
-        "col4": "126000",
+        "col4": "1455000",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "2(b)",
         "col2": "Individuals (Other than RIIs)",
         "col3": "",
-        "col4": "13518000",
+        "col4": "105693000",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "2(c)",
         "col2": "Others",
         "col3": "",
-        "col4": "131000",
+        "col4": "2589000",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "3",
         "col2": "Retail Individual Investors (RIIs)",
         "col3": "1040000",
-        "col4": "30500000",
-        "col5": "29.3269",
+        "col4": "156780000",
+        "col5": "150.7500",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "3(a)",
@@ -1620,16 +1706,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "3(b)",
         "col2": "Price Bids ",
         "col3": "",
-        "col4": "30500000",
+        "col4": "156780000",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "4",
@@ -1638,7 +1724,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "4(a)",
@@ -1647,7 +1733,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "4(b)",
@@ -1656,7 +1742,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "5",
@@ -1665,7 +1751,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "5(a)",
@@ -1674,7 +1760,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "5(b)",
@@ -1683,16 +1769,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        },
        {
         "SRNo": "",
         "col2": "Total",
         "col3": "2362000",
-        "col4": "46360000",
-        "col5": "19.6274",
+        "col4": "305837000",
+        "col5": "129.4822",
         "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/3/2026 17:00:00"
+        "Maxdt": "8/4/2026 17:00:00"
        }
       ]
      }
@@ -2062,7 +2148,7 @@
    "bseScripCode": "4716",
    "series": "EQ",
    "status": "upcoming",
-   "issueType": "Book Building",
+   "issueType": "100% Book Building",
    "issueStartDate": "2026-08-05",
    "issueEndDate": "2026-08-07",
    "listingDate": null,
@@ -2075,7 +2161,7 @@
    "faceValue": 2.0,
    "lotSize": 281,
    "issueSize": {
-    "shares": 83974436,
+    "shares": 58422516,
     "amount": null
    },
    "leadManagers": [
@@ -2098,7 +2184,7 @@
       "companyName": "Ardee Industries Limited",
       "issueEndDate": "07-Aug-2026",
       "issuePrice": "Rs.50 to Rs.53",
-      "issueSize": "83974436",
+      "issueSize": "58422516",
       "issueStartDate": "05-Aug-2026",
       "series": "EQ",
       "status": "Forthcoming",
@@ -2136,15 +2222,15 @@
         },
         {
          "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"07-Aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+         "value": "\"07-aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
         },
         {
          "title": "Issue Size",
-         "value": "\"Initial Public offer comprising Fresh issue of aggregating up to Rs. 3200 million and offer for sale of up to Rs.1,99,75,000\""
+         "value": "\"Initial Public offer comprising Fresh issue of aggregating up to Rs. 3200 million and offer for sale of up to Rs.1,99,75,000 (including Anchor Investor portion of 2,41,05,584 Equity Shares)\""
         },
         {
          "title": "Issue Type",
-         "value": "Book Building"
+         "value": "100% Book Building"
         },
         {
          "title": "Price Range",
@@ -2169,6 +2255,14 @@
         {
          "title": "Maximum Subscription Amount for Retail Investor",
          "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"5,84,22,429 Equity Shares in multiple of 281 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"4,19,87,020 Equity Shares in multiple of 281 Equity Shares (Calculated at Lower Price band)\""
         },
         {
          "title": "IPO Market Timings",
@@ -2196,7 +2290,7 @@
         },
         {
          "title": "Address of the Registrar",
-         "value": "\"Selenium, Tower B, Plot No. 31 and 32, Gachibowli, Financial District, Nanakramguda, Serilingampally, Hyderabad 500 032, Telangana, India  \""
+         "value": "\"Selenium, Tower B, Plot No. 31 and 32, Gachibowli, Financial District, Nanakramguda, Serilingampally, Hyderabad 500 032, Telangana, India\""
         },
         {
          "title": "Contact person name number and Email id",
@@ -2229,6 +2323,14 @@
         {
          "title": "Security Parameters (Pre Anchor)",
          "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_ARDEE.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_ARDEE.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_ARDEE.zip"
         },
         {
          "title": "Processing of ASBA Applications",
@@ -2312,14 +2414,14 @@
         "Post_Issue_Modification": "",
         "DY1": "",
         "Cut_off_time_for_UPI_Mandate_Confirmation": "",
-        "Issue_Size_No_of_shares": "83974436",
+        "Issue_Size_No_of_shares": "58422516",
         "Price_Band": "50.00-53.00",
         "Price_Band_Advertisement": "https://listing.bseindia.com/Download/8888888/PreAnchor/BS_20260730130850.zip",
         "Face_Value": "2.00",
         "Tick_Size": "1.00",
         "Market_Lot": "281",
         "Minimum_Bid_Quantity": "281",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "83974321",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "58422429",
         "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "41987020",
         "Rating": "",
         "DY2": "",
@@ -2355,7 +2457,7 @@
         "IPO_NO": "7862",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "7/31/2026 08:56:16",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
         "DYN_ORDER": "1"
        },
        {
@@ -2363,7 +2465,7 @@
         "IPO_NO": "7862",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "7/31/2026 08:56:16",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
         "DYN_ORDER": "2"
        },
        {
@@ -2371,7 +2473,7 @@
         "IPO_NO": "7862",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "7/31/2026 08:56:16",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
         "DYN_ORDER": "3"
        },
        {
@@ -2379,7 +2481,7 @@
         "IPO_NO": "7862",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "7/31/2026 08:56:16",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
         "DYN_ORDER": "4"
        },
        {
@@ -2387,7 +2489,7 @@
         "IPO_NO": "7862",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "7/31/2026 08:56:16",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
         "DYN_ORDER": "5"
        },
        {
@@ -2395,13 +2497,21 @@
         "IPO_NO": "7862",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "7/31/2026 08:56:16",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
         "DYN_ORDER": "6"
        }
       ],
       "IPONO_2": [],
       "IPONO_3": [],
-      "IPONO_4": [],
+      "IPONO_4": [
+       {
+        "NOTICE_ID": "",
+        "NOTICE_DATE": "8/4/2026 18:01:35",
+        "NOTICE_NO": "20260804-24",
+        "SUBJECT": "Public Issue of ARDEE INDUSTRIES LIMITED - Allocation to\r\nAnchor Investors",
+        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260804-24/20260804-24.pdf"
+       }
+      ],
       "status": "success"
      },
      "subscription": {
@@ -2418,9 +2528,9 @@
        {
         "SRNo": "1",
         "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "",
+        "col3": "16435297",
         "col4": "0",
-        "col5": "",
+        "col5": "0.0000",
         "Scripname": "Ardee Industries Limited",
         "Maxdt": ""
        },
@@ -2463,18 +2573,18 @@
        {
         "SRNo": "2",
         "col2": "Non Institutional Investors (NIIs)",
-        "col3": "0",
+        "col3": "12596166",
         "col4": "0",
-        "col5": "",
+        "col5": "0.0000",
         "Scripname": "Ardee Industries Limited",
         "Maxdt": ""
        },
        {
         "SRNo": "2.1",
         "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
-        "col3": "",
+        "col3": "8397444",
         "col4": "0",
-        "col5": "",
+        "col5": "0.0000",
         "Scripname": "Ardee Industries Limited",
         "Maxdt": ""
        },
@@ -2508,9 +2618,9 @@
        {
         "SRNo": "2.2",
         "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
-        "col3": "",
+        "col3": "4198722",
         "col4": "0",
-        "col5": "",
+        "col5": "0.0000",
         "Scripname": "Ardee Industries Limited",
         "Maxdt": ""
        },
@@ -2544,9 +2654,9 @@
        {
         "SRNo": "3",
         "col2": "Retail Individual Investors (RIIs)",
-        "col3": "",
+        "col3": "29391053",
         "col4": "0",
-        "col5": "",
+        "col5": "0.0000",
         "Scripname": "Ardee Industries Limited",
         "Maxdt": ""
        },
@@ -2625,9 +2735,9 @@
        {
         "SRNo": "",
         "col2": "Total",
-        "col3": "0",
+        "col3": "58422516",
         "col4": "0",
-        "col5": "",
+        "col5": "0.0000",
         "Scripname": "Ardee Industries Limited",
         "Maxdt": ""
        }
@@ -2659,7 +2769,7 @@
    "faceValue": 10.0,
    "lotSize": 66,
    "issueSize": {
-    "shares": 58916709,
+    "shares": 23973333,
     "amount": null
    },
    "leadManagers": [
@@ -2682,19 +2792,21 @@
     }
    },
    "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=JNPR&series=EQ&type=Upcoming",
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=JNPR&series=EQ&type=Past",
     "bse": null
    },
    "raw": {
     "nse": {
      "list": {
-      "companyName": "Juniper Green Energy Limited",
-      "issueEndDate": "03-Aug-2026",
-      "issuePrice": "Rs.214 to Rs.225",
-      "issueSize": "58916709",
-      "issueStartDate": "30-Jul-2026",
-      "series": "EQ",
-      "status": "Closed",
+      "company": "Juniper Green Energy Limited",
+      "htmSym": "jnpr",
+      "ipoEndDate": "03-AUG-2026",
+      "ipoStartDate": "30-JUL-2026",
+      "issuePrice": "-",
+      "linkRemovalDate": "04-AUG-2026",
+      "listingDate": "-",
+      "priceRange": "Rs.214 to Rs.225",
+      "securityType": "EQ",
       "symbol": "JNPR"
      },
      "detail": {
@@ -3199,7 +3311,7 @@
    "faceValue": 5.0,
    "lotSize": 34,
    "issueSize": {
-    "shares": 3987491,
+    "shares": 3070587,
     "amount": null
    },
    "leadManagers": [
@@ -3217,19 +3329,21 @@
     }
    },
    "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=MVELECTRO&series=EQ&type=Upcoming",
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=MVELECTRO&series=EQ&type=Past",
     "bse": null
    },
    "raw": {
     "nse": {
      "list": {
-      "companyName": "MV Electrosystems Limited",
-      "issueEndDate": "03-Aug-2026",
-      "issuePrice": "Rs.400 to Rs.425",
-      "issueSize": "3987491",
-      "issueStartDate": "30-Jul-2026",
-      "series": "EQ",
-      "status": "Closed",
+      "company": "MV Electrosystems Limited",
+      "htmSym": "mvelectro",
+      "ipoEndDate": "03-AUG-2026",
+      "ipoStartDate": "30-JUL-2026",
+      "issuePrice": "-",
+      "linkRemovalDate": "04-AUG-2026",
+      "listingDate": "-",
+      "priceRange": "Rs.400 to Rs.425",
+      "securityType": "EQ",
       "symbol": "MVELECTRO"
      },
      "detail": {
@@ -5198,8 +5312,8 @@
       "ListedOn": "2026-07-30T00:00:00",
       "ListingDayClose": 741.8,
       "ListingDayGain": 256.8,
-      "CurrentPrice": 769.1,
-      "GainLoss": 284.1,
+      "CurrentPrice": 769.55,
+      "GainLoss": 284.55,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/indo-mim-ltd/indomim/544837/"
      }
@@ -5772,8 +5886,8 @@
       "ListedOn": "2026-07-30T00:00:00",
       "ListingDayClose": 494.65,
       "ListingDayGain": 69.65,
-      "CurrentPrice": 525.3,
-      "GainLoss": 100.3,
+      "CurrentPrice": 519.75,
+      "GainLoss": 94.75,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/lohia-corp-ltd/lcl/544839/"
      }
@@ -6294,8 +6408,8 @@
       "ListedOn": "2026-07-30T00:00:00",
       "ListingDayClose": 124.8,
       "ListingDayGain": -2.2,
-      "CurrentPrice": 123.5,
-      "GainLoss": -3.5,
+      "CurrentPrice": 128.0,
+      "GainLoss": 1.0,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/xtranet-technologies-ltd/xtranet/544838/"
      }
@@ -7648,8 +7762,8 @@
       "ListedOn": "2026-07-24T00:00:00",
       "ListingDayClose": 528.5,
       "ListingDayGain": 104.5,
-      "CurrentPrice": 568.5,
-      "GainLoss": 144.5,
+      "CurrentPrice": 566.1,
+      "GainLoss": 142.1,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/caliber-mining-and-logistics-ltd/cmll/544833/"
      }
@@ -8155,8 +8269,8 @@
       "ListedOn": "2026-07-21T00:00:00",
       "ListingDayClose": 99.75,
       "ListingDayGain": -5.25,
-      "CurrentPrice": 71.14,
-      "GainLoss": -33.86,
+      "CurrentPrice": 68.0,
+      "GainLoss": -37.0,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/alpine-texworld-ltd/alpinetex/544825/"
      }
@@ -8784,8 +8898,8 @@
       "ListedOn": "2026-07-21T00:00:00",
       "ListingDayClose": 609.9,
       "ListingDayGain": 35.9,
-      "CurrentPrice": 587.95,
-      "GainLoss": 13.95,
+      "CurrentPrice": 570.75,
+      "GainLoss": -3.25,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/sbi-funds-management-ltd/sbifunds/544829/"
      }
@@ -9744,8 +9858,8 @@
       "ListedOn": "2026-07-16T00:00:00",
       "ListingDayClose": 262.85,
       "ListingDayGain": 48.85,
-      "CurrentPrice": 295.7,
-      "GainLoss": 81.7,
+      "CurrentPrice": 288.15,
+      "GainLoss": 74.15,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/"
      }
@@ -10319,8 +10433,8 @@
       "ListedOn": "2026-07-15T00:00:00",
       "ListingDayClose": 604.45,
       "ListingDayGain": 185.45,
-      "CurrentPrice": 615.85,
-      "GainLoss": 196.85,
+      "CurrentPrice": 621.5,
+      "GainLoss": 202.5,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/kusumgar-ltd/kusumgar/544821/"
      }
@@ -11331,8 +11445,8 @@
       "ListedOn": "2026-07-08T00:00:00",
       "ListingDayClose": 182.7,
       "ListingDayGain": 12.7,
-      "CurrentPrice": 197.0,
-      "GainLoss": 27.0,
+      "CurrentPrice": 198.9,
+      "GainLoss": 28.9,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/knack-packaging-ltd/knack/544814/"
      }
@@ -12625,8 +12739,8 @@
       "ListedOn": "2026-07-06T00:00:00",
       "ListingDayClose": 136.45,
       "ListingDayGain": 0.45,
-      "CurrentPrice": 76.13,
-      "GainLoss": -59.87,
+      "CurrentPrice": 83.74,
+      "GainLoss": -52.26,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/aastha-spintex-ltd/aastha/544808/"
      }
@@ -13414,8 +13528,8 @@
       "ListedOn": "2026-07-02T00:00:00",
       "ListingDayClose": 107.35,
       "ListingDayGain": -5.65,
-      "CurrentPrice": 104.65,
-      "GainLoss": -8.35,
+      "CurrentPrice": 100.2,
+      "GainLoss": -12.8,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/csm-technologies-ltd/csm/544806/"
      }
@@ -14351,8 +14465,8 @@
       "ListedOn": "2026-07-01T00:00:00",
       "ListingDayClose": 178.15,
       "ListingDayGain": 40.15,
-      "CurrentPrice": 183.5,
-      "GainLoss": 45.5,
+      "CurrentPrice": 186.05,
+      "GainLoss": 48.05,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/advit-jewels-ltd/rambhajo/544803/"
      }
@@ -15309,8 +15423,8 @@
       "ListedOn": "2026-07-01T00:00:00",
       "ListingDayClose": 667.35,
       "ListingDayGain": -140.65,
-      "CurrentPrice": 812.05,
-      "GainLoss": 4.05,
+      "CurrentPrice": 819.2,
+      "GainLoss": 11.2,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/waterways-leisure-tourism-ltd/cordelia/544802/"
      }
@@ -15831,8 +15945,8 @@
       "ListedOn": "2026-06-29T00:00:00",
       "ListingDayClose": 135.4,
       "ListingDayGain": -16.6,
-      "CurrentPrice": 117.6,
-      "GainLoss": -34.4,
+      "CurrentPrice": 114.7,
+      "GainLoss": -37.3,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/turtlemint-fintech-solutions-ltd/turtlemint/544799/"
      }
@@ -18042,8 +18156,8 @@
       "ListedOn": "2026-06-12T00:00:00",
       "ListingDayClose": 50.39,
       "ListingDayGain": 5.39,
-      "CurrentPrice": 66.22,
-      "GainLoss": 21.22,
+      "CurrentPrice": 67.81,
+      "GainLoss": 22.81,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/hexagon-nutrition-ltd/hexagon/544785/"
      }
@@ -18616,8 +18730,8 @@
       "ListedOn": "2026-06-10T00:00:00",
       "ListingDayClose": 247.9,
       "ListingDayGain": 55.9,
-      "CurrentPrice": 222.2,
-      "GainLoss": 30.2,
+      "CurrentPrice": 228.8,
+      "GainLoss": 36.8,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/cmr-green-technologies-ltd/cmrgreen/544777/"
      }
@@ -20392,8 +20506,8 @@
       "ListedOn": "2026-05-08T00:00:00",
       "ListingDayClose": 208.4,
       "ListingDayGain": 37.4,
-      "CurrentPrice": 313.75,
-      "GainLoss": 142.75,
+      "CurrentPrice": 307.8,
+      "GainLoss": 136.8,
       "Time": "2026-12-31T00:00:00",
       "IMAGE": "https://www.bseindia.com/stock-share-price/onemi-technology-solutions-ltd/kissht/544754/"
      }
