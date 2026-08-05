@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04T17:17:59Z",
+ "generatedAt": "2026-08-05T00:58:34Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -12,10 +12,624 @@
  },
  "counts": {
   "open": 4,
-  "upcoming": 2,
-  "closed": 42
+  "upcoming": 1,
+  "closed": 43
  },
  "ipos": [
+  {
+   "id": "ardee-industries",
+   "companyName": "Ardee Industries Limited",
+   "exchanges": [
+    "NSE",
+    "BSE"
+   ],
+   "symbol": "ARDEE",
+   "bseScripCode": "4716",
+   "series": "EQ",
+   "status": "open",
+   "issueType": "100% Book Building",
+   "issueStartDate": "2026-08-05",
+   "issueEndDate": "2026-08-07",
+   "listingDate": null,
+   "priceBand": {
+    "min": 50.0,
+    "max": 53.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 2.0,
+   "lotSize": 281,
+   "issueSize": {
+    "shares": 24105584,
+    "amount": null
+   },
+   "leadManagers": [
+    "Pantomath Capital Advisors Private Limited"
+   ],
+   "registrar": "Kfin Technologies Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 0,
+    "sharesBid": 0,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=ARDEE&series=EQ&type=Active",
+    "bse": "https://www.bseindia.com/publicissue"
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Ardee Industries Limited",
+      "issueEndDate": "07-Aug-2026",
+      "issuePrice": "Rs.50 to Rs.53",
+      "issueSize": "58422516",
+      "issueStartDate": "05-Aug-2026",
+      "series": "EQ",
+      "status": "Active",
+      "symbol": "ARDEE",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
+     },
+     "detail": {
+      "companyName": "ARDEE",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfSharesOffered": "0.0",
+        "noOfTime": "0.00",
+        "noOfsharesBid": "0.0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "Ardee Industries Limited",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "ARDEE"
+        },
+        {
+         "title": "Issue Period",
+         "value": "05-Aug-2026 to 07-Aug-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"07-aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public offer comprising Fresh issue of aggregating up to Rs. 3200 million and offer for sale of up to Rs.1,99,75,000 (including Anchor Investor portion of 2,41,05,584 Equity Shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "100% Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 50/- per equity share to Rs. 53/- equity share"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs.2 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re.1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "Minimum 281 Equity shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "Minimum 281 Equity Shares"
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"5,84,22,429 Equity Shares in multiple of 281 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"4,19,87,020 Equity Shares in multiple of 281 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "Pantomath Capital Advisors Private Limited"
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "ICICI Bank Limited and AXIS Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND and NOH\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "Kfin Technologies Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"Selenium, Tower B, Plot No. 31 and 32, Gachibowli, Financial District, Nanakramguda, Serilingampally, Hyderabad 500 032, Telangana, India\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\" M. Murali Krishna, +91 40 6716 2222/1800 309 4001, ardeeindustries.ipo@kfintech.com \""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_ARDEE.zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_ARDEE.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_ARDEE.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_ARDEE.zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_ARDEE.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_ARDEE.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_ARDEE.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "ARDEE"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {
+     "list": {
+      "Scrip_cd": 4716,
+      "Scrip_Name": "Ardee Industries Limited",
+      "short_name": null,
+      "Start_Dt": "2026-08-05T00:00:00",
+      "End_Dt": "2026-08-07T00:00:00",
+      "Price_Band": "50.00 - 53.00",
+      "Face_Val": 2.0,
+      "IR_flag": "IPO",
+      "IR_FLAG_FULL": "IPO",
+      "Status": "F",
+      "eXCHANGE_PLATFORM": "MainBoard",
+      "FLAG": 7,
+      "IPO_NO": 7862,
+      "Is_retailertype": 1,
+      "Cum_Shares_BuyBack": null,
+      "RN": 1,
+      "LONG_NAME": null
+     },
+     "detail": {
+      "IPONO_0": [
+       {
+        "DT_TM": "",
+        "DT_TMC": "",
+        "ISBID_Detail": "1",
+        "IPO_NO": "7862",
+        "ScripCode": "4716",
+        "ScripName": "Ardee Industries Limited",
+        "Security_Type": "Equity",
+        "Symbol": "ARDEE",
+        "Issue_Period": "05 Aug 2026 to 07 Aug 2026",
+        "IPO_Market_Timings": "",
+        "Post_Issue_Modification": "",
+        "DY1": "",
+        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
+        "Issue_Size_No_of_shares": "58422516",
+        "Price_Band": "50.00-53.00",
+        "Price_Band_Advertisement": "https://listing.bseindia.com/Download/8888888/PreAnchor/BS_20260730130850.zip",
+        "Face_Value": "2.00",
+        "Tick_Size": "1.00",
+        "Market_Lot": "281",
+        "Minimum_Bid_Quantity": "281",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "58422429",
+        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "41987020",
+        "Rating": "",
+        "DY2": "",
+        "Book_Running_Lead_Manager": "Pantomath Capital Advisors Private Limited^Pantomath Nucleus House, Saki-Vihar Road, Andheri (East), Mumbai – 400 072, Maharashtra, India||||||||ardeeindustries.ipo@pantomathgroup.com|Ashish Baid / Ritu Agarwal",
+        "Co_Book_Running_Lead_Manager": "",
+        "Syndicate_Member": "",
+        "Eligible_Banks": "",
+        "Registrar": "KFin Technologies Limited^Selenium, Tower B, Plot No. 31 & 32, Financial District, Nanakramguda, Serilingampally, Hyderabad 500 032 Telangana, India||||||||ardeeindustries.ipo@kfintech.com",
+        "Sponsor_Bank": "ICICI BANK^Capital Markets Division, 163, 5th Floor, H. T. Parekh Marg, Backbay Reclamation, Churchgate, Mumbai 400 020||||||||ipocmg@icicibank.com|Varun Badai#AXIS BANK^MWBC Delhi, 3rd Floor,Plot No. 25, Pusa Road, New Delhi – 110 005||||||||CBBNewDelhi.Operationshead@axis.bank.in|Supriya Gopi",
+        "DY3": "",
+        "Prospectus_GID": "https://listing.bseindia.com/Download/8888888/PreAnchor/RHP_20260730171729.pdf",
+        "Addendum": "",
+        "Corrigendum": "",
+        "Anchor_Details": "",
+        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4716",
+        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4716",
+        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4716",
+        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
+        "DY4": "",
+        "Public_Notices": "",
+        "Notes": "",
+        "Remarks": "",
+        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
+        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
+        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
+        "DY5": "",
+        "DY6": ""
+       }
+      ],
+      "IPONO_1": [
+       {
+        "NEW_ID": "e170ba34-d35a-4d38-a740-c5c2e55241fa",
+        "IPO_NO": "7862",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
+        "DYN_ORDER": "1"
+       },
+       {
+        "NEW_ID": "714d0b2c-86d4-479e-8ec0-6f1267ab7531",
+        "IPO_NO": "7862",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
+        "DYN_ORDER": "2"
+       },
+       {
+        "NEW_ID": "ddaffbe0-754e-481e-addc-3469b9451a16",
+        "IPO_NO": "7862",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
+        "DYN_ORDER": "3"
+       },
+       {
+        "NEW_ID": "c105c13b-1725-43f5-a9bd-e4f2e8fc26ab",
+        "IPO_NO": "7862",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
+        "DYN_ORDER": "4"
+       },
+       {
+        "NEW_ID": "69f96426-f828-46a0-b0f9-0a7d8c34a338",
+        "IPO_NO": "7862",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
+        "DYN_ORDER": "5"
+       },
+       {
+        "NEW_ID": "1d43feee-b0c4-435f-a007-cc9424ffd096",
+        "IPO_NO": "7862",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 22:06:29",
+        "DYN_ORDER": "6"
+       }
+      ],
+      "IPONO_2": [],
+      "IPONO_3": [],
+      "IPONO_4": [
+       {
+        "NOTICE_ID": "",
+        "NOTICE_DATE": "8/4/2026 18:01:35",
+        "NOTICE_NO": "20260804-24",
+        "SUBJECT": "Public Issue of ARDEE INDUSTRIES LIMITED - Allocation to\r\nAnchor Investors",
+        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260804-24/20260804-24.pdf"
+       }
+      ],
+      "status": "success"
+     },
+     "subscription": {
+      "table2": [
+       {
+        "SRNo": "Sr.No.",
+        "col2": "Category",
+        "col3": "No.of shares offered/reserved",
+        "col4": "No. of shares bid for",
+        "col5": "No. of times of total meant for the category",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1",
+        "col2": "Qualified Institutional Buyers (QIBs)",
+        "col3": "16435297",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(a)",
+        "col2": "Foreign Institutional Investors (FIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(b)",
+        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(c)",
+        "col2": "Mutual Funds",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(d)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2",
+        "col2": "Non Institutional Investors (NIIs)",
+        "col3": "12596166",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1",
+        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
+        "col3": "8397444",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2",
+        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
+        "col3": "4198722",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3",
+        "col2": "Retail Individual Investors (RIIs)",
+        "col3": "29391053",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(a)",
+        "col2": "Cut Off",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(b)",
+        "col2": "Price Bids ",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4",
+        "col2": "Employee Reserved",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(a)",
+        "col2": "Employee (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(b)",
+        "col2": "Employee (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5",
+        "col2": "Reservation PortionShareholder",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(a)",
+        "col2": "RPS (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(b)",
+        "col2": "RPS (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "",
+        "col2": "Total",
+        "col3": "58422516",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Ardee Industries Limited",
+        "Maxdt": ""
+       }
+      ]
+     }
+    }
+   }
+  },
   {
    "id": "aegeus-technologies",
    "companyName": "Aegeus Technologies Limited",
@@ -864,6 +1478,825 @@
    }
   },
   {
+   "id": "g-v-electricals",
+   "companyName": "G V Electricals Ltd",
+   "exchanges": [
+    "BSE"
+   ],
+   "symbol": "GVELECTRIC",
+   "bseScripCode": "4714",
+   "series": "SME",
+   "status": "open",
+   "issueType": "Equity",
+   "issueStartDate": "2026-07-31",
+   "issueEndDate": "2026-08-07",
+   "listingDate": null,
+   "priceBand": {
+    "min": 123.0,
+    "max": 130.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 10.0,
+   "lotSize": 1000,
+   "issueSize": {
+    "shares": 2362000,
+    "amount": null
+   },
+   "leadManagers": [
+    "Seren Capital Private Limited"
+   ],
+   "registrar": "Mudra RTA Ventures Private Limited",
+   "subscription": {
+    "timesSubscribed": 129.4822,
+    "sharesOffered": null,
+    "sharesBid": null,
+    "categories": {
+     "qib": 66.4189,
+     "nii": 150.3247,
+     "retail": 150.75
+    }
+   },
+   "urls": {
+    "nse": null,
+    "bse": "https://www.bseindia.com/publicissue"
+   },
+   "raw": {
+    "nse": {},
+    "bse": {
+     "list": {
+      "Scrip_cd": 4714,
+      "Scrip_Name": "G V Electricals Ltd",
+      "short_name": null,
+      "Start_Dt": "2026-07-31T00:00:00",
+      "End_Dt": "2026-08-07T00:00:00",
+      "Price_Band": "123.00 - 130.00",
+      "Face_Val": 10.0,
+      "IR_flag": "IPO",
+      "IR_FLAG_FULL": "IPO",
+      "Status": "L",
+      "eXCHANGE_PLATFORM": "SME",
+      "FLAG": 1,
+      "IPO_NO": 7859,
+      "Is_retailertype": 1,
+      "Cum_Shares_BuyBack": null,
+      "RN": 1,
+      "LONG_NAME": null
+     },
+     "detail": {
+      "IPONO_0": [
+       {
+        "DT_TM": "8/4/2026 17:00:00",
+        "DT_TMC": "Tuesday, August 04 ,  2026  5:00:00 PM",
+        "ISBID_Detail": "1",
+        "IPO_NO": "7859",
+        "ScripCode": "4714",
+        "ScripName": "G V Electricals Ltd",
+        "Security_Type": "Equity",
+        "Symbol": "GVELECTRIC",
+        "Issue_Period": "31 Jul 2026 to 07 Aug 2026|Issue has extended from 04th August 2026 to 07th August 2026.",
+        "IPO_Market_Timings": "",
+        "Post_Issue_Modification": "",
+        "DY1": "",
+        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
+        "Issue_Size_No_of_shares": "2362000",
+        "Price_Band": "123.00-130.00",
+        "Price_Band_Advertisement": "https://www.bseindia.com/downloads/ipo/11. Final Ad_20260727190154_300720261406.pdf",
+        "Face_Value": "10.00",
+        "Tick_Size": "1.00",
+        "Market_Lot": "1000",
+        "Minimum_Bid_Quantity": "2000",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "2082000",
+        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "1490000",
+        "Rating": "",
+        "DY2": "",
+        "Book_Running_Lead_Manager": "Seren Capital Private Limited^Office no. 601 to 605, Raylon Arcade, Kondivita, J.B.\nNagar, Mumbai, Mumbai, Maharashtra, India, 400059.||||||||info@serencapital.in|Akun Goyal",
+        "Co_Book_Running_Lead_Manager": "",
+        "Syndicate_Member": "https://listing.bseindia.com/Download/E:\\inetpub\\LISTING\\RTA\\DocumentsSMEiPO\\275398\\Syndicate_Member_SyndicateMember.zip",
+        "Eligible_Banks": "",
+        "Registrar": "Mudra RTA Ventures Private Limited^B-117, 3rd Floor, DDA Shed, Okhla Industrial Area,\nPhase-1, New Delhi – 110020, India.||||||||ipo@mudrarta.com",
+        "Sponsor_Bank": "AXIS BANK^Ground Floor Sixth Sense Mall at Junction of Gokhale\nRoad Elphinston Road And Sayani Road Parel Mumbai – 400025||||||||Dilip.Kanaujiya@axisbank.com|Dilip Ramji Kanaujiya",
+        "DY3": "",
+        "Prospectus_GID": "https://www.bseindia.com/downloads/ipo/RHP_300720261406.zip",
+        "Addendum": "https://listing.bseindia.com/Download/E:\\inetpub\\LISTING\\RTA\\DocumentsSMEiPO\\275398\\Addendum_GV_Addendum.pdf",
+        "Corrigendum": "https://www.bseindia.com/downloads/ipo/Corrigendum to RHP_GVEL_030820261005.zip",
+        "Anchor_Details": "",
+        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4714",
+        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4714",
+        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4714",
+        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
+        "DY4": "",
+        "Public_Notices": "",
+        "Notes": "Withdrawal is allowed for all bidding categories .",
+        "Remarks": "",
+        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
+        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
+        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
+        "DY5": "",
+        "DY6": ""
+       }
+      ],
+      "IPONO_1": [
+       {
+        "NEW_ID": "ae04f7b5-30c8-46bc-acd1-34a1b128e6f9",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
+        "DYN_ORDER": "1"
+       },
+       {
+        "NEW_ID": "7104695f-ec18-4c7e-91fa-17afecb84e83",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
+        "DYN_ORDER": "2"
+       },
+       {
+        "NEW_ID": "b1c8c17f-5993-4eb4-9111-42d31a6d35d4",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
+        "DYN_ORDER": "3"
+       },
+       {
+        "NEW_ID": "091f3e65-c4e5-4082-8a8b-6cba550d0eb7",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
+        "DYN_ORDER": "4"
+       },
+       {
+        "NEW_ID": "c95b6768-4d36-4365-842b-1b61b3cc2754",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
+        "DYN_ORDER": "5"
+       },
+       {
+        "NEW_ID": "42c1da4a-e117-46d9-8ad6-e7f345dda0b3",
+        "IPO_NO": "7859",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/4/2026 20:00:32",
+        "DYN_ORDER": "6"
+       }
+      ],
+      "IPONO_2": [
+       {
+        "Price": "123.00",
+        "Quantity": "305837000",
+        "Price1": "123",
+        "process_dttm": "8/4/2026 17:07:54"
+       },
+       {
+        "Price": "124.00",
+        "Quantity": "305477000",
+        "Price1": "124",
+        "process_dttm": "8/4/2026 17:07:54"
+       },
+       {
+        "Price": "125.00",
+        "Quantity": "305426000",
+        "Price1": "125",
+        "process_dttm": "8/4/2026 17:07:54"
+       },
+       {
+        "Price": "126.00",
+        "Quantity": "305304000",
+        "Price1": "126",
+        "process_dttm": "8/4/2026 17:07:54"
+       },
+       {
+        "Price": "127.00",
+        "Quantity": "305284000",
+        "Price1": "127",
+        "process_dttm": "8/4/2026 17:07:54"
+       },
+       {
+        "Price": "128.00",
+        "Quantity": "305245000",
+        "Price1": "128",
+        "process_dttm": "8/4/2026 17:07:54"
+       },
+       {
+        "Price": "129.00",
+        "Quantity": "305187000",
+        "Price1": "129",
+        "process_dttm": "8/4/2026 17:07:54"
+       },
+       {
+        "Price": "130.00",
+        "Quantity": "305053000",
+        "Price1": "130",
+        "process_dttm": "8/4/2026 17:07:54"
+       }
+      ],
+      "IPONO_3": [
+       {
+        "Price": "123.00",
+        "Quantity": "305837000",
+        "Price1": "123",
+        "process_dttm": "8/4/2026 17:09:00"
+       },
+       {
+        "Price": "124.00",
+        "Quantity": "305477000",
+        "Price1": "124",
+        "process_dttm": "8/4/2026 17:09:00"
+       },
+       {
+        "Price": "125.00",
+        "Quantity": "305426000",
+        "Price1": "125",
+        "process_dttm": "8/4/2026 17:09:00"
+       },
+       {
+        "Price": "126.00",
+        "Quantity": "305304000",
+        "Price1": "126",
+        "process_dttm": "8/4/2026 17:09:00"
+       },
+       {
+        "Price": "127.00",
+        "Quantity": "305284000",
+        "Price1": "127",
+        "process_dttm": "8/4/2026 17:09:00"
+       },
+       {
+        "Price": "128.00",
+        "Quantity": "305245000",
+        "Price1": "128",
+        "process_dttm": "8/4/2026 17:09:00"
+       },
+       {
+        "Price": "129.00",
+        "Quantity": "305187000",
+        "Price1": "129",
+        "process_dttm": "8/4/2026 17:09:00"
+       },
+       {
+        "Price": "130.00",
+        "Quantity": "305053000",
+        "Price1": "130",
+        "process_dttm": "8/4/2026 17:09:00"
+       }
+      ],
+      "IPONO_4": [
+       {
+        "NOTICE_ID": "",
+        "NOTICE_DATE": "7/30/2026 18:15:57",
+        "NOTICE_NO": "20260730-31",
+        "SUBJECT": "Public Issue of G V ELECTRICALS LTD - Allocation to Anchor Investors",
+        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260730-31/20260730-31.pdf"
+       }
+      ],
+      "status": "success"
+     },
+     "subscription": {
+      "table2": [
+       {
+        "SRNo": "Sr.No.",
+        "col2": "Category",
+        "col3": "No.of shares offered/reserved",
+        "col4": "No. of shares bid for",
+        "col5": "No. of times of total meant for the category",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "1",
+        "col2": "Qualified Institutional Buyers (QIBs)",
+        "col3": "592000",
+        "col4": "39320000",
+        "col5": "66.4189",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "1(a)",
+        "col2": "Foreign Institutional Investors (FIIs)",
+        "col3": "",
+        "col4": "6437000",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "1(b)",
+        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "col3": "",
+        "col4": "4163000",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "1(c)",
+        "col2": "Mutual Funds",
+        "col3": "",
+        "col4": "384000",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "1(D)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "28336000",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "2",
+        "col2": "Non Institutional Investors",
+        "col3": "730000",
+        "col4": "109737000",
+        "col5": "150.3247",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "2(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "1455000",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "2(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "105693000",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "2(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "2589000",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "3",
+        "col2": "Retail Individual Investors (RIIs)",
+        "col3": "1040000",
+        "col4": "156780000",
+        "col5": "150.7500",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "3(a)",
+        "col2": "Cut Off",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "3(b)",
+        "col2": "Price Bids ",
+        "col3": "",
+        "col4": "156780000",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "4",
+        "col2": "Employee Reserved",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "4(a)",
+        "col2": "Employee (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "4(b)",
+        "col2": "Employee (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "5",
+        "col2": "Reservation PortionShareholder",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "5(a)",
+        "col2": "RPS (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "5(b)",
+        "col2": "RPS (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       },
+       {
+        "SRNo": "",
+        "col2": "Total",
+        "col3": "2362000",
+        "col4": "305837000",
+        "col5": "129.4822",
+        "Scripname": "G V Electricals Ltd",
+        "Maxdt": "8/4/2026 18:24:36"
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "lapl-automotive",
+   "companyName": "LAPL AUTOMOTIVE LIMITED",
+   "exchanges": [
+    "BSE"
+   ],
+   "symbol": "LAPL",
+   "bseScripCode": "4721",
+   "series": "SME",
+   "status": "upcoming",
+   "issueType": "Equity",
+   "issueStartDate": "2026-08-06",
+   "issueEndDate": "2026-08-10",
+   "listingDate": null,
+   "priceBand": {
+    "min": 88.0,
+    "max": 94.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 10.0,
+   "lotSize": 1200,
+   "issueSize": {
+    "shares": 3446400,
+    "amount": null
+   },
+   "leadManagers": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "registrar": "Maashitla Securities Private Limited",
+   "subscription": null,
+   "urls": {
+    "nse": null,
+    "bse": "https://www.bseindia.com/publicissue"
+   },
+   "raw": {
+    "nse": {},
+    "bse": {
+     "list": {
+      "Scrip_cd": 4721,
+      "Scrip_Name": "LAPL AUTOMOTIVE LIMITED",
+      "short_name": null,
+      "Start_Dt": "2026-08-06T00:00:00",
+      "End_Dt": "2026-08-10T00:00:00",
+      "Price_Band": "88.00 - 94.00",
+      "Face_Val": 10.0,
+      "IR_flag": "IPO",
+      "IR_FLAG_FULL": "IPO",
+      "Status": "F",
+      "eXCHANGE_PLATFORM": "SME",
+      "FLAG": 7,
+      "IPO_NO": 7867,
+      "Is_retailertype": 1,
+      "Cum_Shares_BuyBack": null,
+      "RN": 1,
+      "LONG_NAME": null
+     },
+     "detail": {
+      "IPONO_0": [
+       {
+        "DT_TM": "",
+        "DT_TMC": "",
+        "ISBID_Detail": "1",
+        "IPO_NO": "7867",
+        "ScripCode": "4721",
+        "ScripName": "LAPL AUTOMOTIVE LIMITED",
+        "Security_Type": "Equity",
+        "Symbol": "LAPL",
+        "Issue_Period": "06 Aug 2026 to 10 Aug 2026",
+        "IPO_Market_Timings": "",
+        "Post_Issue_Modification": "",
+        "DY1": "",
+        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
+        "Issue_Size_No_of_shares": "3446400",
+        "Price_Band": "88.00-94.00",
+        "Price_Band_Advertisement": "https://www.bseindia.com/downloads/ipo/Price Band Advertisment_030820261714.pdf",
+        "Face_Value": "10.00",
+        "Tick_Size": "1.00",
+        "Market_Lot": "1200",
+        "Minimum_Bid_Quantity": "2400",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "3273600",
+        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "1644000",
+        "Rating": "",
+        "DY2": "",
+        "Book_Running_Lead_Manager": "GYR Capital Advisors Private Limited^428, Gala Empire, Near JB Tower, Drive in Road, Thaltej,\nAhmedabad-380 054, Gujarat, India.||||||||laplautomotive.ipo@gyrcapitaladvisors.in|Mohit Baid",
+        "Co_Book_Running_Lead_Manager": "",
+        "Syndicate_Member": "",
+        "Eligible_Banks": "",
+        "Registrar": "Maashitla Securities Private Limited^451, Krishna Apra Business Square, Netaji Subhash Place,\nPitampura, New Delhi- 110034, India.||||||||investor.ipo@maashitla.com",
+        "Sponsor_Bank": "YES Bank^Yes Bank House, 13-103, Western Express Hwy,\nAnand Nagar, Vakola, Santacruz East, Mumbai –\n400055, India||||||||upiipo@yesbank.in |+91(22)68547260",
+        "DY3": "",
+        "Prospectus_GID": "https://www.bseindia.com/downloads/ipo/RHPANDGID_LAPL_030820261714.zip",
+        "Addendum": "https://listing.bseindia.com/Download/E:\\inetpub\\LISTING\\RTA\\DocumentsSMEiPO\\275662\\Addendum_1_Addendum_DRHP_LAPL.pdf",
+        "Corrigendum": "",
+        "Anchor_Details": "",
+        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4721",
+        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4721",
+        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4721",
+        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
+        "DY4": "",
+        "Public_Notices": "",
+        "Notes": "",
+        "Remarks": "",
+        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
+        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
+        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
+        "DY5": "",
+        "DY6": ""
+       }
+      ],
+      "IPONO_1": [
+       {
+        "NEW_ID": "508bdb60-c7a1-48ab-8ae2-3faf89a2609e",
+        "IPO_NO": "7867",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/3/2026 17:14:58",
+        "DYN_ORDER": "1"
+       },
+       {
+        "NEW_ID": "f72ede63-4125-4ce8-bcef-121119112afd",
+        "IPO_NO": "7867",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/3/2026 17:14:58",
+        "DYN_ORDER": "2"
+       },
+       {
+        "NEW_ID": "ab1ef340-7374-4d2a-83cc-90a04026004e",
+        "IPO_NO": "7867",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/3/2026 17:14:58",
+        "DYN_ORDER": "3"
+       },
+       {
+        "NEW_ID": "0aa627e2-68c1-4b38-ba21-dab25866be62",
+        "IPO_NO": "7867",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/3/2026 17:14:58",
+        "DYN_ORDER": "4"
+       },
+       {
+        "NEW_ID": "17d44041-dbb0-45f1-853a-77e7e3d594df",
+        "IPO_NO": "7867",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/3/2026 17:14:58",
+        "DYN_ORDER": "5"
+       },
+       {
+        "NEW_ID": "60bb080c-e2d1-4395-ab81-7c8a6d050802",
+        "IPO_NO": "7867",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/3/2026 17:14:58",
+        "DYN_ORDER": "6"
+       }
+      ],
+      "IPONO_2": [],
+      "IPONO_3": [],
+      "IPONO_4": [],
+      "status": "success"
+     },
+     "subscription": {
+      "table2": [
+       {
+        "SRNo": "Sr.No.",
+        "col2": "Category",
+        "col3": "No.of shares offered/reserved",
+        "col4": "No. of shares bid for",
+        "col5": "No. of times of total meant for the category",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1",
+        "col2": "Qualified Institutional Buyers (QIBs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(a)",
+        "col2": "Foreign Institutional Investors (FIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(b)",
+        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(c)",
+        "col2": "Mutual Funds",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(D)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2",
+        "col2": "Non Institutional Investors",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3",
+        "col2": "Retail Individual Investors (RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(a)",
+        "col2": "Cut Off",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(b)",
+        "col2": "Price Bids ",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4",
+        "col2": "Employee Reserved",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(a)",
+        "col2": "Employee (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(b)",
+        "col2": "Employee (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5",
+        "col2": "Reservation PortionShareholder",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(a)",
+        "col2": "RPS (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(b)",
+        "col2": "RPS (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "",
+        "col2": "Total",
+        "col3": "0",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "LAPL AUTOMOTIVE LIMITED",
+        "Maxdt": ""
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
    "id": "fusion-klassroom-edutech",
    "companyName": "Fusion Klassroom Edutech Limited",
    "exchanges": [
@@ -872,7 +2305,7 @@
    "symbol": "KLASSROOM",
    "bseScripCode": "4707",
    "series": "SME",
-   "status": "open",
+   "status": "closed",
    "issueType": "Equity",
    "issueStartDate": "2026-07-31",
    "issueEndDate": "2026-08-04",
@@ -1312,1434 +2745,6 @@
         "col5": "1.4650",
         "Scripname": "Fusion Klassroom Edutech Limited",
         "Maxdt": "8/4/2026 18:58:18"
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "g-v-electricals",
-   "companyName": "G V Electricals Ltd",
-   "exchanges": [
-    "BSE"
-   ],
-   "symbol": "GVELECTRIC",
-   "bseScripCode": "4714",
-   "series": "SME",
-   "status": "open",
-   "issueType": "Equity",
-   "issueStartDate": "2026-07-31",
-   "issueEndDate": "2026-08-07",
-   "listingDate": null,
-   "priceBand": {
-    "min": 123.0,
-    "max": 130.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 10.0,
-   "lotSize": 1000,
-   "issueSize": {
-    "shares": 2362000,
-    "amount": null
-   },
-   "leadManagers": [
-    "Seren Capital Private Limited"
-   ],
-   "registrar": "Mudra RTA Ventures Private Limited",
-   "subscription": {
-    "timesSubscribed": 129.4822,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 66.4189,
-     "nii": 150.3247,
-     "retail": 150.75
-    }
-   },
-   "urls": {
-    "nse": null,
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {},
-    "bse": {
-     "list": {
-      "Scrip_cd": 4714,
-      "Scrip_Name": "G V Electricals Ltd",
-      "short_name": null,
-      "Start_Dt": "2026-07-31T00:00:00",
-      "End_Dt": "2026-08-07T00:00:00",
-      "Price_Band": "123.00 - 130.00",
-      "Face_Val": 10.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "L",
-      "eXCHANGE_PLATFORM": "SME",
-      "FLAG": 1,
-      "IPO_NO": 7859,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "8/4/2026 17:00:00",
-        "DT_TMC": "Tuesday, August 04 ,  2026  5:00:00 PM",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7859",
-        "ScripCode": "4714",
-        "ScripName": "G V Electricals Ltd",
-        "Security_Type": "Equity",
-        "Symbol": "GVELECTRIC",
-        "Issue_Period": "31 Jul 2026 to 07 Aug 2026|Issue has extended from 04th August 2026 to 07th August 2026.",
-        "IPO_Market_Timings": "",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
-        "Issue_Size_No_of_shares": "2362000",
-        "Price_Band": "123.00-130.00",
-        "Price_Band_Advertisement": "https://www.bseindia.com/downloads/ipo/11. Final Ad_20260727190154_300720261406.pdf",
-        "Face_Value": "10.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "1000",
-        "Minimum_Bid_Quantity": "2000",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "2082000",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "1490000",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "Seren Capital Private Limited^Office no. 601 to 605, Raylon Arcade, Kondivita, J.B.\nNagar, Mumbai, Mumbai, Maharashtra, India, 400059.||||||||info@serencapital.in|Akun Goyal",
-        "Co_Book_Running_Lead_Manager": "",
-        "Syndicate_Member": "https://listing.bseindia.com/Download/E:\\inetpub\\LISTING\\RTA\\DocumentsSMEiPO\\275398\\Syndicate_Member_SyndicateMember.zip",
-        "Eligible_Banks": "",
-        "Registrar": "Mudra RTA Ventures Private Limited^B-117, 3rd Floor, DDA Shed, Okhla Industrial Area,\nPhase-1, New Delhi – 110020, India.||||||||ipo@mudrarta.com",
-        "Sponsor_Bank": "AXIS BANK^Ground Floor Sixth Sense Mall at Junction of Gokhale\nRoad Elphinston Road And Sayani Road Parel Mumbai – 400025||||||||Dilip.Kanaujiya@axisbank.com|Dilip Ramji Kanaujiya",
-        "DY3": "",
-        "Prospectus_GID": "https://www.bseindia.com/downloads/ipo/RHP_300720261406.zip",
-        "Addendum": "https://listing.bseindia.com/Download/E:\\inetpub\\LISTING\\RTA\\DocumentsSMEiPO\\275398\\Addendum_GV_Addendum.pdf",
-        "Corrigendum": "https://www.bseindia.com/downloads/ipo/Corrigendum to RHP_GVEL_030820261005.zip",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4714",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4714",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4714",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "Withdrawal is allowed for all bidding categories .",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "ae04f7b5-30c8-46bc-acd1-34a1b128e6f9",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 20:00:32",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "7104695f-ec18-4c7e-91fa-17afecb84e83",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 20:00:32",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "b1c8c17f-5993-4eb4-9111-42d31a6d35d4",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 20:00:32",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "091f3e65-c4e5-4082-8a8b-6cba550d0eb7",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 20:00:32",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "c95b6768-4d36-4365-842b-1b61b3cc2754",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 20:00:32",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "42c1da4a-e117-46d9-8ad6-e7f345dda0b3",
-        "IPO_NO": "7859",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 20:00:32",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [
-       {
-        "Price": "123.00",
-        "Quantity": "305837000",
-        "Price1": "123",
-        "process_dttm": "8/4/2026 17:07:54"
-       },
-       {
-        "Price": "124.00",
-        "Quantity": "305477000",
-        "Price1": "124",
-        "process_dttm": "8/4/2026 17:07:54"
-       },
-       {
-        "Price": "125.00",
-        "Quantity": "305426000",
-        "Price1": "125",
-        "process_dttm": "8/4/2026 17:07:54"
-       },
-       {
-        "Price": "126.00",
-        "Quantity": "305304000",
-        "Price1": "126",
-        "process_dttm": "8/4/2026 17:07:54"
-       },
-       {
-        "Price": "127.00",
-        "Quantity": "305284000",
-        "Price1": "127",
-        "process_dttm": "8/4/2026 17:07:54"
-       },
-       {
-        "Price": "128.00",
-        "Quantity": "305245000",
-        "Price1": "128",
-        "process_dttm": "8/4/2026 17:07:54"
-       },
-       {
-        "Price": "129.00",
-        "Quantity": "305187000",
-        "Price1": "129",
-        "process_dttm": "8/4/2026 17:07:54"
-       },
-       {
-        "Price": "130.00",
-        "Quantity": "305053000",
-        "Price1": "130",
-        "process_dttm": "8/4/2026 17:07:54"
-       }
-      ],
-      "IPONO_3": [
-       {
-        "Price": "123.00",
-        "Quantity": "305837000",
-        "Price1": "123",
-        "process_dttm": "8/4/2026 17:09:00"
-       },
-       {
-        "Price": "124.00",
-        "Quantity": "305477000",
-        "Price1": "124",
-        "process_dttm": "8/4/2026 17:09:00"
-       },
-       {
-        "Price": "125.00",
-        "Quantity": "305426000",
-        "Price1": "125",
-        "process_dttm": "8/4/2026 17:09:00"
-       },
-       {
-        "Price": "126.00",
-        "Quantity": "305304000",
-        "Price1": "126",
-        "process_dttm": "8/4/2026 17:09:00"
-       },
-       {
-        "Price": "127.00",
-        "Quantity": "305284000",
-        "Price1": "127",
-        "process_dttm": "8/4/2026 17:09:00"
-       },
-       {
-        "Price": "128.00",
-        "Quantity": "305245000",
-        "Price1": "128",
-        "process_dttm": "8/4/2026 17:09:00"
-       },
-       {
-        "Price": "129.00",
-        "Quantity": "305187000",
-        "Price1": "129",
-        "process_dttm": "8/4/2026 17:09:00"
-       },
-       {
-        "Price": "130.00",
-        "Quantity": "305053000",
-        "Price1": "130",
-        "process_dttm": "8/4/2026 17:09:00"
-       }
-      ],
-      "IPONO_4": [
-       {
-        "NOTICE_ID": "",
-        "NOTICE_DATE": "7/30/2026 18:15:57",
-        "NOTICE_NO": "20260730-31",
-        "SUBJECT": "Public Issue of G V ELECTRICALS LTD - Allocation to Anchor Investors",
-        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260730-31/20260730-31.pdf"
-       }
-      ],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "592000",
-        "col4": "39320000",
-        "col5": "66.4189",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "6437000",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "4163000",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "384000",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "1(D)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "28336000",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors",
-        "col3": "730000",
-        "col4": "109737000",
-        "col5": "150.3247",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "1455000",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "105693000",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "2589000",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "1040000",
-        "col4": "156780000",
-        "col5": "150.7500",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "156780000",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "2362000",
-        "col4": "305837000",
-        "col5": "129.4822",
-        "Scripname": "G V Electricals Ltd",
-        "Maxdt": "8/4/2026 17:00:00"
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "lapl-automotive",
-   "companyName": "LAPL AUTOMOTIVE LIMITED",
-   "exchanges": [
-    "BSE"
-   ],
-   "symbol": "LAPL",
-   "bseScripCode": "4721",
-   "series": "SME",
-   "status": "upcoming",
-   "issueType": "Equity",
-   "issueStartDate": "2026-08-06",
-   "issueEndDate": "2026-08-10",
-   "listingDate": null,
-   "priceBand": {
-    "min": 88.0,
-    "max": 94.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 10.0,
-   "lotSize": 1200,
-   "issueSize": {
-    "shares": 3446400,
-    "amount": null
-   },
-   "leadManagers": [
-    "GYR Capital Advisors Private Limited"
-   ],
-   "registrar": "Maashitla Securities Private Limited",
-   "subscription": null,
-   "urls": {
-    "nse": null,
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {},
-    "bse": {
-     "list": {
-      "Scrip_cd": 4721,
-      "Scrip_Name": "LAPL AUTOMOTIVE LIMITED",
-      "short_name": null,
-      "Start_Dt": "2026-08-06T00:00:00",
-      "End_Dt": "2026-08-10T00:00:00",
-      "Price_Band": "88.00 - 94.00",
-      "Face_Val": 10.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "F",
-      "eXCHANGE_PLATFORM": "SME",
-      "FLAG": 7,
-      "IPO_NO": 7867,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "",
-        "DT_TMC": "",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7867",
-        "ScripCode": "4721",
-        "ScripName": "LAPL AUTOMOTIVE LIMITED",
-        "Security_Type": "Equity",
-        "Symbol": "LAPL",
-        "Issue_Period": "06 Aug 2026 to 10 Aug 2026",
-        "IPO_Market_Timings": "",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
-        "Issue_Size_No_of_shares": "3446400",
-        "Price_Band": "88.00-94.00",
-        "Price_Band_Advertisement": "https://www.bseindia.com/downloads/ipo/Price Band Advertisment_030820261714.pdf",
-        "Face_Value": "10.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "1200",
-        "Minimum_Bid_Quantity": "2400",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "3273600",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "1644000",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "GYR Capital Advisors Private Limited^428, Gala Empire, Near JB Tower, Drive in Road, Thaltej,\nAhmedabad-380 054, Gujarat, India.||||||||laplautomotive.ipo@gyrcapitaladvisors.in|Mohit Baid",
-        "Co_Book_Running_Lead_Manager": "",
-        "Syndicate_Member": "",
-        "Eligible_Banks": "",
-        "Registrar": "Maashitla Securities Private Limited^451, Krishna Apra Business Square, Netaji Subhash Place,\nPitampura, New Delhi- 110034, India.||||||||investor.ipo@maashitla.com",
-        "Sponsor_Bank": "YES Bank^Yes Bank House, 13-103, Western Express Hwy,\nAnand Nagar, Vakola, Santacruz East, Mumbai –\n400055, India||||||||upiipo@yesbank.in |+91(22)68547260",
-        "DY3": "",
-        "Prospectus_GID": "https://www.bseindia.com/downloads/ipo/RHPANDGID_LAPL_030820261714.zip",
-        "Addendum": "https://listing.bseindia.com/Download/E:\\inetpub\\LISTING\\RTA\\DocumentsSMEiPO\\275662\\Addendum_1_Addendum_DRHP_LAPL.pdf",
-        "Corrigendum": "",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4721",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4721",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4721",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "508bdb60-c7a1-48ab-8ae2-3faf89a2609e",
-        "IPO_NO": "7867",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 17:14:58",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "f72ede63-4125-4ce8-bcef-121119112afd",
-        "IPO_NO": "7867",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 17:14:58",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "ab1ef340-7374-4d2a-83cc-90a04026004e",
-        "IPO_NO": "7867",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 17:14:58",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "0aa627e2-68c1-4b38-ba21-dab25866be62",
-        "IPO_NO": "7867",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 17:14:58",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "17d44041-dbb0-45f1-853a-77e7e3d594df",
-        "IPO_NO": "7867",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 17:14:58",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "60bb080c-e2d1-4395-ab81-7c8a6d050802",
-        "IPO_NO": "7867",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/3/2026 17:14:58",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [],
-      "IPONO_3": [],
-      "IPONO_4": [],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(D)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "0",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "LAPL AUTOMOTIVE LIMITED",
-        "Maxdt": ""
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "ardee-industries",
-   "companyName": "Ardee Industries Limited",
-   "exchanges": [
-    "NSE",
-    "BSE"
-   ],
-   "symbol": "ARDEE",
-   "bseScripCode": "4716",
-   "series": "EQ",
-   "status": "upcoming",
-   "issueType": "100% Book Building",
-   "issueStartDate": "2026-08-05",
-   "issueEndDate": "2026-08-07",
-   "listingDate": null,
-   "priceBand": {
-    "min": 50.0,
-    "max": 53.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 2.0,
-   "lotSize": 281,
-   "issueSize": {
-    "shares": 58422516,
-    "amount": null
-   },
-   "leadManagers": [
-    "Pantomath Capital Advisors Private Limited"
-   ],
-   "registrar": "Kfin Technologies Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=ARDEE&series=EQ&type=Upcoming",
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Ardee Industries Limited",
-      "issueEndDate": "07-Aug-2026",
-      "issuePrice": "Rs.50 to Rs.53",
-      "issueSize": "58422516",
-      "issueStartDate": "05-Aug-2026",
-      "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "ARDEE"
-     },
-     "detail": {
-      "companyName": "ARDEE",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfSharesOffered": "0.0",
-        "noOfTime": "0.00",
-        "noOfsharesBid": "0.0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Ardee Industries Limited",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "ARDEE"
-        },
-        {
-         "title": "Issue Period",
-         "value": "05-Aug-2026 to 07-Aug-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"07-aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public offer comprising Fresh issue of aggregating up to Rs. 3200 million and offer for sale of up to Rs.1,99,75,000 (including Anchor Investor portion of 2,41,05,584 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "100% Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 50/- per equity share to Rs. 53/- equity share"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs.2 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re.1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "Minimum 281 Equity shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "Minimum 281 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"5,84,22,429 Equity Shares in multiple of 281 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"4,19,87,020 Equity Shares in multiple of 281 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "Pantomath Capital Advisors Private Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "ICICI Bank Limited and AXIS Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND and NOH\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "Kfin Technologies Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"Selenium, Tower B, Plot No. 31 and 32, Gachibowli, Financial District, Nanakramguda, Serilingampally, Hyderabad 500 032, Telangana, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\" M. Murali Krishna, +91 40 6716 2222/1800 309 4001, ardeeindustries.ipo@kfintech.com \""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_ARDEE.zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_ARDEE.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_ARDEE.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_ARDEE.zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_ARDEE.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_ARDEE.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_ARDEE.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "ARDEE"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {
-     "list": {
-      "Scrip_cd": 4716,
-      "Scrip_Name": "Ardee Industries Limited",
-      "short_name": null,
-      "Start_Dt": "2026-08-05T00:00:00",
-      "End_Dt": "2026-08-07T00:00:00",
-      "Price_Band": "50.00 - 53.00",
-      "Face_Val": 2.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "F",
-      "eXCHANGE_PLATFORM": "MainBoard",
-      "FLAG": 7,
-      "IPO_NO": 7862,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "",
-        "DT_TMC": "",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7862",
-        "ScripCode": "4716",
-        "ScripName": "Ardee Industries Limited",
-        "Security_Type": "Equity",
-        "Symbol": "ARDEE",
-        "Issue_Period": "05 Aug 2026 to 07 Aug 2026",
-        "IPO_Market_Timings": "",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
-        "Issue_Size_No_of_shares": "58422516",
-        "Price_Band": "50.00-53.00",
-        "Price_Band_Advertisement": "https://listing.bseindia.com/Download/8888888/PreAnchor/BS_20260730130850.zip",
-        "Face_Value": "2.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "281",
-        "Minimum_Bid_Quantity": "281",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "58422429",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "41987020",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "Pantomath Capital Advisors Private Limited^Pantomath Nucleus House, Saki-Vihar Road, Andheri (East), Mumbai – 400 072, Maharashtra, India||||||||ardeeindustries.ipo@pantomathgroup.com|Ashish Baid / Ritu Agarwal",
-        "Co_Book_Running_Lead_Manager": "",
-        "Syndicate_Member": "",
-        "Eligible_Banks": "",
-        "Registrar": "KFin Technologies Limited^Selenium, Tower B, Plot No. 31 & 32, Financial District, Nanakramguda, Serilingampally, Hyderabad 500 032 Telangana, India||||||||ardeeindustries.ipo@kfintech.com",
-        "Sponsor_Bank": "ICICI BANK^Capital Markets Division, 163, 5th Floor, H. T. Parekh Marg, Backbay Reclamation, Churchgate, Mumbai 400 020||||||||ipocmg@icicibank.com|Varun Badai#AXIS BANK^MWBC Delhi, 3rd Floor,Plot No. 25, Pusa Road, New Delhi – 110 005||||||||CBBNewDelhi.Operationshead@axis.bank.in|Supriya Gopi",
-        "DY3": "",
-        "Prospectus_GID": "https://listing.bseindia.com/Download/8888888/PreAnchor/RHP_20260730171729.pdf",
-        "Addendum": "",
-        "Corrigendum": "",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4716",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4716",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4716",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "e170ba34-d35a-4d38-a740-c5c2e55241fa",
-        "IPO_NO": "7862",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 22:06:29",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "714d0b2c-86d4-479e-8ec0-6f1267ab7531",
-        "IPO_NO": "7862",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 22:06:29",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "ddaffbe0-754e-481e-addc-3469b9451a16",
-        "IPO_NO": "7862",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 22:06:29",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "c105c13b-1725-43f5-a9bd-e4f2e8fc26ab",
-        "IPO_NO": "7862",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 22:06:29",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "69f96426-f828-46a0-b0f9-0a7d8c34a338",
-        "IPO_NO": "7862",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 22:06:29",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "1d43feee-b0c4-435f-a007-cc9424ffd096",
-        "IPO_NO": "7862",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/4/2026 22:06:29",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [],
-      "IPONO_3": [],
-      "IPONO_4": [
-       {
-        "NOTICE_ID": "",
-        "NOTICE_DATE": "8/4/2026 18:01:35",
-        "NOTICE_NO": "20260804-24",
-        "SUBJECT": "Public Issue of ARDEE INDUSTRIES LIMITED - Allocation to\r\nAnchor Investors",
-        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260804-24/20260804-24.pdf"
-       }
-      ],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "16435297",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(d)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors (NIIs)",
-        "col3": "12596166",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1",
-        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
-        "col3": "8397444",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2",
-        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
-        "col3": "4198722",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "29391053",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "58422516",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Ardee Industries Limited",
-        "Maxdt": ""
        }
       ]
      }
@@ -3783,7 +3788,8 @@
    "id": "manipal-health-enterprises",
    "companyName": "Manipal Health Enterprises Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "MANIPALHOS",
    "bseScripCode": null,
@@ -3792,13 +3798,13 @@
    "issueType": "100% Book Building",
    "issueStartDate": "2026-07-29",
    "issueEndDate": "2026-07-31",
-   "listingDate": null,
+   "listingDate": "2026-08-05",
    "priceBand": {
     "min": 560.0,
     "max": 590.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 590.0,
    "faceValue": 2.0,
    "lotSize": 25,
    "issueSize": {
@@ -3837,16 +3843,36 @@
       "htmSym": "manipalhos",
       "ipoEndDate": "31-JUL-2026",
       "ipoStartDate": "29-JUL-2026",
-      "issuePrice": "-",
+      "issuePrice": "   590",
       "linkRemovalDate": "01-AUG-2026",
-      "listingDate": "-",
+      "listingDate": "05-AUG-2026",
       "priceRange": "Rs.560 to Rs.590",
       "securityType": "EQ",
       "symbol": "MANIPALHOS"
      },
      "detail": {
-      "companyName": "MANIPALHOS",
-      "metaInfo": {},
+      "companyName": "Manipal Health Enterprises Limited",
+      "metaInfo": {
+       "symbol": "MANIPALHOS",
+       "companyName": "Manipal Health Enterprises Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE459N01021",
+       "listingDate": "2026-08-05",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -4320,7 +4346,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "Manipal Health Enterprises Limited",
+      "Company_Short_Name": "MANIPALHOS",
+      "IssuePrice": 590.0,
+      "ListedOn": "2026-08-05T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
