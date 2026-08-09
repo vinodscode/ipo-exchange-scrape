@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-09T16:03:15Z",
+ "generatedAt": "2026-08-09T23:58:12Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -11,11 +11,1278 @@
   }
  },
  "counts": {
-  "open": 4,
-  "upcoming": 4,
-  "closed": 41
+  "open": 6,
+  "upcoming": 2,
+  "closed": 39
  },
  "ipos": [
+  {
+   "id": "dhoot-transmission",
+   "companyName": "Dhoot Transmission Limited",
+   "exchanges": [
+    "NSE",
+    "BSE"
+   ],
+   "symbol": "DHOOTTRANS",
+   "bseScripCode": "4727",
+   "series": "EQ",
+   "status": "open",
+   "issueType": "100% Book Building",
+   "issueStartDate": "2026-08-10",
+   "issueEndDate": "2026-08-12",
+   "listingDate": null,
+   "priceBand": {
+    "min": 829.0,
+    "max": 871.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 2.0,
+   "lotSize": 17,
+   "issueSize": {
+    "shares": 24956363,
+    "amount": null
+   },
+   "leadManagers": [
+    "Axis Capital Limited",
+    "Jefferies India Private Limited",
+    "Kotak Mahindra Capital Company Limited",
+    "Nomura Financial Advisory",
+    "Securities (India) Private Limited",
+    "SBI Capital Markets Limited",
+    "360 ONE WAM Limited."
+   ],
+   "registrar": "KFin Technologies Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 0,
+    "sharesBid": 0,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=DHOOTTRANS&series=EQ&type=Active",
+    "bse": "https://www.bseindia.com/publicissue"
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Dhoot Transmission Limited",
+      "issueEndDate": "12-Aug-2026",
+      "issuePrice": "Rs.829 to Rs.871",
+      "issueSize": "24956363",
+      "issueStartDate": "10-Aug-2026",
+      "series": "EQ",
+      "status": "Active",
+      "symbol": "DHOOTTRANS",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
+     },
+     "detail": {
+      "companyName": "DHOOTTRANS",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfSharesOffered": "0.0",
+        "noOfTime": "0.00",
+        "noOfsharesBid": "0.0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "Dhoot Transmission Limited",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "DHOOTTRANS"
+        },
+        {
+         "title": "Issue Period",
+         "value": "10-Aug-2026 to 12-Aug-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"12-Aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public Offer of Fresh Issue of Aggregating Up to Rs. 14,000 million and Offer for sale up to 19,137,602 Equity Shares (Including Eligible Employees Reservation Portion of Aggregating up to Rs. 60 million and Anchor Investor portion of 1,05,42,657 Equity Shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "100% Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 829/- to Rs. 871/- per Equity Share"
+        },
+        {
+         "title": "Discount",
+         "value": "Rs. 80 per equity share to Eligible Employees"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs. 2 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re. 1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "17 Equity Shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "17 Equity Shares"
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Eligible Employee",
+         "value": "\"Rs. 5,00,000\""
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"2,48,76,253 Equity Shares in multiple of 17 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"17,976,514 Equity Shares in multiple of 17 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "\"Axis Capital Limited, Jefferies India Private Limited, Kotak Mahindra Capital Company Limited, Nomura Financial Advisory and Securities (India) Private Limited, SBI Capital Markets Limited, 360 ONE WAM Limited.\""
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "Axis Bank Limited and HDFC Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND and EMP (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "KFin Technologies Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"Selenium, Tower B, Plot 31 32, Financial District, Nanakramguda, Serilingampally Mandal, Hyderabad 500 032, Telangana, India\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"M Murali Krishna, +91- 40 6716 2222/ 1800 309 4001, dhoot.ipo@kfintech.com \""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_DHOOTTRANS.zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_DHOOTTRANS.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_DHOOTTRANS.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_DHOOTTRANS.zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_DHOOTTRANS.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_DHOOTTRANS.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_DHOOTTRANS.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "DHOOTTRANS"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {
+     "list": {
+      "Scrip_cd": 4727,
+      "Scrip_Name": "Dhoot Transmission Limited",
+      "short_name": null,
+      "Start_Dt": "2026-08-10T00:00:00",
+      "End_Dt": "2026-08-12T00:00:00",
+      "Price_Band": "829.00 - 871.00",
+      "Face_Val": 2.0,
+      "IR_flag": "IPO",
+      "IR_FLAG_FULL": "IPO",
+      "Status": "L",
+      "eXCHANGE_PLATFORM": "MainBoard",
+      "FLAG": 1,
+      "IPO_NO": 7873,
+      "Is_retailertype": 1,
+      "Cum_Shares_BuyBack": null,
+      "RN": 1,
+      "LONG_NAME": null
+     },
+     "detail": {
+      "IPONO_0": [
+       {
+        "DT_TM": "",
+        "DT_TMC": "",
+        "ISBID_Detail": "1",
+        "IPO_NO": "7873",
+        "ScripCode": "4727",
+        "ScripName": "Dhoot Transmission Limited",
+        "Security_Type": "Equity",
+        "Symbol": "DHOOTTRANS",
+        "Issue_Period": "10 Aug 2026 to 12 Aug 2026",
+        "IPO_Market_Timings": "10.00 am to 5.00 pm",
+        "Post_Issue_Modification": "",
+        "DY1": "",
+        "Cut_off_time_for_UPI_Mandate_Confirmation": "12-August-2026 (Upto 5.00 pm)",
+        "Issue_Size_No_of_shares": "24956363",
+        "Price_Band": "829.00-871.00|/Employee Discount of Rs 80 to Eligible Employees|",
+        "Price_Band_Advertisement": "https://listing.bseindia.com/Download/8888888/PreAnchor/PriceBandAd_20260806111902.pdf",
+        "Face_Value": "2.00",
+        "Tick_Size": "1.00",
+        "Market_Lot": "17",
+        "Minimum_Bid_Quantity": "17",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "24876253",
+        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "17976514",
+        "Rating": "",
+        "DY2": "",
+        "Book_Running_Lead_Manager": "Axis Capital Limited^1st Floor, Axis HouseP.B. Marg, Worli Mumbai -400 025 Maharashtra, India ||||||||dtl.ipo@axiscap.in|Harish Patel/ Simran Gadh#Jefferies India Private Limited^Level 16, Express Towers,Nariman PointMumbai- 400 021Maharashtra, India||||||||Dhoot.Transmission.IPO@jefferies.com|Akshat Shah / Nidhi Rana#Kotak Mahindra Capital Company Limited^1st Floor, 27 BKC, Plot No. C – 27“G” Block, Bandra Kurla Complex Bandra (East)Mumbai- 400 051 Maharashtra, India||||||||Dhoot.ipo@kotak.com|Ganesh Rane#Nomura Financial Advisory and Securities (India) Private Limited^Ceejay House, 11th Level, Plot FShivsagar Estate, Dr. Annie Besant Road Worli Mumbai -400 018 Maharashtra, India ||||||||dhootipo@nomura.com|Vishal Khanjani/ Shreyas Goel#SBI Capital Markets Limited^1501, 15th FloorA & B Wing G Block Parinee Crescenzo Bandra Kurla ComplexBandra (East) Mumbai- 400 051 Maharashtra, India||||||||dhoottransmission.ipo@sbicaps.com|Kritika Shetty/ Sylvia Mendonca#360 ONE WAM Limited^360 ONE Centre, Kamala City Senapati Bapat Marg, Lower Parel (West) Mumbai – 400 013||||||||dhoottransmission.ipo@360.one|Devesh Patkar",
+        "Co_Book_Running_Lead_Manager": "",
+        "Syndicate_Member": "",
+        "Eligible_Banks": "",
+        "Registrar": "KFin Technologies Limited^Selenium Tower B, Plot No. 31 and 32, Financial District, Nanakramguda, Serilingampally, Hyderabad, Rangareddy 500 032, Telangana, India||||||||dhoot.ipo@kfintech.com",
+        "Sponsor_Bank": "AXIS BANK^Axis House”, 6th Floor, C-2 Wadia International Centre Pandurang Budhkar Marg, Worli Mumbai - 400 025, Maharashtra, India||||||||Saurabh2.Rao@axis.bank.in,bhilasha.Kushwaha@axis.bank.in,Prathamesh2.Pawar@axis.bank.in,UPI_IPO_Onbo|Vilas Sirsat#HDFC BANK^HDFC Bank Limited, FIG-OPS Department – Lodha, I Think Techno Campus, O-3 Level, Next to Kanjurmarg Railway Station, Kanjurmarg (East), Mumbai – 400042, Maharashtra, India||||||||btiscsb@hdfcbank.com,btiops@hdfc.bank.in,vaibhav.gadge@hdfc.bank.in,pravin.teli2@hdfc.bank.in,eric.b|Eric Bacha, Sachin Gawade, Pravin Teli, Siddharth Jadhav, Tushar Gavankar",
+        "DY3": "",
+        "Prospectus_GID": "https://listing.bseindia.com/Download/8888888/PreAnchor/Dhoot_20260806111901.zip",
+        "Addendum": "",
+        "Corrigendum": "",
+        "Anchor_Details": "",
+        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4727",
+        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4727",
+        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4727",
+        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
+        "DY4": "",
+        "Public_Notices": "",
+        "Notes": "As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.",
+        "Remarks": "",
+        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
+        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
+        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
+        "DY5": "",
+        "DY6": ""
+       }
+      ],
+      "IPONO_1": [
+       {
+        "NEW_ID": "02386605-b8ee-496a-8815-9b74390d3c55",
+        "IPO_NO": "7873",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:52:59",
+        "DYN_ORDER": "1"
+       },
+       {
+        "NEW_ID": "a4504ee8-5c1a-4478-b6ee-e2f50d74df92",
+        "IPO_NO": "7873",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:52:59",
+        "DYN_ORDER": "2"
+       },
+       {
+        "NEW_ID": "caf9b775-a08b-4b25-9523-9ede582fa89d",
+        "IPO_NO": "7873",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:52:59",
+        "DYN_ORDER": "3"
+       },
+       {
+        "NEW_ID": "039a522c-02bd-48de-8fe9-e7f5c769afb0",
+        "IPO_NO": "7873",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:52:59",
+        "DYN_ORDER": "4"
+       },
+       {
+        "NEW_ID": "677c6c32-11b0-4ccb-9424-6dcc6be38ad7",
+        "IPO_NO": "7873",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:52:59",
+        "DYN_ORDER": "5"
+       },
+       {
+        "NEW_ID": "f4c2a2fd-7eeb-4395-97b4-bf05f49610f6",
+        "IPO_NO": "7873",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:52:59",
+        "DYN_ORDER": "6"
+       }
+      ],
+      "IPONO_2": [],
+      "IPONO_3": [],
+      "IPONO_4": [
+       {
+        "NOTICE_ID": "",
+        "NOTICE_DATE": "8/7/2026 22:19:04",
+        "NOTICE_NO": "20260807-44",
+        "SUBJECT": "Public Issue of DHOOT TRANSMISSION LIMITED - Allocation to Anchor Investors",
+        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260807-44/20260807-44.pdf"
+       },
+       {
+        "NOTICE_ID": "dfe1d700-7b2d-4537-8d95-4dfe028eb236",
+        "NOTICE_DATE": "8/3/2022 00:00:00",
+        "NOTICE_NO": "20220803-40",
+        "SUBJECT": "Processing of ASBA applications in Public Issue of Equity Shares and Convertibles",
+        "FILENAME": ""
+       }
+      ],
+      "status": "success"
+     },
+     "subscription": {
+      "table2": [
+       {
+        "SRNo": "Sr.No.",
+        "col2": "Category",
+        "col3": "No.of shares offered/reserved",
+        "col4": "No. of shares bid for",
+        "col5": "No. of times of total meant for the category",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1",
+        "col2": "Qualified Institutional Buyers (QIBs)",
+        "col3": "6899735",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(a)",
+        "col2": "Foreign Institutional Investors (FIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(b)",
+        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(c)",
+        "col2": "Mutual Funds",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(d)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2",
+        "col2": "Non Institutional Investors (NIIs)",
+        "col3": "5392957",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1",
+        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
+        "col3": "3595305",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2",
+        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
+        "col3": "1797652",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3",
+        "col2": "Retail Individual Investors (RIIs)",
+        "col3": "12583565",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(a)",
+        "col2": "Cut Off",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(b)",
+        "col2": "Price Bids ",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4",
+        "col2": "Employee Reserved",
+        "col3": "80106",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(a)",
+        "col2": "Employee (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(b)",
+        "col2": "Employee (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5",
+        "col2": "Reservation PortionShareholder",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(a)",
+        "col2": "RPS (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(b)",
+        "col2": "RPS (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "",
+        "col2": "Total",
+        "col3": "24956363",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Dhoot Transmission Limited",
+        "Maxdt": ""
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "molbio-diagnostics",
+   "companyName": "Molbio Diagnostics Limited",
+   "exchanges": [
+    "NSE",
+    "BSE"
+   ],
+   "symbol": "MOLBIO",
+   "bseScripCode": "4729",
+   "series": "EQ",
+   "status": "open",
+   "issueType": "100% Book Building",
+   "issueStartDate": "2026-08-10",
+   "issueEndDate": "2026-08-12",
+   "listingDate": null,
+   "priceBand": {
+    "min": 768.0,
+    "max": 807.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 1.0,
+   "lotSize": 18,
+   "issueSize": {
+    "shares": 8158529,
+    "amount": null
+   },
+   "leadManagers": [
+    "Kotak Mahindra Capital Company Limited",
+    "IIFL Capital Services Limited",
+    "Jefferies India Private Limited",
+    "Motilal Oswal Investment Advisors Limited"
+   ],
+   "registrar": "KFin Technologies Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 0,
+    "sharesBid": 0,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=MOLBIO&series=EQ&type=Active",
+    "bse": "https://www.bseindia.com/publicissue"
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Molbio Diagnostics Limited",
+      "issueEndDate": "12-Aug-2026",
+      "issuePrice": "Rs.768 to Rs.807",
+      "issueSize": "8158529",
+      "issueStartDate": "10-Aug-2026",
+      "series": "EQ",
+      "status": "Active",
+      "symbol": "MOLBIO",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
+     },
+     "detail": {
+      "companyName": "MOLBIO",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfSharesOffered": "0.0",
+        "noOfTime": "0.00",
+        "noOfsharesBid": "0.0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "Molbio Diagnostics Limited",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "MOLBIO"
+        },
+        {
+         "title": "Issue Period",
+         "value": "10-Aug-2026 to 12-Aug-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"12-Aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public Offering comprising of Fresh Issue aggregating up to Rs. 2,000 million and Offer for Sale of up to 9,166,000 Equity Shares (including Employee reservation portion aggregating up to Rs. 15 million and Anchor Investor portion of up to 34,87,717 Equity Shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "100% Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 768 to Rs. 807 per Equity Share"
+        },
+        {
+         "title": "Discount",
+         "value": "Rs. 76 per equity share to Eligible Employees"
+        },
+        {
+         "title": "Face Value",
+         "value": "Re. 1 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re. 1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "18 Equity Shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "18 Equity Shares"
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Eligible Employee",
+         "value": "\"Rs. 5,00,000\""
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"81,37,998 Equity Shares in multiple of 18 Equity Shares (Calculated at Higher Price band)\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"58,12,848 Equity Shares in multiple of 18 Equity Shares (Calculated at Higher Price band)\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "\"Kotak Mahindra Capital Company Limited, IIFL Capital Services Limited, Jefferies India Private Limited and Motilal Oswal Investment Advisors Limited\""
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "Axis Bank Limited and ICICI Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND and EMP (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "KFin Technologies Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"Selenium, Tower B, Plot 31 32, Financial District, Nanakramguda, Serilingampally Mandal, Hyderabad 500 032, Telangana, India\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"M Murali Krishna, +91 40 6716 2222, molbio.ipo@kfintech.com\""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_MOLBIO.zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_MOLBIO.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_MOLBIO.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_MOLBIO.zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_MOLBIO.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_MOLBIO.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_MOLBIO.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "MOLBIO"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {
+     "list": {
+      "Scrip_cd": 4729,
+      "Scrip_Name": "Molbio Diagnostics Limited",
+      "short_name": null,
+      "Start_Dt": "2026-08-10T00:00:00",
+      "End_Dt": "2026-08-12T00:00:00",
+      "Price_Band": "768.00 - 807.00",
+      "Face_Val": 1.0,
+      "IR_flag": "IPO",
+      "IR_FLAG_FULL": "IPO",
+      "Status": "L",
+      "eXCHANGE_PLATFORM": "MainBoard",
+      "FLAG": 1,
+      "IPO_NO": 7875,
+      "Is_retailertype": 1,
+      "Cum_Shares_BuyBack": null,
+      "RN": 1,
+      "LONG_NAME": null
+     },
+     "detail": {
+      "IPONO_0": [
+       {
+        "DT_TM": "",
+        "DT_TMC": "",
+        "ISBID_Detail": "1",
+        "IPO_NO": "7875",
+        "ScripCode": "4729",
+        "ScripName": "Molbio Diagnostics Limited",
+        "Security_Type": "Equity",
+        "Symbol": "MOLBIO",
+        "Issue_Period": "10 Aug 2026 to 12 Aug 2026",
+        "IPO_Market_Timings": "10.00 am to 5.00 pm",
+        "Post_Issue_Modification": "",
+        "DY1": "",
+        "Cut_off_time_for_UPI_Mandate_Confirmation": "12-August-2026 (Upto 5.00 pm)",
+        "Issue_Size_No_of_shares": "8158529",
+        "Price_Band": "768.00-807.00|/Employee Discount of Rs 76 to Eligible Employees|",
+        "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/MOLBIODIAGNOSTICSLIMITED_PriceBandAd_20260806150406.pdf",
+        "Face_Value": "1.00",
+        "Tick_Size": "1.00",
+        "Market_Lot": "18",
+        "Minimum_Bid_Quantity": "18",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "8137998",
+        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "5812848",
+        "Rating": "",
+        "DY2": "",
+        "Book_Running_Lead_Manager": "Kotak Mahindra Capital Company Limited^||||||||molbio.ipo@kotak.com|Ganesh Rane#IIFL Capital Services Limited (formerly known as IIFL Securities Limited)^||||||||molbio.ipo@iiflcap.com|Nishita Mody / Pawan Kumar Jain#Jefferies India Private Limited^||||||||Molbio.IPO@jefferies.com|Suhani Bhareja#Motilal Oswal Investment Advisors Limited^||||||||molbio.ipo@motilaloswal.com|Kunal Thakkar / Vaibhav Shah",
+        "Co_Book_Running_Lead_Manager": "",
+        "Syndicate_Member": "",
+        "Eligible_Banks": "",
+        "Registrar": "KFin Technologies Limited^||||||||molbio.ipo@kfintech.com",
+        "Sponsor_Bank": "AXIS BANK^||||||||Vasco.Branchhead@axisbank.com|Nitin Satardekar#ICICI BANK^||||||||Ipocmg@icici.bank.in|Varun Badai",
+        "DY3": "",
+        "Prospectus_GID": "https://listing.bseindia.com/Download//PreAnchor/MolbioDiagnosticsLimited_AbridgedProspectus_20260806150406.pdf",
+        "Addendum": "",
+        "Corrigendum": "",
+        "Anchor_Details": "",
+        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4729",
+        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4729",
+        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4729",
+        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
+        "DY4": "",
+        "Public_Notices": "",
+        "Notes": "As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.",
+        "Remarks": "",
+        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
+        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
+        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
+        "DY5": "",
+        "DY6": ""
+       }
+      ],
+      "IPONO_1": [
+       {
+        "NEW_ID": "8a3cebac-81e3-4934-ba60-5f9e5a895ab1",
+        "IPO_NO": "7875",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:49:16",
+        "DYN_ORDER": "1"
+       },
+       {
+        "NEW_ID": "bce1630a-151c-41f2-973b-9a69abbf36a7",
+        "IPO_NO": "7875",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:49:16",
+        "DYN_ORDER": "2"
+       },
+       {
+        "NEW_ID": "b172454a-acfa-462b-88f2-afb316816afc",
+        "IPO_NO": "7875",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:49:16",
+        "DYN_ORDER": "3"
+       },
+       {
+        "NEW_ID": "fa648350-5a3d-4a7f-91e9-9c515d0e7426",
+        "IPO_NO": "7875",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:49:16",
+        "DYN_ORDER": "4"
+       },
+       {
+        "NEW_ID": "90fa1b19-b3eb-4d66-925c-cc00d34cb45d",
+        "IPO_NO": "7875",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:49:16",
+        "DYN_ORDER": "5"
+       },
+       {
+        "NEW_ID": "d4d5f1c7-a2e0-45e3-993c-c1e06fb28205",
+        "IPO_NO": "7875",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/8/2026 09:49:16",
+        "DYN_ORDER": "6"
+       }
+      ],
+      "IPONO_2": [],
+      "IPONO_3": [],
+      "IPONO_4": [
+       {
+        "NOTICE_ID": "",
+        "NOTICE_DATE": "8/7/2026 21:25:48",
+        "NOTICE_NO": "20260807-43",
+        "SUBJECT": "Public Issue of MOLBIO DIAGNOSTICS LIMITED - Allocation to Anchor Investors",
+        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260807-43/20260807-43.pdf"
+       },
+       {
+        "NOTICE_ID": "dfe1d700-7b2d-4537-8d95-4dfe028eb236",
+        "NOTICE_DATE": "8/3/2022 00:00:00",
+        "NOTICE_NO": "20220803-40",
+        "SUBJECT": "Processing of ASBA applications in Public Issue of Equity Shares and Convertibles",
+        "FILENAME": ""
+       }
+      ],
+      "status": "success"
+     },
+     "subscription": {
+      "table2": [
+       {
+        "SRNo": "Sr.No.",
+        "col2": "Category",
+        "col3": "No.of shares offered/reserved",
+        "col4": "No. of shares bid for",
+        "col5": "No. of times of total meant for the category",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1",
+        "col2": "Qualified Institutional Buyers (QIBs)",
+        "col3": "2325145",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(a)",
+        "col2": "Foreign Institutional Investors (FIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(b)",
+        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(c)",
+        "col2": "Mutual Funds",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(d)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2",
+        "col2": "Non Institutional Investors (NIIs)",
+        "col3": "1743860",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1",
+        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
+        "col3": "1162574",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2",
+        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
+        "col3": "581286",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3",
+        "col2": "Retail Individual Investors (RIIs)",
+        "col3": "4069005",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(a)",
+        "col2": "Cut Off",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(b)",
+        "col2": "Price Bids ",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4",
+        "col2": "Employee Reserved",
+        "col3": "20519",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(a)",
+        "col2": "Employee (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(b)",
+        "col2": "Employee (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5",
+        "col2": "Reservation PortionShareholder",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(a)",
+        "col2": "RPS (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(b)",
+        "col2": "RPS (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "",
+        "col2": "Total",
+        "col3": "8158529",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Molbio Diagnostics Limited",
+        "Maxdt": ""
+       }
+      ]
+     }
+    }
+   }
+  },
   {
    "id": "leap-india",
    "companyName": "Leap India Limited",
@@ -2542,8 +3809,8 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "8/7/2026 17:00:00",
-        "DT_TMC": "Friday, August 07 ,  2026  5:00:00 PM",
+        "DT_TM": "8/7/2026 17:03:54",
+        "DT_TMC": "Friday, August 07 ,  2026  5:03:54 PM",
         "ISBID_Detail": "1",
         "IPO_NO": "7867",
         "ScripCode": "4721",
@@ -2691,43 +3958,43 @@
         "Price": "88.00",
         "Quantity": "72310800",
         "Price1": "88",
-        "process_dttm": "8/7/2026 17:09:00"
+        "process_dttm": "8/7/2026 19:00:00"
        },
        {
         "Price": "89.00",
         "Quantity": "72152400",
         "Price1": "89",
-        "process_dttm": "8/7/2026 17:09:00"
+        "process_dttm": "8/7/2026 19:00:00"
        },
        {
         "Price": "90.00",
         "Quantity": "72133200",
         "Price1": "90",
-        "process_dttm": "8/7/2026 17:09:00"
+        "process_dttm": "8/7/2026 19:00:00"
        },
        {
         "Price": "91.00",
         "Quantity": "72092400",
         "Price1": "91",
-        "process_dttm": "8/7/2026 17:09:00"
+        "process_dttm": "8/7/2026 19:00:00"
        },
        {
         "Price": "92.00",
         "Quantity": "72078000",
         "Price1": "92",
-        "process_dttm": "8/7/2026 17:09:00"
+        "process_dttm": "8/7/2026 19:00:00"
        },
        {
         "Price": "93.00",
         "Quantity": "72042000",
         "Price1": "93",
-        "process_dttm": "8/7/2026 17:09:00"
+        "process_dttm": "8/7/2026 19:00:00"
        },
        {
         "Price": "94.00",
         "Quantity": "71970000",
         "Price1": "94",
-        "process_dttm": "8/7/2026 17:09:00"
+        "process_dttm": "8/7/2026 19:00:00"
        }
       ],
       "IPONO_4": [
@@ -3733,1263 +5000,6 @@
    }
   },
   {
-   "id": "dhoot-transmission",
-   "companyName": "Dhoot Transmission Limited",
-   "exchanges": [
-    "NSE",
-    "BSE"
-   ],
-   "symbol": "DHOOTTRANS",
-   "bseScripCode": "4727",
-   "series": "EQ",
-   "status": "upcoming",
-   "issueType": "100% Book Building",
-   "issueStartDate": "2026-08-10",
-   "issueEndDate": "2026-08-12",
-   "listingDate": null,
-   "priceBand": {
-    "min": 829.0,
-    "max": 871.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 2.0,
-   "lotSize": 17,
-   "issueSize": {
-    "shares": 24956363,
-    "amount": null
-   },
-   "leadManagers": [
-    "Axis Capital Limited",
-    "Jefferies India Private Limited",
-    "Kotak Mahindra Capital Company Limited",
-    "Nomura Financial Advisory",
-    "Securities (India) Private Limited",
-    "SBI Capital Markets Limited",
-    "360 ONE WAM Limited."
-   ],
-   "registrar": "KFin Technologies Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=DHOOTTRANS&series=EQ&type=Upcoming",
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Dhoot Transmission Limited",
-      "issueEndDate": "12-Aug-2026",
-      "issuePrice": "Rs.829 to Rs.871",
-      "issueSize": "24956363",
-      "issueStartDate": "10-Aug-2026",
-      "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "DHOOTTRANS"
-     },
-     "detail": {
-      "companyName": "DHOOTTRANS",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfSharesOffered": "0.0",
-        "noOfTime": "0.00",
-        "noOfsharesBid": "0.0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Dhoot Transmission Limited",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "DHOOTTRANS"
-        },
-        {
-         "title": "Issue Period",
-         "value": "10-Aug-2026 to 12-Aug-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"12-Aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer of Fresh Issue of Aggregating Up to Rs. 14,000 million and Offer for sale up to 19,137,602 Equity Shares (Including Eligible Employees Reservation Portion of Aggregating up to Rs. 60 million and Anchor Investor portion of 1,05,42,657 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "100% Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 829/- to Rs. 871/- per Equity Share"
-        },
-        {
-         "title": "Discount",
-         "value": "Rs. 80 per equity share to Eligible Employees"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs. 2 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re. 1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "17 Equity Shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "17 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Subscription Amount for Eligible Employee",
-         "value": "\"Rs. 5,00,000\""
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"2,48,76,253 Equity Shares in multiple of 17 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"17,976,514 Equity Shares in multiple of 17 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "\"Axis Capital Limited, Jefferies India Private Limited, Kotak Mahindra Capital Company Limited, Nomura Financial Advisory and Securities (India) Private Limited, SBI Capital Markets Limited, 360 ONE WAM Limited.\""
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Axis Bank Limited and HDFC Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND and EMP (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "KFin Technologies Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"Selenium, Tower B, Plot 31 32, Financial District, Nanakramguda, Serilingampally Mandal, Hyderabad 500 032, Telangana, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"M Murali Krishna, +91- 40 6716 2222/ 1800 309 4001, dhoot.ipo@kfintech.com \""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_DHOOTTRANS.zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_DHOOTTRANS.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_DHOOTTRANS.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_DHOOTTRANS.zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_DHOOTTRANS.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_DHOOTTRANS.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_DHOOTTRANS.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "DHOOTTRANS"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {
-     "list": {
-      "Scrip_cd": 4727,
-      "Scrip_Name": "Dhoot Transmission Limited",
-      "short_name": null,
-      "Start_Dt": "2026-08-10T00:00:00",
-      "End_Dt": "2026-08-12T00:00:00",
-      "Price_Band": "829.00 - 871.00",
-      "Face_Val": 2.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "F",
-      "eXCHANGE_PLATFORM": "MainBoard",
-      "FLAG": 7,
-      "IPO_NO": 7873,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "",
-        "DT_TMC": "",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7873",
-        "ScripCode": "4727",
-        "ScripName": "Dhoot Transmission Limited",
-        "Security_Type": "Equity",
-        "Symbol": "DHOOTTRANS",
-        "Issue_Period": "10 Aug 2026 to 12 Aug 2026",
-        "IPO_Market_Timings": "10.00 am to 5.00 pm",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "12-August-2026 (Upto 5.00 pm)",
-        "Issue_Size_No_of_shares": "24956363",
-        "Price_Band": "829.00-871.00|/Employee Discount of Rs 80 to Eligible Employees|",
-        "Price_Band_Advertisement": "https://listing.bseindia.com/Download/8888888/PreAnchor/PriceBandAd_20260806111902.pdf",
-        "Face_Value": "2.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "17",
-        "Minimum_Bid_Quantity": "17",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "24876253",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "17976514",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "Axis Capital Limited^1st Floor, Axis HouseP.B. Marg, Worli Mumbai -400 025 Maharashtra, India ||||||||dtl.ipo@axiscap.in|Harish Patel/ Simran Gadh#Jefferies India Private Limited^Level 16, Express Towers,Nariman PointMumbai- 400 021Maharashtra, India||||||||Dhoot.Transmission.IPO@jefferies.com|Akshat Shah / Nidhi Rana#Kotak Mahindra Capital Company Limited^1st Floor, 27 BKC, Plot No. C – 27“G” Block, Bandra Kurla Complex Bandra (East)Mumbai- 400 051 Maharashtra, India||||||||Dhoot.ipo@kotak.com|Ganesh Rane#Nomura Financial Advisory and Securities (India) Private Limited^Ceejay House, 11th Level, Plot FShivsagar Estate, Dr. Annie Besant Road Worli Mumbai -400 018 Maharashtra, India ||||||||dhootipo@nomura.com|Vishal Khanjani/ Shreyas Goel#SBI Capital Markets Limited^1501, 15th FloorA & B Wing G Block Parinee Crescenzo Bandra Kurla ComplexBandra (East) Mumbai- 400 051 Maharashtra, India||||||||dhoottransmission.ipo@sbicaps.com|Kritika Shetty/ Sylvia Mendonca#360 ONE WAM Limited^360 ONE Centre, Kamala City Senapati Bapat Marg, Lower Parel (West) Mumbai – 400 013||||||||dhoottransmission.ipo@360.one|Devesh Patkar",
-        "Co_Book_Running_Lead_Manager": "",
-        "Syndicate_Member": "",
-        "Eligible_Banks": "",
-        "Registrar": "KFin Technologies Limited^Selenium Tower B, Plot No. 31 and 32, Financial District, Nanakramguda, Serilingampally, Hyderabad, Rangareddy 500 032, Telangana, India||||||||dhoot.ipo@kfintech.com",
-        "Sponsor_Bank": "AXIS BANK^Axis House”, 6th Floor, C-2 Wadia International Centre Pandurang Budhkar Marg, Worli Mumbai - 400 025, Maharashtra, India||||||||Saurabh2.Rao@axis.bank.in,bhilasha.Kushwaha@axis.bank.in,Prathamesh2.Pawar@axis.bank.in,UPI_IPO_Onbo|Vilas Sirsat#HDFC BANK^HDFC Bank Limited, FIG-OPS Department – Lodha, I Think Techno Campus, O-3 Level, Next to Kanjurmarg Railway Station, Kanjurmarg (East), Mumbai – 400042, Maharashtra, India||||||||btiscsb@hdfcbank.com,btiops@hdfc.bank.in,vaibhav.gadge@hdfc.bank.in,pravin.teli2@hdfc.bank.in,eric.b|Eric Bacha, Sachin Gawade, Pravin Teli, Siddharth Jadhav, Tushar Gavankar",
-        "DY3": "",
-        "Prospectus_GID": "https://listing.bseindia.com/Download/8888888/PreAnchor/Dhoot_20260806111901.zip",
-        "Addendum": "",
-        "Corrigendum": "",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4727",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4727",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4727",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "02386605-b8ee-496a-8815-9b74390d3c55",
-        "IPO_NO": "7873",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:52:59",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "a4504ee8-5c1a-4478-b6ee-e2f50d74df92",
-        "IPO_NO": "7873",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:52:59",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "caf9b775-a08b-4b25-9523-9ede582fa89d",
-        "IPO_NO": "7873",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:52:59",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "039a522c-02bd-48de-8fe9-e7f5c769afb0",
-        "IPO_NO": "7873",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:52:59",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "677c6c32-11b0-4ccb-9424-6dcc6be38ad7",
-        "IPO_NO": "7873",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:52:59",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "f4c2a2fd-7eeb-4395-97b4-bf05f49610f6",
-        "IPO_NO": "7873",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:52:59",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [],
-      "IPONO_3": [],
-      "IPONO_4": [
-       {
-        "NOTICE_ID": "",
-        "NOTICE_DATE": "8/7/2026 22:19:04",
-        "NOTICE_NO": "20260807-44",
-        "SUBJECT": "Public Issue of DHOOT TRANSMISSION LIMITED - Allocation to Anchor Investors",
-        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260807-44/20260807-44.pdf"
-       },
-       {
-        "NOTICE_ID": "dfe1d700-7b2d-4537-8d95-4dfe028eb236",
-        "NOTICE_DATE": "8/3/2022 00:00:00",
-        "NOTICE_NO": "20220803-40",
-        "SUBJECT": "Processing of ASBA applications in Public Issue of Equity Shares and Convertibles",
-        "FILENAME": ""
-       }
-      ],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "6899735",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(d)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors (NIIs)",
-        "col3": "5392957",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1",
-        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
-        "col3": "3595305",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2",
-        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
-        "col3": "1797652",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "12583565",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "80106",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "24956363",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Dhoot Transmission Limited",
-        "Maxdt": ""
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "molbio-diagnostics",
-   "companyName": "Molbio Diagnostics Limited",
-   "exchanges": [
-    "NSE",
-    "BSE"
-   ],
-   "symbol": "MOLBIO",
-   "bseScripCode": "4729",
-   "series": "EQ",
-   "status": "upcoming",
-   "issueType": "100% Book Building",
-   "issueStartDate": "2026-08-10",
-   "issueEndDate": "2026-08-12",
-   "listingDate": null,
-   "priceBand": {
-    "min": 768.0,
-    "max": 807.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 1.0,
-   "lotSize": 18,
-   "issueSize": {
-    "shares": 8158529,
-    "amount": null
-   },
-   "leadManagers": [
-    "Kotak Mahindra Capital Company Limited",
-    "IIFL Capital Services Limited",
-    "Jefferies India Private Limited",
-    "Motilal Oswal Investment Advisors Limited"
-   ],
-   "registrar": "KFin Technologies Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=MOLBIO&series=EQ&type=Upcoming",
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Molbio Diagnostics Limited",
-      "issueEndDate": "12-Aug-2026",
-      "issuePrice": "Rs.768 to Rs.807",
-      "issueSize": "8158529",
-      "issueStartDate": "10-Aug-2026",
-      "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "MOLBIO"
-     },
-     "detail": {
-      "companyName": "MOLBIO",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfSharesOffered": "0.0",
-        "noOfTime": "0.00",
-        "noOfsharesBid": "0.0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Molbio Diagnostics Limited",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "MOLBIO"
-        },
-        {
-         "title": "Issue Period",
-         "value": "10-Aug-2026 to 12-Aug-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"12-Aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offering comprising of Fresh Issue aggregating up to Rs. 2,000 million and Offer for Sale of up to 9,166,000 Equity Shares (including Employee reservation portion aggregating up to Rs. 15 million and Anchor Investor portion of up to 34,87,717 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "100% Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 768 to Rs. 807 per Equity Share"
-        },
-        {
-         "title": "Discount",
-         "value": "Rs. 76 per equity share to Eligible Employees"
-        },
-        {
-         "title": "Face Value",
-         "value": "Re. 1 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re. 1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "18 Equity Shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "18 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Subscription Amount for Eligible Employee",
-         "value": "\"Rs. 5,00,000\""
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"81,37,998 Equity Shares in multiple of 18 Equity Shares (Calculated at Higher Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"58,12,848 Equity Shares in multiple of 18 Equity Shares (Calculated at Higher Price band)\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "\"Kotak Mahindra Capital Company Limited, IIFL Capital Services Limited, Jefferies India Private Limited and Motilal Oswal Investment Advisors Limited\""
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Axis Bank Limited and ICICI Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND and EMP (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "KFin Technologies Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"Selenium, Tower B, Plot 31 32, Financial District, Nanakramguda, Serilingampally Mandal, Hyderabad 500 032, Telangana, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"M Murali Krishna, +91 40 6716 2222, molbio.ipo@kfintech.com\""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_MOLBIO.zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_MOLBIO.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_MOLBIO.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_MOLBIO.zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_MOLBIO.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_MOLBIO.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_MOLBIO.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "MOLBIO"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {
-     "list": {
-      "Scrip_cd": 4729,
-      "Scrip_Name": "Molbio Diagnostics Limited",
-      "short_name": null,
-      "Start_Dt": "2026-08-10T00:00:00",
-      "End_Dt": "2026-08-12T00:00:00",
-      "Price_Band": "768.00 - 807.00",
-      "Face_Val": 1.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "F",
-      "eXCHANGE_PLATFORM": "MainBoard",
-      "FLAG": 7,
-      "IPO_NO": 7875,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "",
-        "DT_TMC": "",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7875",
-        "ScripCode": "4729",
-        "ScripName": "Molbio Diagnostics Limited",
-        "Security_Type": "Equity",
-        "Symbol": "MOLBIO",
-        "Issue_Period": "10 Aug 2026 to 12 Aug 2026",
-        "IPO_Market_Timings": "10.00 am to 5.00 pm",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "12-August-2026 (Upto 5.00 pm)",
-        "Issue_Size_No_of_shares": "8158529",
-        "Price_Band": "768.00-807.00|/Employee Discount of Rs 76 to Eligible Employees|",
-        "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/MOLBIODIAGNOSTICSLIMITED_PriceBandAd_20260806150406.pdf",
-        "Face_Value": "1.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "18",
-        "Minimum_Bid_Quantity": "18",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "8137998",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "5812848",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "Kotak Mahindra Capital Company Limited^||||||||molbio.ipo@kotak.com|Ganesh Rane#IIFL Capital Services Limited (formerly known as IIFL Securities Limited)^||||||||molbio.ipo@iiflcap.com|Nishita Mody / Pawan Kumar Jain#Jefferies India Private Limited^||||||||Molbio.IPO@jefferies.com|Suhani Bhareja#Motilal Oswal Investment Advisors Limited^||||||||molbio.ipo@motilaloswal.com|Kunal Thakkar / Vaibhav Shah",
-        "Co_Book_Running_Lead_Manager": "",
-        "Syndicate_Member": "",
-        "Eligible_Banks": "",
-        "Registrar": "KFin Technologies Limited^||||||||molbio.ipo@kfintech.com",
-        "Sponsor_Bank": "AXIS BANK^||||||||Vasco.Branchhead@axisbank.com|Nitin Satardekar#ICICI BANK^||||||||Ipocmg@icici.bank.in|Varun Badai",
-        "DY3": "",
-        "Prospectus_GID": "https://listing.bseindia.com/Download//PreAnchor/MolbioDiagnosticsLimited_AbridgedProspectus_20260806150406.pdf",
-        "Addendum": "",
-        "Corrigendum": "",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4729",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4729",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4729",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "8a3cebac-81e3-4934-ba60-5f9e5a895ab1",
-        "IPO_NO": "7875",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:49:16",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "bce1630a-151c-41f2-973b-9a69abbf36a7",
-        "IPO_NO": "7875",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:49:16",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "b172454a-acfa-462b-88f2-afb316816afc",
-        "IPO_NO": "7875",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:49:16",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "fa648350-5a3d-4a7f-91e9-9c515d0e7426",
-        "IPO_NO": "7875",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:49:16",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "90fa1b19-b3eb-4d66-925c-cc00d34cb45d",
-        "IPO_NO": "7875",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:49:16",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "d4d5f1c7-a2e0-45e3-993c-c1e06fb28205",
-        "IPO_NO": "7875",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/8/2026 09:49:16",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [],
-      "IPONO_3": [],
-      "IPONO_4": [
-       {
-        "NOTICE_ID": "",
-        "NOTICE_DATE": "8/7/2026 21:25:48",
-        "NOTICE_NO": "20260807-43",
-        "SUBJECT": "Public Issue of MOLBIO DIAGNOSTICS LIMITED - Allocation to Anchor Investors",
-        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260807-43/20260807-43.pdf"
-       },
-       {
-        "NOTICE_ID": "dfe1d700-7b2d-4537-8d95-4dfe028eb236",
-        "NOTICE_DATE": "8/3/2022 00:00:00",
-        "NOTICE_NO": "20220803-40",
-        "SUBJECT": "Processing of ASBA applications in Public Issue of Equity Shares and Convertibles",
-        "FILENAME": ""
-       }
-      ],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "2325145",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(d)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors (NIIs)",
-        "col3": "1743860",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1",
-        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
-        "col3": "1162574",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2",
-        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
-        "col3": "581286",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "4069005",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "20519",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "8158529",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Molbio Diagnostics Limited",
-        "Maxdt": ""
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
    "id": "anawil-wire-and-engineering",
    "companyName": "Anawil Wire and Engineering Limited",
    "exchanges": [
@@ -5002,13 +5012,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-08-03",
    "issueEndDate": "2026-08-05",
-   "listingDate": null,
+   "listingDate": "2026-08-10",
    "priceBand": {
     "min": 257.0,
     "max": 270.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 270.0,
    "faceValue": 10.0,
    "lotSize": 400,
    "issueSize": {
@@ -5038,16 +5048,36 @@
       "companyName": "Anawil Wire and Engineering Limited",
       "ipoEndDate": "05-AUG-2026",
       "ipoStartDate": "03-AUG-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "270",
+      "listingDate": "10-AUG-2026",
       "priceRange": "Rs.257 to Rs.270",
       "securityType": "SME",
       "symbol": "ANAWIL",
       "company": "Anawil Wire and Engineering Limited"
      },
      "detail": {
-      "companyName": "ANAWIL",
-      "metaInfo": {},
+      "companyName": "Anawil Wire and Engineering Limited",
+      "metaInfo": {
+       "symbol": "ANAWIL",
+       "companyName": "Anawil Wire and Engineering Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1J5V01013",
+       "listingDate": "2026-08-10",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -23224,489 +23254,6 @@
        "heading": null,
        "symbol": null,
        "updateTime": "Updated as on 14-May-2026 19:00:00"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
-  {
-   "id": "onemi-technology-solutions",
-   "companyName": "OnEMI Technology Solutions Limited",
-   "exchanges": [
-    "BSE"
-   ],
-   "symbol": null,
-   "bseScripCode": null,
-   "series": null,
-   "status": "closed",
-   "issueType": null,
-   "issueStartDate": null,
-   "issueEndDate": null,
-   "listingDate": "2026-05-08",
-   "priceBand": null,
-   "issuePrice": 171.0,
-   "faceValue": null,
-   "lotSize": null,
-   "issueSize": {
-    "shares": null,
-    "amount": null
-   },
-   "leadManagers": [],
-   "registrar": null,
-   "subscription": null,
-   "urls": {
-    "nse": null,
-    "bse": "https://www.bseindia.com/stock-share-price/onemi-technology-solutions-ltd/kissht/544754/"
-   },
-   "raw": {
-    "nse": {},
-    "bse": {
-     "list": {
-      "CompanyName": "OnEMI Technology Solutions Limited",
-      "Company_Short_Name": "KISSHT",
-      "IssuePrice": 171.0,
-      "ListedOn": "2026-05-08T00:00:00",
-      "ListingDayClose": 208.4,
-      "ListingDayGain": 37.4,
-      "CurrentPrice": 299.95,
-      "GainLoss": 128.95,
-      "Time": "2026-12-31T00:00:00",
-      "IMAGE": "https://www.bseindia.com/stock-share-price/onemi-technology-solutions-ltd/kissht/544754/"
-     }
-    }
-   }
-  },
-  {
-   "id": "simca-advertising",
-   "companyName": "Simca Advertising Limited",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "SIMCA",
-   "bseScripCode": null,
-   "series": "SME",
-   "status": "closed",
-   "issueType": "100 % Book Building",
-   "issueStartDate": "2026-05-08",
-   "issueEndDate": "2026-05-12",
-   "listingDate": "2026-05-15",
-   "priceBand": {
-    "min": 174.0,
-    "max": 183.0,
-    "currency": "INR"
-   },
-   "issuePrice": 183.0,
-   "faceValue": 10.0,
-   "lotSize": 600,
-   "issueSize": {
-    "shares": null,
-    "amount": null
-   },
-   "leadManagers": [
-    "Socradamus Capital Private Limited"
-   ],
-   "registrar": "MUFG Intime India Private Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 0.0,
-     "nii": 0.0
-    }
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=SIMCA&series=SME&type=Past",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Simca Advertising Limited",
-      "ipoEndDate": "12-MAY-2026",
-      "ipoStartDate": "08-MAY-2026",
-      "issuePrice": "183",
-      "listingDate": "15-MAY-2026",
-      "priceRange": "Rs.174 to Rs.183",
-      "securityType": "SME",
-      "symbol": "SIMCA",
-      "company": "Simca Advertising Limited"
-     },
-     "detail": {
-      "companyName": "Simca Advertising Limited",
-      "metaInfo": {
-       "symbol": "SIMCA",
-       "companyName": "Simca Advertising Limited",
-       "industry": "Advertising & Media Agencies",
-       "activeSeries": [
-        "SM"
-       ],
-       "debtSeries": [],
-       "isFNOSec": false,
-       "isCASec": false,
-       "isSLBSec": false,
-       "isDebtSec": false,
-       "isSuspended": false,
-       "tempSuspendedSeries": [],
-       "isETFSec": false,
-       "isDelisted": false,
-       "isin": "INE1K4J01018",
-       "listingDate": "2026-05-15",
-       "isMunicipalBond": false,
-       "isHybridSymbol": false,
-       "segment": "SME"
-      },
-      "bidDetails": [
-       {
-        "category": "Qualified Institutional Buyers(QIBs)",
-        "noOfshareBid": "49305000",
-        "noofapplication": "93",
-        "srNo": "1"
-       },
-       {
-        "category": "Foreign Institutional Investors(FIIs)",
-        "noOfshareBid": "11584200",
-        "noofapplication": "17",
-        "srNo": "1(a)"
-       },
-       {
-        "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "noOfshareBid": "1691400",
-        "noofapplication": "30",
-        "srNo": "1(b)"
-       },
-       {
-        "category": "Mutual funds",
-        "noOfshareBid": "0",
-        "noofapplication": "0",
-        "srNo": "1(c)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "36029400",
-        "noofapplication": "46",
-        "srNo": "1(d)"
-       },
-       {
-        "category": "Non Institutional Investors",
-        "noOfshareBid": "84113400",
-        "noofapplication": "20755",
-        "srNo": "2"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-        "noOfshareBid": "63447600",
-        "noofapplication": "10100",
-        "srNo": "2.1"
-       },
-       {
-        "category": "Corporates",
-        "noOfshareBid": "555000",
-        "noofapplication": "67",
-        "srNo": "2.1(a)"
-       },
-       {
-        "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "61707000",
-        "noofapplication": "9928",
-        "srNo": "2.1(b)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "1185600",
-        "noofapplication": "105",
-        "srNo": "2.1(c)"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-        "noOfshareBid": "20665800",
-        "noofapplication": "10655",
-        "srNo": "2.2"
-       },
-       {
-        "category": "Corporates",
-        "noOfshareBid": "149400",
-        "noofapplication": "80",
-        "srNo": "2.2(a)"
-       },
-       {
-        "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "20237400",
-        "noofapplication": "10422",
-        "srNo": "2.2(b)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "279000",
-        "noofapplication": "153",
-        "srNo": "2.2(c)"
-       },
-       {
-        "category": "Individual Investors (IND category bidding for 2 Lots)",
-        "noOfshareBid": "74866800",
-        "noofapplication": "62389",
-        "srNo": "3"
-       },
-       {
-        "category": "Total",
-        "noOfshareBid": "208285200",
-        "noofapplication": "83237",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall, at all times, maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "SIMCA"
-        },
-        {
-         "title": "Issue Period",
-         "value": "08-May-2026 to 12-May-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "12-May-2026 (upto 5:00 PM) The cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate."
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer comprising of Fresh Issue of up to 31,71,600 Equity Shares (including Market maker portion of 1,59,000 Equity Shares and Anchor Allocation of 4,39,200 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "100 % Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs.174 to Rs.183 per equity share"
-        },
-        {
-         "title": "Lot Size",
-         "value": "600 Equity Shares"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs.10"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re.1"
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m. (Bidding Timings on Issue Closure upto 4:00 P.M.)"
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"25,73,400 Equity Shares (Calculated at Higher Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"20,85,600 Equity Shares (Calculated at Higher Price band)\""
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "Socradamus Capital Private Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Kotak Mahindra Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND and NOH\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "MUFG Intime India Private Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"C101, 247 Park, 1st Floor, L B S Marg, Vikhroli (West), Mumbai 400 083, Maharashtra, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Shanti Gopalkrishnan, +91 81081 14949, simca.smeipo@in.mpms.mufg.com\""
-        },
-        {
-         "title": "e-form link",
-         "value": "<a href=https://ipoforms.nseindia.com/issueforms/html/index.jsp target=new>e-Forms</a>"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_SIMCA.zip"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_SIMCA.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_SIMCA.zip"
-        },
-        {
-         "title": "Security Parameters ",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_SIMCA.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_SIMCA.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_SIMCA.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "heading": "Simca Advertising Limited",
-       "symbol": "SIMCA"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Qualified Institutional Buyers(QIBs)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "3172200",
-         "noOfTotalMeant": "0.00",
-         "srNo": "1"
-        },
-        {
-         "category": "Foreign Institutional Investors(FIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "328200",
-         "noOfTotalMeant": "",
-         "srNo": "1(a)"
-        },
-        {
-         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "0",
-         "noOfTotalMeant": "",
-         "srNo": "1(b)"
-        },
-        {
-         "category": "Mutual funds",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "0",
-         "noOfTotalMeant": "",
-         "srNo": "1(c)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "2844000",
-         "noOfTotalMeant": "",
-         "srNo": "1(d)"
-        },
-        {
-         "category": "Non Institutional Investors",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "3286200",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "2370600",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2.1"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "66000",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "2298600",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "6000",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(c)"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "915600",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2.2"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "13200",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "898800",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "3600",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(c)"
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "6458400.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on 11-May-2026 17:00:00"
       }
      }
     },
