@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-16T15:53:09Z",
+ "generatedAt": "2026-08-16T23:44:50Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -11,11 +11,1274 @@
   }
  },
  "counts": {
-  "open": 5,
-  "upcoming": 5,
+  "open": 7,
+  "upcoming": 3,
   "closed": 45
  },
  "ipos": [
+  {
+   "id": "horizon-industrial-parks",
+   "companyName": "Horizon Industrial Parks Limited",
+   "exchanges": [
+    "NSE",
+    "BSE"
+   ],
+   "symbol": "HORIZONIND",
+   "bseScripCode": "4744",
+   "series": "EQ",
+   "status": "open",
+   "issueType": "100% Book Building",
+   "issueStartDate": "2026-08-17",
+   "issueEndDate": "2026-08-19",
+   "listingDate": null,
+   "priceBand": {
+    "min": 57.0,
+    "max": 60.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 10.0,
+   "lotSize": 250,
+   "issueSize": {
+    "shares": 194625000,
+    "amount": null
+   },
+   "leadManagers": [
+    "JM Financial Limited",
+    "Axis Capital Limited",
+    "IIFL Capital Services Limited",
+    "SBI Capital Markets Limited",
+    "360 One WAM Limited"
+   ],
+   "registrar": "KFin Technologies Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 0,
+    "sharesBid": 0,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=HORIZONIND&series=EQ&type=Active",
+    "bse": "https://www.bseindia.com/publicissue"
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Horizon Industrial Parks Limited",
+      "issueEndDate": "19-Aug-2026",
+      "issuePrice": "Rs.57 to Rs.60",
+      "issueSize": "251356273",
+      "issueStartDate": "17-Aug-2026",
+      "series": "EQ",
+      "status": "Active",
+      "symbol": "HORIZONIND",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
+     },
+     "detail": {
+      "companyName": "HORIZONIND",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfSharesOffered": "0.0",
+        "noOfTime": "0.00",
+        "noOfsharesBid": "0.0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "Horizon Industrial Parks Limited",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "HORIZONIND"
+        },
+        {
+         "title": "Issue Period",
+         "value": "17-Aug-2026 to 19-Aug-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"19-Aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public Offer comprising of Fresh Issue aggregating upto Rs. 26,000 million (including Employee Reservation Portion aggregating up to Rs. 50 million & Anchor Investor Portion of 19,46,25,000 Equity Shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "100% Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 57 to Rs. 60 per Equity Share"
+        },
+        {
+         "title": "Discount",
+         "value": "Rs. 5 per equity share to Eligible Employees"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs. 10 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re. 1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "250 Equity Shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "250 Equity Shares"
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Eligible Employee",
+         "value": "\"Rs. 5,00,000\""
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"25,03,94,500 Equity Shares in multiple of 250 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"11,38,15,750 Equity Shares in multiple of 250 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "\"JM Financial Limited, Axis Capital Limited, IIFL Capital Services Limited, SBI Capital Markets Limited and 360 One WAM Limited\""
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "Axis Bank Limited and Kotak Mahindra Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND and EMP (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "KFin Technologies Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"Selenium, Tower B, Plot No. 31 and 32, Gachibowli, Financial District, Nanakramguda, Serilingampally, Hyderabad 500 032, Telangana, India\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"M. Murali Krishna, +91 40 6716 2222, horizon.ipo@kfintech.com\""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_HORIZONIND.zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_HORIZONIND.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_HORIZONIND.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_HORIZONIND.zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_HORIZONIND.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_HORIZONIND.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_HORIZONIND.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "HORIZONIND"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {
+     "list": {
+      "Scrip_cd": 4744,
+      "Scrip_Name": "Horizon Industrial Parks Limited",
+      "short_name": null,
+      "Start_Dt": "2026-08-17T00:00:00",
+      "End_Dt": "2026-08-19T00:00:00",
+      "Price_Band": "57.00 - 60.00",
+      "Face_Val": 10.0,
+      "IR_flag": "IPO",
+      "IR_FLAG_FULL": "IPO",
+      "Status": "L",
+      "eXCHANGE_PLATFORM": "MainBoard",
+      "FLAG": 1,
+      "IPO_NO": 7890,
+      "Is_retailertype": 1,
+      "Cum_Shares_BuyBack": null,
+      "RN": 1,
+      "LONG_NAME": null
+     },
+     "detail": {
+      "IPONO_0": [
+       {
+        "DT_TM": "",
+        "DT_TMC": "",
+        "ISBID_Detail": "1",
+        "IPO_NO": "7890",
+        "ScripCode": "4744",
+        "ScripName": "Horizon Industrial Parks Limited",
+        "Security_Type": "Equity",
+        "Symbol": "HORIZONIND",
+        "Issue_Period": "17 Aug 2026 to 19 Aug 2026",
+        "IPO_Market_Timings": "10.00 am to 5.00 pm",
+        "Post_Issue_Modification": "",
+        "DY1": "",
+        "Cut_off_time_for_UPI_Mandate_Confirmation": "19-August-2026 (Upto 5.00 pm)",
+        "Issue_Size_No_of_shares": "251356273",
+        "Price_Band": "57.00-60.00|/Employee Discount of Rs 5 to Eligible Employees|",
+        "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/PriceBandAd_20260812192140.pdf",
+        "Face_Value": "10.00",
+        "Tick_Size": "1.00",
+        "Market_Lot": "250",
+        "Minimum_Bid_Quantity": "250",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "250394500",
+        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "113815750",
+        "Rating": "",
+        "DY2": "",
+        "Book_Running_Lead_Manager": "JM Financial Limited^7th Floor, Cnergy Appasaheb Marathe Marg, Prabhadevi Mumbai 400 025 Maharashtra, India||||||||horizon.ipo@jmfl.com|Prachee Dhuri",
+        "Co_Book_Running_Lead_Manager": "Axis Capital Limited^1st Floor, Axis House, Pandurang Budhkar Marg, Worli Mumbai 400 025, Maharashtra, India||||||||horizonindustrialparks.ipo@axiscap.in#IIFL Capital Services Limited^24th Floor, One Lodha Place Senapati Bapat Marg, Lower Parel (W) Mumbai 400013 India||||||||horizon.ipo@iiflcap.com#SBI Capital Markets Limited^1501, 15th Floor A & B Wing, Parinee Crescenzo G Block, Bandra Kurla Complex, Bandra East Mumbai 400 051 Maharashtra, India||||||||horizon.ipo@sbicaps.com#360 ONE WAM limited^360 ONE Centre, Kamala City, Senapati Bapat Marg, Lower Parel (West), Mumbai – 400013, Maharashtra||||||||horizonindustrial.ipo@360.one",
+        "Syndicate_Member": "",
+        "Eligible_Banks": "",
+        "Registrar": "KFin Technologies Limited^Selenium, Tower B, Plot No. 31 and 32, Gachibowli, Financial District, Nanakramguda, Serilingampally, Hyderabad 500 032, Telangana, India||||||||horizon.ipo@kfintech.com",
+        "Sponsor_Bank": "KOTAK BANK^Intellion Square, 501, 5th Floor, A Wing, Infinity IT Park, Gen. A.K. Vaidya Marg, Malad – East, Mumbai 400 097 Maharashtra, India||||||||cmsipo@kotak.com|Sumit Panchal#AXIS BANK^MWBC Andheri I Leela Galleria 1st Floor I Mumbai 400059||||||||MWBCAndheri.OperationsHead@axis.bank.in|Vintia Pednekar",
+        "DY3": "",
+        "Prospectus_GID": "https://listing.bseindia.com/Download//PreAnchor/RHP_20260812192140.pdf",
+        "Addendum": "",
+        "Corrigendum": "",
+        "Anchor_Details": "",
+        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4744",
+        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4744",
+        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4744",
+        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
+        "DY4": "",
+        "Public_Notices": "",
+        "Notes": "As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.",
+        "Remarks": "",
+        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
+        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
+        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
+        "DY5": "",
+        "DY6": ""
+       }
+      ],
+      "IPONO_1": [
+       {
+        "NEW_ID": "caf95be3-7684-4ae6-9967-b6a4dcd4f012",
+        "IPO_NO": "7890",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 23:09:14",
+        "DYN_ORDER": "1"
+       },
+       {
+        "NEW_ID": "7cd7f668-4f2f-441c-8a01-c4f436bf33d9",
+        "IPO_NO": "7890",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 23:09:14",
+        "DYN_ORDER": "2"
+       },
+       {
+        "NEW_ID": "a30ea81d-b5e5-44e6-aa2e-bbe6643adf5b",
+        "IPO_NO": "7890",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 23:09:14",
+        "DYN_ORDER": "3"
+       },
+       {
+        "NEW_ID": "67d1b33e-304a-45b5-bde4-6ff7dbef1485",
+        "IPO_NO": "7890",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 23:09:14",
+        "DYN_ORDER": "4"
+       },
+       {
+        "NEW_ID": "09530725-1661-458e-9891-0770e8121675",
+        "IPO_NO": "7890",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 23:09:14",
+        "DYN_ORDER": "5"
+       },
+       {
+        "NEW_ID": "c2c17f5c-b9c7-4555-aa48-8f04fe5a65cb",
+        "IPO_NO": "7890",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 23:09:14",
+        "DYN_ORDER": "6"
+       }
+      ],
+      "IPONO_2": [],
+      "IPONO_3": [],
+      "IPONO_4": [
+       {
+        "NOTICE_ID": "",
+        "NOTICE_DATE": "8/14/2026 22:29:55",
+        "NOTICE_NO": "20260814-49",
+        "SUBJECT": "Public Issue of HORIZON INDUSTRIAL PARKS LIMITED - Allocation to Anchor Investors",
+        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-49/20260814-49.pdf"
+       },
+       {
+        "NOTICE_ID": "dfe1d700-7b2d-4537-8d95-4dfe028eb236",
+        "NOTICE_DATE": "8/3/2022 00:00:00",
+        "NOTICE_NO": "20220803-40",
+        "SUBJECT": "Processing of ASBA applications in Public Issue of Equity Shares and Convertibles",
+        "FILENAME": ""
+       }
+      ],
+      "status": "success"
+     },
+     "subscription": {
+      "table2": [
+       {
+        "SRNo": "Sr.No.",
+        "col2": "Category",
+        "col3": "No.of shares offered/reserved",
+        "col4": "No. of shares bid for",
+        "col5": "No. of times of total meant for the category",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1",
+        "col2": "Qualified Institutional Buyers (QIBs)",
+        "col3": "136578947",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(a)",
+        "col2": "Foreign Institutional Investors (FIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(b)",
+        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(c)",
+        "col2": "Mutual Funds",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(d)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2",
+        "col2": "Non Institutional Investors (NIIs)",
+        "col3": "68289473",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1",
+        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
+        "col3": "45526316",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2",
+        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
+        "col3": "22763157",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3",
+        "col2": "Retail Individual Investors (RIIs)",
+        "col3": "45526315",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(a)",
+        "col2": "Cut Off",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(b)",
+        "col2": "Price Bids ",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4",
+        "col2": "Employee Reserved",
+        "col3": "961538",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(a)",
+        "col2": "Employee (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(b)",
+        "col2": "Employee (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5",
+        "col2": "Reservation PortionShareholder",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(a)",
+        "col2": "RPS (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(b)",
+        "col2": "RPS (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "",
+        "col2": "Total",
+        "col3": "251356273",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Horizon Industrial Parks Limited",
+        "Maxdt": ""
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "lalithaa-jewellery-mart",
+   "companyName": "Lalithaa Jewellery Mart Limited",
+   "exchanges": [
+    "NSE",
+    "BSE"
+   ],
+   "symbol": "LALITHAA",
+   "bseScripCode": "4742",
+   "series": "EQ",
+   "status": "open",
+   "issueType": "100% Book Building",
+   "issueStartDate": "2026-08-17",
+   "issueEndDate": "2026-08-19",
+   "listingDate": null,
+   "priceBand": {
+    "min": 190.0,
+    "max": 201.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 5.0,
+   "lotSize": 74,
+   "issueSize": {
+    "shares": 25283581,
+    "amount": null
+   },
+   "leadManagers": [
+    "Anand Rathi Advisors Limited",
+    "Equirus Capital Limited"
+   ],
+   "registrar": "MUFG Intime India Private Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 0,
+    "sharesBid": 0,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=LALITHAA&series=EQ&type=Active",
+    "bse": "https://www.bseindia.com/publicissue"
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Lalithaa Jewellery Mart Limited",
+      "issueEndDate": "19-Aug-2026",
+      "issuePrice": "Rs.190 to Rs.201",
+      "issueSize": "62761403",
+      "issueStartDate": "17-Aug-2026",
+      "series": "EQ",
+      "status": "Active",
+      "symbol": "LALITHAA",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
+     },
+     "detail": {
+      "companyName": "LALITHAA",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfSharesOffered": "0.0",
+        "noOfTime": "0.00",
+        "noOfsharesBid": "0.0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "Lalithaa Jewellery Mart Limited",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "LALITHAA"
+        },
+        {
+         "title": "Issue Period",
+         "value": "17-Aug-2026 to 19-Aug-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"19-Aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public Offer comprising of Fresh Issue aggregating upto Rs. 12,000 million and Offer for Sale aggregating upto Rs. 5,000 million (including Employee Reservation Portion aggregating up to Rs. 60 million and Anchor Investor portion of 2,52,83,581 Equity shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "100% Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 190 to Rs. 201 per Equity Share"
+        },
+        {
+         "title": "Discount",
+         "value": "Rs. 19 per equity share to Eligible Employees"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs. 5 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re. 1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "74 Equity Shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "74 Equity Shares"
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Eligible Employee",
+         "value": "\"Rs. 5,00,000\""
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"6,24,10,490 Equity Shares in multiple of 74 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"4,45,78,932 Equity Shares in multiple of 74 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "Anand Rathi Advisors Limited and Equirus Capital Limited"
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "Axis Bank Limited and HDFC Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND and EMP (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "MUFG Intime India Private Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"C 101, Embassy 247, Lal Bahadur Shastri Marg, Vikhroli (West) Mumbai 400 083, Maharashtra, India\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"Shanti Gopalkrishnan, +91 810 811 4949, lalithaajewellery.ipo@in.mpms.mufg.com\""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_LALITHAA.zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_LALITHAA.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_LALITHAA.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_LALITHAA.zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_LALITHAA.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_LALITHAA.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_LALITHAA.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "LALITHAA"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {
+     "list": {
+      "Scrip_cd": 4742,
+      "Scrip_Name": "Lalithaa Jewellery Mart Limited",
+      "short_name": null,
+      "Start_Dt": "2026-08-17T00:00:00",
+      "End_Dt": "2026-08-19T00:00:00",
+      "Price_Band": "190.00 - 201.00",
+      "Face_Val": 5.0,
+      "IR_flag": "IPO",
+      "IR_FLAG_FULL": "IPO",
+      "Status": "L",
+      "eXCHANGE_PLATFORM": "MainBoard",
+      "FLAG": 1,
+      "IPO_NO": 7886,
+      "Is_retailertype": 1,
+      "Cum_Shares_BuyBack": null,
+      "RN": 1,
+      "LONG_NAME": null
+     },
+     "detail": {
+      "IPONO_0": [
+       {
+        "DT_TM": "",
+        "DT_TMC": "",
+        "ISBID_Detail": "1",
+        "IPO_NO": "7886",
+        "ScripCode": "4742",
+        "ScripName": "Lalithaa Jewellery Mart Limited",
+        "Security_Type": "Equity",
+        "Symbol": "LALITHAA",
+        "Issue_Period": "17 Aug 2026 to 19 Aug 2026",
+        "IPO_Market_Timings": "10.00 am to 5.00 pm",
+        "Post_Issue_Modification": "",
+        "DY1": "",
+        "Cut_off_time_for_UPI_Mandate_Confirmation": "19-August-2026 (Upto 5.00 pm)",
+        "Issue_Size_No_of_shares": "62761403",
+        "Price_Band": "190.00-201.00|/Employee Discount of Rs 19 to Eligible Employees|",
+        "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/FINANCIALEXPRESSMUMBAIENGLISHLALITHAAJEWELLERYMARTLTDPRICEBANDAD_20260812121744.pdf",
+        "Face_Value": "5.00",
+        "Tick_Size": "1.00",
+        "Market_Lot": "74",
+        "Minimum_Bid_Quantity": "74",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "62410490",
+        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "44578932",
+        "Rating": "",
+        "DY2": "",
+        "Book_Running_Lead_Manager": "Anand Rathi Advisors Limited^11th Floor, Times Tower, Kamla City, Senapati Bapat Marg, Lower Parel, Mumbai 400 013 Maharashtra, India||||||||ljml.ipo@rathi.com|Harsh Birmiwal/ Shivani Tapadia#Equirus Capital Limited^Unit No. 2601B, 26th Floor A-Wing, Marathon Futurex, Maftal Mills Compound, N.M. Joshi Marg, Lower Parel Mumbai 400 013, Maharashtra, India||||||||lalithaa.ipo@equirus.com|Malay Shah/Siddh Vadecha",
+        "Co_Book_Running_Lead_Manager": "",
+        "Syndicate_Member": "",
+        "Eligible_Banks": "",
+        "Registrar": "MUFG Intime India Private Limited^C-101, Embassy 247 L B S Marg,Vikhroli (West),Mumbai 400083, Maharashtra, India||||||||lalithaajewellery.ipo@in.mpms.mufg.com",
+        "Sponsor_Bank": "AXIS BANK^Old No:2, New No:3, Club House Road, Anna Salai, Chennai - 600002 Tamil Nadu, India.||||||||Cbbchennai.operationshead@axisbank.com|Rekha S#HDFC BANK^Lodha, I Think Techno Campus, O-3 Level, Next to Kanjurmarg Railway Station, Kanjurmarg (East), Mumbai – 400042, Maharashtra, India||||||||siddharth.jadhav@hdfc.bank.in, sachin.gawade@hdfc.bank.in, eric.bacha@hdfc.bank.in, tushar.gavankar@|Eric Bacha/ Vaibhav Gadge / Sachin Gawade / Pravin Teli / Siddharth Jadhav / Tushar Gavankar",
+        "DY3": "",
+        "Prospectus_GID": "https://listing.bseindia.com/Download//PreAnchor/LalithaaJewelleryMartLimitedRedHerringProspectus_20260812121744.pdf",
+        "Addendum": "",
+        "Corrigendum": "",
+        "Anchor_Details": "",
+        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4742",
+        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4742",
+        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4742",
+        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
+        "DY4": "",
+        "Public_Notices": "",
+        "Notes": "As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.",
+        "Remarks": "",
+        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
+        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
+        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
+        "DY5": "",
+        "DY6": ""
+       }
+      ],
+      "IPONO_1": [
+       {
+        "NEW_ID": "36a43af7-5f52-4db1-b7ab-7a9fc8b7a4a7",
+        "IPO_NO": "7886",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 22:47:51",
+        "DYN_ORDER": "1"
+       },
+       {
+        "NEW_ID": "6b2bf2e2-202f-47e4-af09-f1dc2ffd7b0a",
+        "IPO_NO": "7886",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 22:47:51",
+        "DYN_ORDER": "2"
+       },
+       {
+        "NEW_ID": "6ff77e06-d761-46a0-ba9a-7d7cddf3206f",
+        "IPO_NO": "7886",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 22:47:51",
+        "DYN_ORDER": "3"
+       },
+       {
+        "NEW_ID": "95132a07-51bd-45ce-a32b-757aca6a4768",
+        "IPO_NO": "7886",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 22:47:51",
+        "DYN_ORDER": "4"
+       },
+       {
+        "NEW_ID": "f23b6ab7-5064-406c-8e96-35775ad93f18",
+        "IPO_NO": "7886",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 22:47:51",
+        "DYN_ORDER": "5"
+       },
+       {
+        "NEW_ID": "fde72f2d-104e-43e2-8aa2-374180f534d5",
+        "IPO_NO": "7886",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "8/14/2026 22:47:51",
+        "DYN_ORDER": "6"
+       }
+      ],
+      "IPONO_2": [],
+      "IPONO_3": [],
+      "IPONO_4": [
+       {
+        "NOTICE_ID": "",
+        "NOTICE_DATE": "8/14/2026 22:25:23",
+        "NOTICE_NO": "20260814-48",
+        "SUBJECT": "Public Issue of Lalithaa Jewellery Mart Limited - Allocation to Anchor Investors.",
+        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-48/20260814-48.pdf"
+       },
+       {
+        "NOTICE_ID": "dfe1d700-7b2d-4537-8d95-4dfe028eb236",
+        "NOTICE_DATE": "8/3/2022 00:00:00",
+        "NOTICE_NO": "20220803-40",
+        "SUBJECT": "Processing of ASBA applications in Public Issue of Equity Shares and Convertibles",
+        "FILENAME": ""
+       }
+      ],
+      "status": "success"
+     },
+     "subscription": {
+      "table2": [
+       {
+        "SRNo": "Sr.No.",
+        "col2": "Category",
+        "col3": "No.of shares offered/reserved",
+        "col4": "No. of shares bid for",
+        "col5": "No. of times of total meant for the category",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1",
+        "col2": "Qualified Institutional Buyers (QIBs)",
+        "col3": "17831578",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(a)",
+        "col2": "Foreign Institutional Investors (FIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(b)",
+        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(c)",
+        "col2": "Mutual Funds",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(d)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2",
+        "col2": "Non Institutional Investors (NIIs)",
+        "col3": "13373685",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1",
+        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
+        "col3": "8915790",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2",
+        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
+        "col3": "4457895",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3",
+        "col2": "Retail Individual Investors (RIIs)",
+        "col3": "31205263",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(a)",
+        "col2": "Cut Off",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(b)",
+        "col2": "Price Bids ",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4",
+        "col2": "Employee Reserved",
+        "col3": "350877",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(a)",
+        "col2": "Employee (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(b)",
+        "col2": "Employee (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5",
+        "col2": "Reservation PortionShareholder",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(a)",
+        "col2": "RPS (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(b)",
+        "col2": "RPS (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "",
+        "col2": "Total",
+        "col3": "62761403",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Lalithaa Jewellery Mart Limited",
+        "Maxdt": ""
+       }
+      ]
+     }
+    }
+   }
+  },
   {
    "id": "ens-enterprises",
    "companyName": "ENS ENTERPRISES LIMITED",
@@ -3635,1259 +4898,6 @@
    }
   },
   {
-   "id": "horizon-industrial-parks",
-   "companyName": "Horizon Industrial Parks Limited",
-   "exchanges": [
-    "NSE",
-    "BSE"
-   ],
-   "symbol": "HORIZONIND",
-   "bseScripCode": "4744",
-   "series": "EQ",
-   "status": "upcoming",
-   "issueType": "100% Book Building",
-   "issueStartDate": "2026-08-17",
-   "issueEndDate": "2026-08-19",
-   "listingDate": null,
-   "priceBand": {
-    "min": 57.0,
-    "max": 60.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 10.0,
-   "lotSize": 250,
-   "issueSize": {
-    "shares": 251356273,
-    "amount": null
-   },
-   "leadManagers": [
-    "JM Financial Limited",
-    "Axis Capital Limited",
-    "IIFL Capital Services Limited",
-    "SBI Capital Markets Limited",
-    "360 One WAM Limited"
-   ],
-   "registrar": "KFin Technologies Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=HORIZONIND&series=EQ&type=Upcoming",
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Horizon Industrial Parks Limited",
-      "issueEndDate": "19-Aug-2026",
-      "issuePrice": "Rs.57 to Rs.60",
-      "issueSize": "251356273",
-      "issueStartDate": "17-Aug-2026",
-      "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "HORIZONIND"
-     },
-     "detail": {
-      "companyName": "HORIZONIND",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfSharesOffered": "0.0",
-        "noOfTime": "0.00",
-        "noOfsharesBid": "0.0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Horizon Industrial Parks Limited",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "HORIZONIND"
-        },
-        {
-         "title": "Issue Period",
-         "value": "17-Aug-2026 to 19-Aug-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"19-Aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer comprising of Fresh Issue aggregating upto Rs. 26,000 million (including Employee Reservation Portion aggregating up to Rs. 50 million & Anchor Investor Portion of 19,46,25,000 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "100% Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 57 to Rs. 60 per Equity Share"
-        },
-        {
-         "title": "Discount",
-         "value": "Rs. 5 per equity share to Eligible Employees"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs. 10 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re. 1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "250 Equity Shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "250 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Subscription Amount for Eligible Employee",
-         "value": "\"Rs. 5,00,000\""
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"25,03,94,500 Equity Shares in multiple of 250 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"11,38,15,750 Equity Shares in multiple of 250 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "\"JM Financial Limited, Axis Capital Limited, IIFL Capital Services Limited, SBI Capital Markets Limited and 360 One WAM Limited\""
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Axis Bank Limited and Kotak Mahindra Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND and EMP (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "KFin Technologies Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"Selenium, Tower B, Plot No. 31 and 32, Gachibowli, Financial District, Nanakramguda, Serilingampally, Hyderabad 500 032, Telangana, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"M. Murali Krishna, +91 40 6716 2222, horizon.ipo@kfintech.com\""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_HORIZONIND.zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_HORIZONIND.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_HORIZONIND.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_HORIZONIND.zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_HORIZONIND.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_HORIZONIND.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_HORIZONIND.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "HORIZONIND"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {
-     "list": {
-      "Scrip_cd": 4744,
-      "Scrip_Name": "Horizon Industrial Parks Limited",
-      "short_name": null,
-      "Start_Dt": "2026-08-17T00:00:00",
-      "End_Dt": "2026-08-19T00:00:00",
-      "Price_Band": "57.00 - 60.00",
-      "Face_Val": 10.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "F",
-      "eXCHANGE_PLATFORM": "MainBoard",
-      "FLAG": 7,
-      "IPO_NO": 7890,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "",
-        "DT_TMC": "",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7890",
-        "ScripCode": "4744",
-        "ScripName": "Horizon Industrial Parks Limited",
-        "Security_Type": "Equity",
-        "Symbol": "HORIZONIND",
-        "Issue_Period": "17 Aug 2026 to 19 Aug 2026",
-        "IPO_Market_Timings": "10.00 am to 5.00 pm",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "19-August-2026 (Upto 5.00 pm)",
-        "Issue_Size_No_of_shares": "251356273",
-        "Price_Band": "57.00-60.00|/Employee Discount of Rs 5 to Eligible Employees|",
-        "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/PriceBandAd_20260812192140.pdf",
-        "Face_Value": "10.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "250",
-        "Minimum_Bid_Quantity": "250",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "250394500",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "113815750",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "JM Financial Limited^7th Floor, Cnergy Appasaheb Marathe Marg, Prabhadevi Mumbai 400 025 Maharashtra, India||||||||horizon.ipo@jmfl.com|Prachee Dhuri",
-        "Co_Book_Running_Lead_Manager": "Axis Capital Limited^1st Floor, Axis House, Pandurang Budhkar Marg, Worli Mumbai 400 025, Maharashtra, India||||||||horizonindustrialparks.ipo@axiscap.in#IIFL Capital Services Limited^24th Floor, One Lodha Place Senapati Bapat Marg, Lower Parel (W) Mumbai 400013 India||||||||horizon.ipo@iiflcap.com#SBI Capital Markets Limited^1501, 15th Floor A & B Wing, Parinee Crescenzo G Block, Bandra Kurla Complex, Bandra East Mumbai 400 051 Maharashtra, India||||||||horizon.ipo@sbicaps.com#360 ONE WAM limited^360 ONE Centre, Kamala City, Senapati Bapat Marg, Lower Parel (West), Mumbai – 400013, Maharashtra||||||||horizonindustrial.ipo@360.one",
-        "Syndicate_Member": "",
-        "Eligible_Banks": "",
-        "Registrar": "KFin Technologies Limited^Selenium, Tower B, Plot No. 31 and 32, Gachibowli, Financial District, Nanakramguda, Serilingampally, Hyderabad 500 032, Telangana, India||||||||horizon.ipo@kfintech.com",
-        "Sponsor_Bank": "KOTAK BANK^Intellion Square, 501, 5th Floor, A Wing, Infinity IT Park, Gen. A.K. Vaidya Marg, Malad – East, Mumbai 400 097 Maharashtra, India||||||||cmsipo@kotak.com|Sumit Panchal#AXIS BANK^MWBC Andheri I Leela Galleria 1st Floor I Mumbai 400059||||||||MWBCAndheri.OperationsHead@axis.bank.in|Vintia Pednekar",
-        "DY3": "",
-        "Prospectus_GID": "https://listing.bseindia.com/Download//PreAnchor/RHP_20260812192140.pdf",
-        "Addendum": "",
-        "Corrigendum": "",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4744",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4744",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4744",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "caf95be3-7684-4ae6-9967-b6a4dcd4f012",
-        "IPO_NO": "7890",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 23:09:14",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "7cd7f668-4f2f-441c-8a01-c4f436bf33d9",
-        "IPO_NO": "7890",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 23:09:14",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "a30ea81d-b5e5-44e6-aa2e-bbe6643adf5b",
-        "IPO_NO": "7890",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 23:09:14",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "67d1b33e-304a-45b5-bde4-6ff7dbef1485",
-        "IPO_NO": "7890",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 23:09:14",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "09530725-1661-458e-9891-0770e8121675",
-        "IPO_NO": "7890",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 23:09:14",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "c2c17f5c-b9c7-4555-aa48-8f04fe5a65cb",
-        "IPO_NO": "7890",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 23:09:14",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [],
-      "IPONO_3": [],
-      "IPONO_4": [
-       {
-        "NOTICE_ID": "",
-        "NOTICE_DATE": "8/14/2026 22:29:55",
-        "NOTICE_NO": "20260814-49",
-        "SUBJECT": "Public Issue of HORIZON INDUSTRIAL PARKS LIMITED - Allocation to Anchor Investors",
-        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-49/20260814-49.pdf"
-       },
-       {
-        "NOTICE_ID": "dfe1d700-7b2d-4537-8d95-4dfe028eb236",
-        "NOTICE_DATE": "8/3/2022 00:00:00",
-        "NOTICE_NO": "20220803-40",
-        "SUBJECT": "Processing of ASBA applications in Public Issue of Equity Shares and Convertibles",
-        "FILENAME": ""
-       }
-      ],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "136578947",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(d)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors (NIIs)",
-        "col3": "68289473",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1",
-        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
-        "col3": "45526316",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2",
-        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
-        "col3": "22763157",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "45526315",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "961538",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "251356273",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Horizon Industrial Parks Limited",
-        "Maxdt": ""
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "lalithaa-jewellery-mart",
-   "companyName": "Lalithaa Jewellery Mart Limited",
-   "exchanges": [
-    "NSE",
-    "BSE"
-   ],
-   "symbol": "LALITHAA",
-   "bseScripCode": "4742",
-   "series": "EQ",
-   "status": "upcoming",
-   "issueType": "100% Book Building",
-   "issueStartDate": "2026-08-17",
-   "issueEndDate": "2026-08-19",
-   "listingDate": null,
-   "priceBand": {
-    "min": 190.0,
-    "max": 201.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 5.0,
-   "lotSize": 74,
-   "issueSize": {
-    "shares": 62761403,
-    "amount": null
-   },
-   "leadManagers": [
-    "Anand Rathi Advisors Limited",
-    "Equirus Capital Limited"
-   ],
-   "registrar": "MUFG Intime India Private Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=LALITHAA&series=EQ&type=Upcoming",
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Lalithaa Jewellery Mart Limited",
-      "issueEndDate": "19-Aug-2026",
-      "issuePrice": "Rs.190 to Rs.201",
-      "issueSize": "62761403",
-      "issueStartDate": "17-Aug-2026",
-      "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "LALITHAA"
-     },
-     "detail": {
-      "companyName": "LALITHAA",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfSharesOffered": "0.0",
-        "noOfTime": "0.00",
-        "noOfsharesBid": "0.0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Lalithaa Jewellery Mart Limited",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "LALITHAA"
-        },
-        {
-         "title": "Issue Period",
-         "value": "17-Aug-2026 to 19-Aug-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"19-Aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer comprising of Fresh Issue aggregating upto Rs. 12,000 million and Offer for Sale aggregating upto Rs. 5,000 million (including Employee Reservation Portion aggregating up to Rs. 60 million and Anchor Investor portion of 2,52,83,581 Equity shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "100% Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 190 to Rs. 201 per Equity Share"
-        },
-        {
-         "title": "Discount",
-         "value": "Rs. 19 per equity share to Eligible Employees"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs. 5 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re. 1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "74 Equity Shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "74 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Subscription Amount for Eligible Employee",
-         "value": "\"Rs. 5,00,000\""
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"6,24,10,490 Equity Shares in multiple of 74 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"4,45,78,932 Equity Shares in multiple of 74 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "Anand Rathi Advisors Limited and Equirus Capital Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Axis Bank Limited and HDFC Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND and EMP (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "MUFG Intime India Private Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"C 101, Embassy 247, Lal Bahadur Shastri Marg, Vikhroli (West) Mumbai 400 083, Maharashtra, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Shanti Gopalkrishnan, +91 810 811 4949, lalithaajewellery.ipo@in.mpms.mufg.com\""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_LALITHAA.zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_LALITHAA.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_LALITHAA.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_LALITHAA.zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_LALITHAA.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_LALITHAA.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_LALITHAA.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "LALITHAA"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {
-     "list": {
-      "Scrip_cd": 4742,
-      "Scrip_Name": "Lalithaa Jewellery Mart Limited",
-      "short_name": null,
-      "Start_Dt": "2026-08-17T00:00:00",
-      "End_Dt": "2026-08-19T00:00:00",
-      "Price_Band": "190.00 - 201.00",
-      "Face_Val": 5.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "F",
-      "eXCHANGE_PLATFORM": "MainBoard",
-      "FLAG": 7,
-      "IPO_NO": 7886,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "",
-        "DT_TMC": "",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7886",
-        "ScripCode": "4742",
-        "ScripName": "Lalithaa Jewellery Mart Limited",
-        "Security_Type": "Equity",
-        "Symbol": "LALITHAA",
-        "Issue_Period": "17 Aug 2026 to 19 Aug 2026",
-        "IPO_Market_Timings": "10.00 am to 5.00 pm",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "19-August-2026 (Upto 5.00 pm)",
-        "Issue_Size_No_of_shares": "62761403",
-        "Price_Band": "190.00-201.00|/Employee Discount of Rs 19 to Eligible Employees|",
-        "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/FINANCIALEXPRESSMUMBAIENGLISHLALITHAAJEWELLERYMARTLTDPRICEBANDAD_20260812121744.pdf",
-        "Face_Value": "5.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "74",
-        "Minimum_Bid_Quantity": "74",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "62410490",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "44578932",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "Anand Rathi Advisors Limited^11th Floor, Times Tower, Kamla City, Senapati Bapat Marg, Lower Parel, Mumbai 400 013 Maharashtra, India||||||||ljml.ipo@rathi.com|Harsh Birmiwal/ Shivani Tapadia#Equirus Capital Limited^Unit No. 2601B, 26th Floor A-Wing, Marathon Futurex, Maftal Mills Compound, N.M. Joshi Marg, Lower Parel Mumbai 400 013, Maharashtra, India||||||||lalithaa.ipo@equirus.com|Malay Shah/Siddh Vadecha",
-        "Co_Book_Running_Lead_Manager": "",
-        "Syndicate_Member": "",
-        "Eligible_Banks": "",
-        "Registrar": "MUFG Intime India Private Limited^C-101, Embassy 247 L B S Marg,Vikhroli (West),Mumbai 400083, Maharashtra, India||||||||lalithaajewellery.ipo@in.mpms.mufg.com",
-        "Sponsor_Bank": "AXIS BANK^Old No:2, New No:3, Club House Road, Anna Salai, Chennai - 600002 Tamil Nadu, India.||||||||Cbbchennai.operationshead@axisbank.com|Rekha S#HDFC BANK^Lodha, I Think Techno Campus, O-3 Level, Next to Kanjurmarg Railway Station, Kanjurmarg (East), Mumbai – 400042, Maharashtra, India||||||||siddharth.jadhav@hdfc.bank.in, sachin.gawade@hdfc.bank.in, eric.bacha@hdfc.bank.in, tushar.gavankar@|Eric Bacha/ Vaibhav Gadge / Sachin Gawade / Pravin Teli / Siddharth Jadhav / Tushar Gavankar",
-        "DY3": "",
-        "Prospectus_GID": "https://listing.bseindia.com/Download//PreAnchor/LalithaaJewelleryMartLimitedRedHerringProspectus_20260812121744.pdf",
-        "Addendum": "",
-        "Corrigendum": "",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4742",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4742",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4742",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "36a43af7-5f52-4db1-b7ab-7a9fc8b7a4a7",
-        "IPO_NO": "7886",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 22:47:51",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "6b2bf2e2-202f-47e4-af09-f1dc2ffd7b0a",
-        "IPO_NO": "7886",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 22:47:51",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "6ff77e06-d761-46a0-ba9a-7d7cddf3206f",
-        "IPO_NO": "7886",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 22:47:51",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "95132a07-51bd-45ce-a32b-757aca6a4768",
-        "IPO_NO": "7886",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 22:47:51",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "f23b6ab7-5064-406c-8e96-35775ad93f18",
-        "IPO_NO": "7886",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 22:47:51",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "fde72f2d-104e-43e2-8aa2-374180f534d5",
-        "IPO_NO": "7886",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/14/2026 22:47:51",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [],
-      "IPONO_3": [],
-      "IPONO_4": [
-       {
-        "NOTICE_ID": "",
-        "NOTICE_DATE": "8/14/2026 22:25:23",
-        "NOTICE_NO": "20260814-48",
-        "SUBJECT": "Public Issue of Lalithaa Jewellery Mart Limited - Allocation to Anchor Investors.",
-        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260814-48/20260814-48.pdf"
-       },
-       {
-        "NOTICE_ID": "dfe1d700-7b2d-4537-8d95-4dfe028eb236",
-        "NOTICE_DATE": "8/3/2022 00:00:00",
-        "NOTICE_NO": "20220803-40",
-        "SUBJECT": "Processing of ASBA applications in Public Issue of Equity Shares and Convertibles",
-        "FILENAME": ""
-       }
-      ],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "17831578",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(d)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors (NIIs)",
-        "col3": "13373685",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1",
-        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
-        "col3": "8915790",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2",
-        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
-        "col3": "4457895",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "31205263",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "350877",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "62761403",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Lalithaa Jewellery Mart Limited",
-        "Maxdt": ""
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
    "id": "milky-mist-dairy-food",
    "companyName": "Milky Mist Dairy Food Limited",
    "exchanges": [
@@ -5440,13 +5450,13 @@
    "issueType": "100% Book Building",
    "issueStartDate": "2026-08-10",
    "issueEndDate": "2026-08-12",
-   "listingDate": null,
+   "listingDate": "2026-08-17",
    "priceBand": {
     "min": 829.0,
     "max": 871.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 871.0,
    "faceValue": 2.0,
    "lotSize": 17,
    "issueSize": {
@@ -5485,16 +5495,36 @@
       "htmSym": "dhoottrans",
       "ipoEndDate": "12-AUG-2026",
       "ipoStartDate": "10-AUG-2026",
-      "issuePrice": "-",
+      "issuePrice": "   871",
       "linkRemovalDate": "13-AUG-2026",
-      "listingDate": "-",
+      "listingDate": "17-AUG-2026",
       "priceRange": "Rs.829 to Rs.871",
       "securityType": "EQ",
       "symbol": "DHOOTTRANS"
      },
      "detail": {
-      "companyName": "DHOOTTRANS",
-      "metaInfo": {},
+      "companyName": "Dhoot Transmission Limited",
+      "metaInfo": {
+       "symbol": "DHOOTTRANS",
+       "companyName": "Dhoot Transmission Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE01NH01023",
+       "listingDate": "2026-08-17",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -5984,13 +6014,13 @@
    "issueType": "100% Book Building",
    "issueStartDate": "2026-08-10",
    "issueEndDate": "2026-08-12",
-   "listingDate": null,
+   "listingDate": "2026-08-17",
    "priceBand": {
     "min": 768.0,
     "max": 807.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 807.0,
    "faceValue": 1.0,
    "lotSize": 18,
    "issueSize": {
@@ -6026,16 +6056,36 @@
       "htmSym": "molbio",
       "ipoEndDate": "12-AUG-2026",
       "ipoStartDate": "10-AUG-2026",
-      "issuePrice": "-",
+      "issuePrice": "   807",
       "linkRemovalDate": "13-AUG-2026",
-      "listingDate": "-",
+      "listingDate": "17-AUG-2026",
       "priceRange": "Rs.768 to Rs.807",
       "securityType": "EQ",
       "symbol": "MOLBIO"
      },
      "detail": {
-      "companyName": "MOLBIO",
-      "metaInfo": {},
+      "companyName": "Molbio Diagnostics Limited",
+      "metaInfo": {
+       "symbol": "MOLBIO",
+       "companyName": "Molbio Diagnostics Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE869T01028",
+       "listingDate": "2026-08-17",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -10729,7 +10779,7 @@
        "companyName": "Propshop Events and Exhibitions Limited",
        "industry": "Diversified Commercial Services",
        "activeSeries": [
-        "ST"
+        "SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
