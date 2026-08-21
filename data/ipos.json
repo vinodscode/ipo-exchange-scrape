@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21T16:05:07Z",
+ "generatedAt": "2026-08-21T23:50:10Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -11,9 +11,9 @@
   }
  },
  "counts": {
-  "open": 4,
-  "upcoming": 6,
-  "closed": 53
+  "open": 2,
+  "upcoming": 7,
+  "closed": 54
  },
  "ipos": [
   {
@@ -2416,45 +2416,36 @@
    }
   },
   {
-   "id": "dhanwel-hybrid-seeds",
-   "companyName": "Dhanwel Hybrid Seeds Limited",
+   "id": "annu-projects",
+   "companyName": "Annu Projects Limited",
    "exchanges": [
     "BSE"
    ],
-   "symbol": "DHANWEL",
-   "bseScripCode": "4755",
-   "series": "SME",
-   "status": "open",
+   "symbol": "ANNU",
+   "bseScripCode": "4763",
+   "series": "EQ",
+   "status": "upcoming",
    "issueType": "Equity",
-   "issueStartDate": "2026-08-19",
-   "issueEndDate": "2026-08-21",
+   "issueStartDate": "2026-08-25",
+   "issueEndDate": "2026-08-28",
    "listingDate": null,
    "priceBand": {
-    "min": 95.0,
+    "min": 94.0,
     "max": 99.0,
     "currency": "INR"
    },
    "issuePrice": null,
    "faceValue": 10.0,
-   "lotSize": 1200,
+   "lotSize": 151,
    "issueSize": {
-    "shares": 2700000,
+    "shares": 17683000,
     "amount": null
    },
    "leadManagers": [
-    "Wealth Mine Networks Limited"
+    "Mefcom Capital Markets Limited"
    ],
-   "registrar": "Cameo Corporate Services Limited",
-   "subscription": {
-    "timesSubscribed": 1.6191,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 1.0,
-     "nii": 0.3137,
-     "retail": 3.0795
-    }
-   },
+   "registrar": "KFin Technologies Limited",
+   "subscription": null,
    "urls": {
     "nse": null,
     "bse": "https://www.bseindia.com/publicissue"
@@ -2463,19 +2454,19 @@
     "nse": {},
     "bse": {
      "list": {
-      "Scrip_cd": 4755,
-      "Scrip_Name": "Dhanwel Hybrid Seeds Limited",
+      "Scrip_cd": 4763,
+      "Scrip_Name": "Annu Projects Limited",
       "short_name": null,
-      "Start_Dt": "2026-08-19T00:00:00",
-      "End_Dt": "2026-08-21T00:00:00",
-      "Price_Band": "95.00 - 99.00",
+      "Start_Dt": "2026-08-25T00:00:00",
+      "End_Dt": "2026-08-28T00:00:00",
+      "Price_Band": "94.00 - 99.00",
       "Face_Val": 10.0,
       "IR_flag": "IPO",
       "IR_FLAG_FULL": "IPO",
-      "Status": "L",
-      "eXCHANGE_PLATFORM": "SME",
-      "FLAG": 1,
-      "IPO_NO": 7900,
+      "Status": "F",
+      "eXCHANGE_PLATFORM": "MainBoard",
+      "FLAG": 7,
+      "IPO_NO": 7909,
       "Is_retailertype": 1,
       "Cum_Shares_BuyBack": null,
       "RN": 1,
@@ -2484,44 +2475,44 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "8/21/2026 18:59:16",
-        "DT_TMC": "Friday, August 21 ,  2026  6:59:16 PM",
+        "DT_TM": "",
+        "DT_TMC": "",
         "ISBID_Detail": "1",
-        "IPO_NO": "7900",
-        "ScripCode": "4755",
-        "ScripName": "Dhanwel Hybrid Seeds Limited",
+        "IPO_NO": "7909",
+        "ScripCode": "4763",
+        "ScripName": "Annu Projects Limited",
         "Security_Type": "Equity",
-        "Symbol": "DHANWEL",
-        "Issue_Period": "19 Aug 2026 to 21 Aug 2026",
+        "Symbol": "ANNU",
+        "Issue_Period": "25 Aug 2026 to 28 Aug 2026",
         "IPO_Market_Timings": "",
         "Post_Issue_Modification": "",
         "DY1": "",
         "Cut_off_time_for_UPI_Mandate_Confirmation": "",
-        "Issue_Size_No_of_shares": "2700000",
-        "Price_Band": "95.00-99.00",
-        "Price_Band_Advertisement": "",
+        "Issue_Size_No_of_shares": "17683000",
+        "Price_Band": "94.00-99.00",
+        "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/Priceband_20260821161126.pdf",
         "Face_Value": "10.00",
         "Tick_Size": "1.00",
-        "Market_Lot": "1200",
-        "Minimum_Bid_Quantity": "2400",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "2563200",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "2534400",
+        "Market_Lot": "151",
+        "Minimum_Bid_Quantity": "151",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "17682855",
+        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "15914645",
         "Rating": "",
         "DY2": "",
-        "Book_Running_Lead_Manager": "Wealth Mine Networks Limited^||||||||info@wealthminenetworks.com|Mr. Jay Trivedi/ Miss. Shabnam Khureshi",
+        "Book_Running_Lead_Manager": "Mefcom Capital Markets Limited^G-III, Dalamal House, Jamnalal Bajaj Marg, Nariman Point, Mumbai – 400021, Maharashtra, India||||||||apl.ipo@mefcomcap.in|Akhil Mohod/ Mukta Shirke",
         "Co_Book_Running_Lead_Manager": "",
         "Syndicate_Member": "",
         "Eligible_Banks": "",
-        "Registrar": "Cameo Corporate Services Limited^||||||||ipo@cameoindia.com",
-        "Sponsor_Bank": "KOTAK BANK^||||||||cmsipo@kotak.com |Sumit Panchal",
+        "Registrar": "KFin Technologies Limited^301, The Centrium, 3rd floor, 57 Lal Bahadur Shastri Road, Nav Pada, Kurla(West), Mumbai - 4000700, Maharastra, India||||||||annuprojects.ipo@kfintech.com",
+        "Sponsor_Bank": "AXIS BANK^4th Floor, Plot No. 25, Pusa Road ,New Delhi – 110 005||||||||cbbnewdelhi.operationshead@axis.bank.in|Supriya Gopi",
         "DY3": "",
-        "Prospectus_GID": "",
+        "Prospectus_GID": "https://listing.bseindia.com/Download//PreAnchor/Prospectus_20260821161126.zip",
         "Addendum": "",
         "Corrigendum": "",
         "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4755",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4755",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4755",
+        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4763",
+        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4763",
+        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4763",
         "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
         "DY4": "",
         "Public_Notices": "",
@@ -2536,118 +2527,56 @@
       ],
       "IPONO_1": [
        {
-        "NEW_ID": "c620d6e3-9439-4e04-8455-13fea0f24861",
-        "IPO_NO": "7900",
+        "NEW_ID": "53b21057-8255-4903-8dfe-ebfc55baffa8",
+        "IPO_NO": "7909",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/19/2026 10:10:00",
+        "INSERT_DTTM": "8/21/2026 23:51:57",
         "DYN_ORDER": "1"
        },
        {
-        "NEW_ID": "d26cd21a-df28-4f1e-bb4c-06fefb36e18f",
-        "IPO_NO": "7900",
+        "NEW_ID": "1949c62b-a8b9-44af-9086-7ebb265f40e4",
+        "IPO_NO": "7909",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/19/2026 10:10:00",
+        "INSERT_DTTM": "8/21/2026 23:51:57",
         "DYN_ORDER": "2"
        },
        {
-        "NEW_ID": "f93fc6ff-aa1b-4563-ba2a-f087edca46f4",
-        "IPO_NO": "7900",
+        "NEW_ID": "6639871e-4830-4d8c-a517-d72dfa1a08af",
+        "IPO_NO": "7909",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/19/2026 10:10:00",
+        "INSERT_DTTM": "8/21/2026 23:51:57",
         "DYN_ORDER": "3"
        },
        {
-        "NEW_ID": "a06abb10-6043-4505-b690-c9485018d99c",
-        "IPO_NO": "7900",
+        "NEW_ID": "c0fd0043-e534-449e-b501-b24679c8d5c7",
+        "IPO_NO": "7909",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/19/2026 10:10:00",
+        "INSERT_DTTM": "8/21/2026 23:51:57",
         "DYN_ORDER": "4"
        },
        {
-        "NEW_ID": "932068d8-6b8d-408e-8789-f2a6f701726a",
-        "IPO_NO": "7900",
+        "NEW_ID": "f37b2c24-ca59-41da-afba-70d9438b134a",
+        "IPO_NO": "7909",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/19/2026 10:10:00",
+        "INSERT_DTTM": "8/21/2026 23:51:57",
         "DYN_ORDER": "5"
        },
        {
-        "NEW_ID": "c4eedb1d-8d1b-4b88-9e9f-f827430b1a49",
-        "IPO_NO": "7900",
+        "NEW_ID": "158b0369-e3ca-42f1-89a0-66fcb23bd3a2",
+        "IPO_NO": "7909",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/19/2026 10:10:00",
+        "INSERT_DTTM": "8/21/2026 23:51:57",
         "DYN_ORDER": "6"
        }
       ],
-      "IPONO_2": [
-       {
-        "Price": "95.00",
-        "Quantity": "4371600",
-        "Price1": "95",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "96.00",
-        "Quantity": "4280400",
-        "Price1": "96",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "97.00",
-        "Quantity": "4266000",
-        "Price1": "97",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "98.00",
-        "Quantity": "4242000",
-        "Price1": "98",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "99.00",
-        "Quantity": "4232400",
-        "Price1": "99",
-        "process_dttm": "8/21/2026 18:59:16"
-       }
-      ],
-      "IPONO_3": [
-       {
-        "Price": "95.00",
-        "Quantity": "4371600",
-        "Price1": "95",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "96.00",
-        "Quantity": "4280400",
-        "Price1": "96",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "97.00",
-        "Quantity": "4266000",
-        "Price1": "97",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "98.00",
-        "Quantity": "4242000",
-        "Price1": "98",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "99.00",
-        "Quantity": "4232400",
-        "Price1": "99",
-        "process_dttm": "8/21/2026 19:00:00"
-       }
-      ],
+      "IPONO_2": [],
+      "IPONO_3": [],
       "IPONO_4": [],
       "status": "success"
      },
@@ -2659,17 +2588,17 @@
         "col3": "No.of shares offered/reserved",
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "1",
         "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "28800",
-        "col4": "28800",
-        "col5": "1.0000",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "1(a)",
@@ -2677,8 +2606,8 @@
         "col3": "",
         "col4": "",
         "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "1(b)",
@@ -2686,8 +2615,8 @@
         "col3": "",
         "col4": "",
         "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "1(c)",
@@ -2695,1066 +2624,125 @@
         "col3": "",
         "col4": "",
         "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "1(D)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "28800",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors",
-        "col3": "1404000",
-        "col4": "440400",
-        "col5": "0.3137",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "152400",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "288000",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "1267200",
-        "col4": "3902400",
-        "col5": "3.0795",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "3902400",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "2700000",
-        "col4": "4371600",
-        "col5": "1.6191",
-        "Scripname": "Dhanwel Hybrid Seeds Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "gaja-alternative-asset-management",
-   "companyName": "Gaja Alternative Asset Management Limited",
-   "exchanges": [
-    "NSE",
-    "BSE"
-   ],
-   "symbol": "GAJA",
-   "bseScripCode": "4749",
-   "series": "EQ",
-   "status": "open",
-   "issueType": "100% Book Building",
-   "issueStartDate": "2026-08-19",
-   "issueEndDate": "2026-08-21",
-   "listingDate": null,
-   "priceBand": {
-    "min": 152.0,
-    "max": 160.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 5.0,
-   "lotSize": 93,
-   "issueSize": {
-    "shares": 10312500,
-    "amount": null
-   },
-   "leadManagers": [
-    "JM Financial Limited",
-    "IIFL Capital Services Limited"
-   ],
-   "registrar": "MUFG Intime India Private Limited",
-   "subscription": {
-    "timesSubscribed": 15.631971500116903,
-    "sharesOffered": 2,
-    "sharesBid": 3,
-    "categories": {
-     "qib": 43.580169797867576,
-     "nii": 62.3509440212601,
-     "retail": 11.035567367424814
-    }
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=GAJA&series=EQ&type=Active",
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Gaja Alternative Asset Management Limited",
-      "issueEndDate": "21-Aug-2026",
-      "issuePrice": "Rs.152 to Rs.160",
-      "issueSize": "25328946",
-      "issueStartDate": "19-Aug-2026",
-      "series": "EQ",
-      "status": "Active",
-      "symbol": "GAJA",
-      "category": "Total",
-      "noOfSharesOffered": "2.5328946E7",
-      "noOfTime": "15.631971500116903",
-      "noOfsharesBid": "3.95941362E8",
-      "srNo": null
-     },
-     "detail": {
-      "companyName": "GAJA",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Qualified Institutional Buyers(QIBs)",
-        "noOfSharesOffered": "7236840",
-        "noOfTime": "20.74484305304525",
-        "noOfsharesBid": "150127110",
-        "srNo": "1"
-       },
-       {
-        "category": "Foreign Institutional Investors(FIIs)",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "36888822",
-        "srNo": "1(a)"
-       },
-       {
-        "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "62835822",
-        "srNo": "1(b)"
-       },
-       {
-        "category": "Mutual funds",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "13376097",
-        "srNo": "1(c)"
-       },
-       {
-        "category": "Others",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "37026369",
-        "srNo": "1(d)"
-       },
-       {
-        "category": "Non Institutional Investors",
-        "noOfSharesOffered": "5427632",
-        "noOfTime": "29.51882717914553",
-        "noOfsharesBid": "160217331",
-        "srNo": "2"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-        "noOfSharesOffered": "3618422",
-        "noOfTime": "32.28553607069601",
-        "noOfsharesBid": "116822694",
-        "srNo": "2.1"
-       },
-       {
-        "category": "Corporates",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "1831728",
-        "srNo": "2.1(a)"
-       },
-       {
-        "category": "Individuals(Other than RIIs)",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "107478333",
-        "srNo": "2.1(b)"
-       },
-       {
-        "category": "Others",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "7512633",
-        "srNo": "2.1(c)"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-        "noOfSharesOffered": "1809210",
-        "noOfTime": "23.98540633757275",
-        "noOfsharesBid": "43394637",
-        "srNo": "2.2"
-       },
-       {
-        "category": "Corporates",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "211110",
-        "srNo": "2.2(a)"
-       },
-       {
-        "category": "Individuals(Other than RIIs)",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "40648254",
-        "srNo": "2.2(b)"
-       },
-       {
-        "category": "Others",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "2535273",
-        "srNo": "2.2(c)"
-       },
-       {
-        "category": "Retail Individual Investors(RIIs)",
-        "noOfSharesOffered": "12664474",
-        "noOfTime": "6.758821645494318",
-        "noOfsharesBid": "85596921",
-        "srNo": "3"
-       },
-       {
-        "category": "Cut Off",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "70124511",
-        "srNo": "3(a)"
-       },
-       {
-        "category": "Price bids",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "15472410",
-        "srNo": "3(b)"
-       },
-       {
-        "category": "Total",
-        "noOfSharesOffered": "2.5328946E7",
-        "noOfTime": "15.631971500116903",
-        "noOfsharesBid": "3.95941362E8",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Gaja Alternative Asset Management Limited",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "GAJA"
-        },
-        {
-         "title": "Issue Period",
-         "value": "19-Aug-2026 to 21-Aug-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"21-Aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer comprising of Fresh Issue aggregating up to Rs. 4,500 million and Offer for Sale aggregating up to Rs. 1,000 million. (Including Anchor Investor portion of 1,03,12,500 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "100% Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 152 to Rs. 160 per Equity Share"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs. 5 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re.1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "93 Equity Shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "93 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"2,53,28,922 Equity Shares in multiple of 93 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"1,80,92,034 Equity Shares in multiple of 93 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "JM Financial Limited and IIFL Capital Services Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "HDFC Bank Limited and ICICI Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND and NOH\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "MUFG Intime India Private Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"C101, Embassy 247, LBS Marg, Vikhroli (West), Mumbai 400 083, Maharashtra, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Shanti Gopalkrishnan, +91 810 811 4949, gajaalternative.ipo@in.mpms.mufg.com\""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_GAJA.zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_GAJA.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_GAJA.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_GAJA.zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_GAJA.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_GAJA.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_GAJA.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "GAJA"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Qualified Institutional Buyers(QIBs)",
-         "noOfShareOffered": "7236840",
-         "noOfSharesBid": "315382716",
-         "noOfTotalMeant": "43.580169797867576",
-         "srNo": "1"
-        },
-        {
-         "category": "Foreign Institutional Investors(FIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "89737188",
-         "noOfTotalMeant": "",
-         "srNo": "1(a)"
-        },
-        {
-         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "115202169",
-         "noOfTotalMeant": "",
-         "srNo": "1(b)"
-        },
-        {
-         "category": "Mutual funds",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "14126049",
-         "noOfTotalMeant": "",
-         "srNo": "1(c)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "96317310",
-         "noOfTotalMeant": "",
-         "srNo": "1(d)"
-        },
-        {
-         "category": "Non Institutional Investors",
-         "noOfShareOffered": "5427632",
-         "noOfSharesBid": "338417979",
-         "noOfTotalMeant": "62.3509440212601",
-         "srNo": "2"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-         "noOfShareOffered": "3618422",
-         "noOfSharesBid": "261336138",
-         "noOfTotalMeant": "72.22378650140863",
-         "srNo": "2.1"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "4470789",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "245238396",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "11626953",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(c)"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-         "noOfShareOffered": "1809210",
-         "noOfSharesBid": "77081841",
-         "noOfTotalMeant": "42.60524814698128",
-         "srNo": "2.2"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "344658",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "73417269",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "3319914",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(c)"
-        },
-        {
-         "category": "Retail Individual Investors(RIIs)",
-         "noOfShareOffered": "12664474",
-         "noOfSharesBid": "139759656",
-         "noOfTotalMeant": "11.035567367424814",
-         "srNo": "3"
-        },
-        {
-         "category": "Cut Off",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "116629998",
-         "noOfTotalMeant": "",
-         "srNo": "3(a)"
-        },
-        {
-         "category": "Price bids",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "23129658",
-         "noOfTotalMeant": "",
-         "srNo": "3(b)"
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "2.5328946E7",
-         "noOfSharesBid": "7.93560351E8",
-         "noOfTotalMeant": "31.330176589266685",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on 21-Aug-2026 19:00:00"
-      }
-     }
-    },
-    "bse": {
-     "list": {
-      "Scrip_cd": 4749,
-      "Scrip_Name": "Gaja Alternative Asset Management Limited",
-      "short_name": null,
-      "Start_Dt": "2026-08-19T00:00:00",
-      "End_Dt": "2026-08-21T00:00:00",
-      "Price_Band": "152.00 - 160.00",
-      "Face_Val": 5.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "L",
-      "eXCHANGE_PLATFORM": "MainBoard",
-      "FLAG": 1,
-      "IPO_NO": 7895,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "8/21/2026 18:59:16",
-        "DT_TMC": "Friday, August 21 ,  2026  6:59:16 PM",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7895",
-        "ScripCode": "4749",
-        "ScripName": "Gaja Alternative Asset Management Limited",
-        "Security_Type": "Equity",
-        "Symbol": "GAJA",
-        "Issue_Period": "19 Aug 2026 to 21 Aug 2026",
-        "IPO_Market_Timings": "10.00 am to 5.00 pm",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "21-August-2026 (Upto 5.00 pm)",
-        "Issue_Size_No_of_shares": "25328946",
-        "Price_Band": "152.00-160.00",
-        "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/GAAMLFE_20260814181727.pdf",
-        "Face_Value": "5.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "93",
-        "Minimum_Bid_Quantity": "93",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "25328922",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "18092034",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "JM Financial Limited^7th Floor, Cnergy, Appasaheb Marathe Marg, Prabhadevi- 400025||||||||gaja.ipo@jmfl.com|Prachee Dhuri",
-        "Co_Book_Running_Lead_Manager": "IIFL Capital Services Limited^24th Floor, One Lodha Place, Senapati Bapat Marg Lower Parel (West)||||||||gaja.ipo@iiflcap.com",
-        "Syndicate_Member": "",
-        "Eligible_Banks": "",
-        "Registrar": "MUFG Intime India Private Limited^C-101 Embassy 247 L B S Marg, Vikhroli (West), Mumbai - 400083||||||||gajaalternative.ipo@in.mpms.mufg.com",
-        "Sponsor_Bank": "ICICI BANK^Capital Market Division, 163, 5th floor, Backbay Reclamation, Churchgate , Mumbai - 400020||||||||ipocmg@icicibank.com|Varun Badai#HDFC BANK^FIG-OPS Department - Lodha I Think Techno campus, o-3 Level Next to kanjurmarg Railway Station, Kanjurmarg (East), Mumbai - 400042, Maharashtra, India||||||||siddharth.jadhav@hdfc.bank.in|Siddharth Jadhav",
-        "DY3": "",
-        "Prospectus_GID": "https://listing.bseindia.com/Download/8888888/PreAnchor/RHPGID_20260814185304.zip",
-        "Addendum": "",
-        "Corrigendum": "",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4749",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4749",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4749",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "fd295360-bb10-457a-bc96-0fadfe9c8dee",
-        "IPO_NO": "7895",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/18/2026 22:29:38",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "b392fdf1-eeee-4602-ad9b-3d9d01a7f271",
-        "IPO_NO": "7895",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/18/2026 22:29:38",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "7394f857-2012-4a0e-973d-3d1ca9815b50",
-        "IPO_NO": "7895",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/18/2026 22:29:38",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "5e885b9e-67bd-4ff3-8498-4d87eaf62357",
-        "IPO_NO": "7895",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/18/2026 22:29:38",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "880104a1-5010-4af8-b3ec-b81588f69eab",
-        "IPO_NO": "7895",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/18/2026 22:29:38",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "47fdade4-f255-4c57-9c12-0f20576e4d42",
-        "IPO_NO": "7895",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "8/18/2026 22:29:38",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [
-       {
-        "Price": "152.00",
-        "Quantity": "398944425",
-        "Price1": "152",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "153.00",
-        "Quantity": "398899506",
-        "Price1": "153",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "154.00",
-        "Quantity": "398895507",
-        "Price1": "154",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "155.00",
-        "Quantity": "398892717",
-        "Price1": "155",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "156.00",
-        "Quantity": "398871048",
-        "Price1": "156",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "157.00",
-        "Quantity": "398862306",
-        "Price1": "157",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "158.00",
-        "Quantity": "398860167",
-        "Price1": "158",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "159.00",
-        "Quantity": "398837940",
-        "Price1": "159",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "160.00",
-        "Quantity": "398812179",
-        "Price1": "160",
-        "process_dttm": "8/21/2026 18:59:16"
-       },
-       {
-        "Price": "Cut-off",
-        "Quantity": "46667865",
-        "Price1": "9999",
-        "process_dttm": "8/21/2026 18:59:16"
-       }
-      ],
-      "IPONO_3": [
-       {
-        "Price": "152.00",
-        "Quantity": "794885787",
-        "Price1": "152",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "153.00",
-        "Quantity": "794769351",
-        "Price1": "153",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "154.00",
-        "Quantity": "794755866",
-        "Price1": "154",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "155.00",
-        "Quantity": "794748147",
-        "Price1": "155",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "156.00",
-        "Quantity": "794696997",
-        "Price1": "156",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "157.00",
-        "Quantity": "794679885",
-        "Price1": "157",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "158.00",
-        "Quantity": "794652915",
-        "Price1": "158",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "159.00",
-        "Quantity": "794607252",
-        "Price1": "159",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "160.00",
-        "Quantity": "794571540",
-        "Price1": "160",
-        "process_dttm": "8/21/2026 19:00:00"
-       },
-       {
-        "Price": "Cut-off",
-        "Quantity": "116792376",
-        "Price1": "9999",
-        "process_dttm": "8/21/2026 19:00:00"
-       }
-      ],
-      "IPONO_4": [
-       {
-        "NOTICE_ID": "",
-        "NOTICE_DATE": "8/18/2026 20:17:41",
-        "NOTICE_NO": "20260818-38",
-        "SUBJECT": "Public Issue of GAJA  ALTERNATIVE ASSET MANAGEMENT LIMITED - Allocation to Anchor Investors.",
-        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260818-38/20260818-38.pdf"
-       },
-       {
-        "NOTICE_ID": "dfe1d700-7b2d-4537-8d95-4dfe028eb236",
-        "NOTICE_DATE": "8/3/2022 00:00:00",
-        "NOTICE_NO": "20220803-40",
-        "SUBJECT": "Processing of ASBA applications in Public Issue of Equity Shares and Convertibles",
-        "FILENAME": ""
-       }
-      ],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "7236840",
-        "col4": "165255606",
-        "col5": "22.8353",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "52848366",
-        "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "52366347",
-        "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "749952",
-        "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "1(d)",
         "col2": "Others",
         "col3": "",
-        "col4": "59290941",
+        "col4": "",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "2",
         "col2": "Non Institutional Investors (NIIs)",
-        "col3": "5427632",
-        "col4": "178200648",
-        "col5": "32.8321",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "col3": "0",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "2.1",
         "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
-        "col3": "3618422",
-        "col4": "144513444",
-        "col5": "39.9383",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "2.1(a)",
         "col2": "Corporates",
         "col3": "",
-        "col4": "2639061",
+        "col4": "0",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "2.1(b)",
         "col2": "Individuals (Other than RIIs)",
         "col3": "",
-        "col4": "137760063",
+        "col4": "0",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "2.1(c)",
         "col2": "Others",
         "col3": "",
-        "col4": "4114320",
+        "col4": "0",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "2.2",
         "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
-        "col3": "1809210",
-        "col4": "33687204",
-        "col5": "18.6198",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "2.2(a)",
         "col2": "Corporates",
         "col3": "",
-        "col4": "133548",
+        "col4": "0",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "2.2(b)",
         "col2": "Individuals (Other than RIIs)",
         "col3": "",
-        "col4": "32769015",
+        "col4": "0",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "2.2(c)",
         "col2": "Others",
         "col3": "",
-        "col4": "784641",
+        "col4": "0",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "3",
         "col2": "Retail Individual Investors (RIIs)",
-        "col3": "12664474",
-        "col4": "54162735",
-        "col5": "4.2767",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "3(a)",
         "col2": "Cut Off",
         "col3": "",
-        "col4": "46505487",
+        "col4": "",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "3(b)",
         "col2": "Price Bids ",
         "col3": "",
-        "col4": "7657248",
+        "col4": "",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "4",
@@ -3762,8 +2750,8 @@
         "col3": "",
         "col4": "0",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "4(a)",
@@ -3771,8 +2759,8 @@
         "col3": "",
         "col4": "",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "4(b)",
@@ -3780,8 +2768,8 @@
         "col3": "",
         "col4": "",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "5",
@@ -3789,8 +2777,8 @@
         "col3": "",
         "col4": "0",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "5(a)",
@@ -3798,8 +2786,8 @@
         "col3": "",
         "col4": "",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "5(b)",
@@ -3807,17 +2795,17 @@
         "col3": "",
         "col4": "",
         "col5": "",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        },
        {
         "SRNo": "",
         "col2": "Total",
-        "col3": "25328946",
-        "col4": "397618989",
-        "col5": "15.6982",
-        "Scripname": "Gaja Alternative Asset Management Limited",
-        "Maxdt": "8/21/2026 18:59:47"
+        "col3": "0",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Annu Projects Limited",
+        "Maxdt": ""
        }
       ]
      }
@@ -4523,14 +3511,14 @@
         "Post_Issue_Modification": "",
         "DY1": "",
         "Cut_off_time_for_UPI_Mandate_Confirmation": "27 AUGUST 2026 (upto 5 pm)",
-        "Issue_Size_No_of_shares": "26289450",
+        "Issue_Size_No_of_shares": "18145406",
         "Price_Band": "50.00-53.00",
         "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/BSEnglish_20260819173948.pdf",
         "Face_Value": "5.00",
         "Tick_Size": "1.00",
         "Market_Lot": "283",
         "Minimum_Bid_Quantity": "283",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "26289285",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "18145394",
         "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "13144501",
         "Rating": "",
         "DY2": "",
@@ -4566,7 +3554,7 @@
         "IPO_NO": "7908",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 16:15:16",
+        "INSERT_DTTM": "8/21/2026 23:23:25",
         "DYN_ORDER": "1"
        },
        {
@@ -4574,7 +3562,7 @@
         "IPO_NO": "7908",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 16:15:16",
+        "INSERT_DTTM": "8/21/2026 23:23:25",
         "DYN_ORDER": "2"
        },
        {
@@ -4582,7 +3570,7 @@
         "IPO_NO": "7908",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 16:15:16",
+        "INSERT_DTTM": "8/21/2026 23:23:25",
         "DYN_ORDER": "3"
        },
        {
@@ -4590,7 +3578,7 @@
         "IPO_NO": "7908",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 16:15:16",
+        "INSERT_DTTM": "8/21/2026 23:23:25",
         "DYN_ORDER": "4"
        },
        {
@@ -4598,7 +3586,7 @@
         "IPO_NO": "7908",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 16:15:16",
+        "INSERT_DTTM": "8/21/2026 23:23:25",
         "DYN_ORDER": "5"
        },
        {
@@ -4606,7 +3594,7 @@
         "IPO_NO": "7908",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 16:15:16",
+        "INSERT_DTTM": "8/21/2026 23:23:25",
         "DYN_ORDER": "6"
        }
       ],
@@ -5370,14 +4358,14 @@
         "Post_Issue_Modification": "",
         "DY1": "",
         "Cut_off_time_for_UPI_Mandate_Confirmation": "",
-        "Issue_Size_No_of_shares": "42231600",
+        "Issue_Size_No_of_shares": "29583600",
         "Price_Band": "131.00-138.00",
         "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/PriceBandAdvertisementSkyways_20260818181316.pdf",
         "Face_Value": "10.00",
         "Tick_Size": "1.00",
         "Market_Lot": "100",
         "Minimum_Bid_Quantity": "100",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "42231600",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "29583600",
         "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "21151600",
         "Rating": "",
         "DY2": "",
@@ -5413,7 +4401,7 @@
         "IPO_NO": "7903",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:17:20",
+        "INSERT_DTTM": "8/22/2026 00:13:14",
         "DYN_ORDER": "1"
        },
        {
@@ -5421,7 +4409,7 @@
         "IPO_NO": "7903",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:17:20",
+        "INSERT_DTTM": "8/22/2026 00:13:14",
         "DYN_ORDER": "2"
        },
        {
@@ -5429,7 +4417,7 @@
         "IPO_NO": "7903",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:17:20",
+        "INSERT_DTTM": "8/22/2026 00:13:14",
         "DYN_ORDER": "3"
        },
        {
@@ -5437,7 +4425,7 @@
         "IPO_NO": "7903",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:17:20",
+        "INSERT_DTTM": "8/22/2026 00:13:14",
         "DYN_ORDER": "4"
        },
        {
@@ -5445,7 +4433,7 @@
         "IPO_NO": "7903",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:17:20",
+        "INSERT_DTTM": "8/22/2026 00:13:14",
         "DYN_ORDER": "5"
        },
        {
@@ -5453,7 +4441,7 @@
         "IPO_NO": "7903",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:17:20",
+        "INSERT_DTTM": "8/22/2026 00:13:14",
         "DYN_ORDER": "6"
        }
       ],
@@ -5991,14 +4979,14 @@
         "Post_Issue_Modification": "",
         "DY1": "",
         "Cut_off_time_for_UPI_Mandate_Confirmation": "27 AUGUST 2026 (up to 5 pm)",
-        "Issue_Size_No_of_shares": "18734736",
+        "Issue_Size_No_of_shares": "13124929",
         "Price_Band": "938.00-988.00",
         "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/SymbioticPBAC_20260819210317.pdf",
         "Face_Value": "2.00",
         "Tick_Size": "1.00",
         "Market_Lot": "15",
         "Minimum_Bid_Quantity": "15",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "18699345",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "13089540",
         "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "9349680",
         "Rating": "",
         "DY2": "",
@@ -6034,7 +5022,7 @@
         "IPO_NO": "7907",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:49:57",
+        "INSERT_DTTM": "8/21/2026 23:46:50",
         "DYN_ORDER": "1"
        },
        {
@@ -6042,7 +5030,7 @@
         "IPO_NO": "7907",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:49:57",
+        "INSERT_DTTM": "8/21/2026 23:46:50",
         "DYN_ORDER": "2"
        },
        {
@@ -6050,7 +5038,7 @@
         "IPO_NO": "7907",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:49:57",
+        "INSERT_DTTM": "8/21/2026 23:46:50",
         "DYN_ORDER": "3"
        },
        {
@@ -6058,7 +5046,7 @@
         "IPO_NO": "7907",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:49:57",
+        "INSERT_DTTM": "8/21/2026 23:46:50",
         "DYN_ORDER": "4"
        },
        {
@@ -6066,7 +5054,7 @@
         "IPO_NO": "7907",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:49:57",
+        "INSERT_DTTM": "8/21/2026 23:46:50",
         "DYN_ORDER": "5"
        },
        {
@@ -6074,7 +5062,7 @@
         "IPO_NO": "7907",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "8/21/2026 19:49:57",
+        "INSERT_DTTM": "8/21/2026 23:46:50",
         "DYN_ORDER": "6"
        }
       ],
@@ -6328,6 +5316,492 @@
       ]
      }
     }
+   }
+  },
+  {
+   "id": "gaja-alternative-asset-management",
+   "companyName": "Gaja Alternative Asset Management Limited",
+   "exchanges": [
+    "NSE"
+   ],
+   "symbol": "GAJA",
+   "bseScripCode": null,
+   "series": "EQ",
+   "status": "closed",
+   "issueType": "100% Book Building",
+   "issueStartDate": "2026-08-19",
+   "issueEndDate": "2026-08-21",
+   "listingDate": null,
+   "priceBand": {
+    "min": 152.0,
+    "max": 160.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 5.0,
+   "lotSize": 93,
+   "issueSize": {
+    "shares": 25328946,
+    "amount": null
+   },
+   "leadManagers": [
+    "JM Financial Limited",
+    "IIFL Capital Services Limited"
+   ],
+   "registrar": "MUFG Intime India Private Limited",
+   "subscription": {
+    "timesSubscribed": 31.330176589266685,
+    "sharesOffered": null,
+    "sharesBid": null,
+    "categories": {
+     "qib": 43.580169797867576,
+     "nii": 62.3509440212601,
+     "retail": 11.035567367424814
+    }
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=GAJA&series=EQ&type=Upcoming",
+    "bse": null
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Gaja Alternative Asset Management Limited",
+      "issueEndDate": "21-Aug-2026",
+      "issuePrice": "Rs.152 to Rs.160",
+      "issueSize": "25328946",
+      "issueStartDate": "19-Aug-2026",
+      "series": "EQ",
+      "status": "Closed",
+      "symbol": "GAJA"
+     },
+     "detail": {
+      "companyName": "GAJA",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Qualified Institutional Buyers(QIBs)",
+        "noOfSharesOffered": "7236840",
+        "noOfTime": "20.74484305304525",
+        "noOfsharesBid": "150127110",
+        "srNo": "1"
+       },
+       {
+        "category": "Foreign Institutional Investors(FIIs)",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "36888822",
+        "srNo": "1(a)"
+       },
+       {
+        "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "62835822",
+        "srNo": "1(b)"
+       },
+       {
+        "category": "Mutual funds",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "13376097",
+        "srNo": "1(c)"
+       },
+       {
+        "category": "Others",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "37026369",
+        "srNo": "1(d)"
+       },
+       {
+        "category": "Non Institutional Investors",
+        "noOfSharesOffered": "5427632",
+        "noOfTime": "29.51882717914553",
+        "noOfsharesBid": "160217331",
+        "srNo": "2"
+       },
+       {
+        "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
+        "noOfSharesOffered": "3618422",
+        "noOfTime": "32.28553607069601",
+        "noOfsharesBid": "116822694",
+        "srNo": "2.1"
+       },
+       {
+        "category": "Corporates",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "1831728",
+        "srNo": "2.1(a)"
+       },
+       {
+        "category": "Individuals(Other than RIIs)",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "107478333",
+        "srNo": "2.1(b)"
+       },
+       {
+        "category": "Others",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "7512633",
+        "srNo": "2.1(c)"
+       },
+       {
+        "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
+        "noOfSharesOffered": "1809210",
+        "noOfTime": "23.98540633757275",
+        "noOfsharesBid": "43394637",
+        "srNo": "2.2"
+       },
+       {
+        "category": "Corporates",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "211110",
+        "srNo": "2.2(a)"
+       },
+       {
+        "category": "Individuals(Other than RIIs)",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "40648254",
+        "srNo": "2.2(b)"
+       },
+       {
+        "category": "Others",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "2535273",
+        "srNo": "2.2(c)"
+       },
+       {
+        "category": "Retail Individual Investors(RIIs)",
+        "noOfSharesOffered": "12664474",
+        "noOfTime": "6.758821645494318",
+        "noOfsharesBid": "85596921",
+        "srNo": "3"
+       },
+       {
+        "category": "Cut Off",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "70124511",
+        "srNo": "3(a)"
+       },
+       {
+        "category": "Price bids",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "15472410",
+        "srNo": "3(b)"
+       },
+       {
+        "category": "Total",
+        "noOfSharesOffered": "2.5328946E7",
+        "noOfTime": "15.631971500116903",
+        "noOfsharesBid": "3.95941362E8",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "Gaja Alternative Asset Management Limited",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "GAJA"
+        },
+        {
+         "title": "Issue Period",
+         "value": "19-Aug-2026 to 21-Aug-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"21-Aug-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public Offer comprising of Fresh Issue aggregating up to Rs. 4,500 million and Offer for Sale aggregating up to Rs. 1,000 million. (Including Anchor Investor portion of 1,03,12,500 Equity Shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "100% Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 152 to Rs. 160 per Equity Share"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs. 5 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re.1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "93 Equity Shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "93 Equity Shares"
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"2,53,28,922 Equity Shares in multiple of 93 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"1,80,92,034 Equity Shares in multiple of 93 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "JM Financial Limited and IIFL Capital Services Limited"
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "HDFC Bank Limited and ICICI Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND and NOH\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "MUFG Intime India Private Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"C101, Embassy 247, LBS Marg, Vikhroli (West), Mumbai 400 083, Maharashtra, India\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"Shanti Gopalkrishnan, +91 810 811 4949, gajaalternative.ipo@in.mpms.mufg.com\""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_GAJA.zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_GAJA.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_GAJA.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_GAJA.zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_GAJA.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_GAJA.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_GAJA.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "GAJA"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Qualified Institutional Buyers(QIBs)",
+         "noOfShareOffered": "7236840",
+         "noOfSharesBid": "315382716",
+         "noOfTotalMeant": "43.580169797867576",
+         "srNo": "1"
+        },
+        {
+         "category": "Foreign Institutional Investors(FIIs)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "89737188",
+         "noOfTotalMeant": "",
+         "srNo": "1(a)"
+        },
+        {
+         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "115202169",
+         "noOfTotalMeant": "",
+         "srNo": "1(b)"
+        },
+        {
+         "category": "Mutual funds",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "14126049",
+         "noOfTotalMeant": "",
+         "srNo": "1(c)"
+        },
+        {
+         "category": "Others",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "96317310",
+         "noOfTotalMeant": "",
+         "srNo": "1(d)"
+        },
+        {
+         "category": "Non Institutional Investors",
+         "noOfShareOffered": "5427632",
+         "noOfSharesBid": "338417979",
+         "noOfTotalMeant": "62.3509440212601",
+         "srNo": "2"
+        },
+        {
+         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
+         "noOfShareOffered": "3618422",
+         "noOfSharesBid": "261336138",
+         "noOfTotalMeant": "72.22378650140863",
+         "srNo": "2.1"
+        },
+        {
+         "category": "Corporates",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "4470789",
+         "noOfTotalMeant": "",
+         "srNo": "2.1(a)"
+        },
+        {
+         "category": "Individuals(Other than RIIs)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "245238396",
+         "noOfTotalMeant": "",
+         "srNo": "2.1(b)"
+        },
+        {
+         "category": "Others",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "11626953",
+         "noOfTotalMeant": "",
+         "srNo": "2.1(c)"
+        },
+        {
+         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
+         "noOfShareOffered": "1809210",
+         "noOfSharesBid": "77081841",
+         "noOfTotalMeant": "42.60524814698128",
+         "srNo": "2.2"
+        },
+        {
+         "category": "Corporates",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "344658",
+         "noOfTotalMeant": "",
+         "srNo": "2.2(a)"
+        },
+        {
+         "category": "Individuals(Other than RIIs)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "73417269",
+         "noOfTotalMeant": "",
+         "srNo": "2.2(b)"
+        },
+        {
+         "category": "Others",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "3319914",
+         "noOfTotalMeant": "",
+         "srNo": "2.2(c)"
+        },
+        {
+         "category": "Retail Individual Investors(RIIs)",
+         "noOfShareOffered": "12664474",
+         "noOfSharesBid": "139759656",
+         "noOfTotalMeant": "11.035567367424814",
+         "srNo": "3"
+        },
+        {
+         "category": "Cut Off",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "116629998",
+         "noOfTotalMeant": "",
+         "srNo": "3(a)"
+        },
+        {
+         "category": "Price bids",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "23129658",
+         "noOfTotalMeant": "",
+         "srNo": "3(b)"
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "2.5328946E7",
+         "noOfSharesBid": "7.93560351E8",
+         "noOfTotalMeant": "31.330176589266685",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on 21-Aug-2026 19:00:00"
+      }
+     }
+    },
+    "bse": {}
    }
   },
   {
