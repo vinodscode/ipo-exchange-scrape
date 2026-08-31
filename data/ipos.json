@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-30T18:50:40Z",
+ "generatedAt": "2026-08-31T01:31:19Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -9348,7 +9348,8 @@
    "id": "augmont-enterprises",
    "companyName": "Augmont Enterprises Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "AUGMONT",
    "bseScripCode": null,
@@ -9357,13 +9358,13 @@
    "issueType": "100% Book Building",
    "issueStartDate": "2026-08-21",
    "issueEndDate": "2026-08-25",
-   "listingDate": null,
+   "listingDate": "2026-08-31",
    "priceBand": {
     "min": 750.0,
     "max": 788.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 788.0,
    "faceValue": 5.0,
    "lotSize": 19,
    "issueSize": {
@@ -9398,16 +9399,36 @@
       "htmSym": "augmont",
       "ipoEndDate": "25-AUG-2026",
       "ipoStartDate": "21-AUG-2026",
-      "issuePrice": "-",
+      "issuePrice": "   788",
       "linkRemovalDate": "26-AUG-2026",
-      "listingDate": "-",
+      "listingDate": "31-AUG-2026",
       "priceRange": "Rs.750 to Rs.788",
       "securityType": "EQ",
       "symbol": "AUGMONT"
      },
      "detail": {
-      "companyName": "AUGMONT",
-      "metaInfo": {},
+      "companyName": "Augmont Enterprises Limited",
+      "metaInfo": {
+       "symbol": "AUGMONT",
+       "companyName": "Augmont Enterprises Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE16W401027",
+       "listingDate": "2026-08-31",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -9881,7 +9902,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "Augmont Enterprises Limited",
+      "Company_Short_Name": "AUGMONT",
+      "IssuePrice": 788.0,
+      "ListedOn": "2026-08-31T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
