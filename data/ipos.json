@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31T21:05:50Z",
+ "generatedAt": "2026-09-01T01:59:31Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -7966,13 +7966,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-08-24",
    "issueEndDate": "2026-08-27",
-   "listingDate": null,
+   "listingDate": "2026-09-01",
    "priceBand": {
     "min": 96.0,
     "max": 102.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 102.0,
    "faceValue": 10.0,
    "lotSize": 1200,
    "issueSize": {
@@ -8002,16 +8002,36 @@
       "companyName": "ABH Healthcare Limited",
       "ipoEndDate": "27-AUG-2026",
       "ipoStartDate": "24-AUG-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "102",
+      "listingDate": "01-SEP-2026",
       "priceRange": "Rs.96 to Rs.102",
       "securityType": "SME",
       "symbol": "ABH",
       "company": "ABH Healthcare Limited"
      },
      "detail": {
-      "companyName": "ABH",
-      "metaInfo": {},
+      "companyName": "ABH Healthcare Limited",
+      "metaInfo": {
+       "symbol": "ABH",
+       "companyName": "ABH Healthcare Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1R2M01019",
+       "listingDate": "2026-09-01",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -8356,7 +8376,8 @@
    "id": "hy-tech-engineers",
    "companyName": "Hy-Tech Engineers Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "HTEL",
    "bseScripCode": null,
@@ -8371,7 +8392,7 @@
     "max": 53.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 53.0,
    "faceValue": 5.0,
    "lotSize": 283,
    "issueSize": {
@@ -8403,11 +8424,11 @@
       "htmSym": "htel",
       "ipoEndDate": "27-AUG-2026",
       "ipoStartDate": "24-AUG-2026",
-      "issuePrice": "-",
+      "issuePrice": "    53",
       "linkRemovalDate": "28-AUG-2026",
-      "listingDate": "-",
+      "listingDate": "01-SEP-2026",
       "priceRange": "Rs.50 to Rs.53",
-      "securityType": "EQ",
+      "securityType": "BE",
       "symbol": "HTEL"
      },
      "detail": {
@@ -8860,7 +8881,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "Hy-Tech Engineers Limited",
+      "Company_Short_Name": "HTEL",
+      "IssuePrice": 53.0,
+      "ListedOn": "2026-09-01T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
@@ -8876,13 +8910,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-08-24",
    "issueEndDate": "2026-08-27",
-   "listingDate": null,
+   "listingDate": "2026-09-01",
    "priceBand": {
     "min": 95.0,
     "max": 100.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 100.0,
    "faceValue": 10.0,
    "lotSize": 1200,
    "issueSize": {
@@ -8912,16 +8946,36 @@
       "companyName": "Madhur Knit Crafts Limited",
       "ipoEndDate": "27-AUG-2026",
       "ipoStartDate": "24-AUG-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "100",
+      "listingDate": "01-SEP-2026",
       "priceRange": "Rs.95 to Rs.100",
       "securityType": "SME",
       "symbol": "MADHURKNIT",
       "company": "Madhur Knit Crafts Limited"
      },
      "detail": {
-      "companyName": "MADHURKNIT",
-      "metaInfo": {},
+      "companyName": "Madhur Knit Crafts Limited",
+      "metaInfo": {
+       "symbol": "MADHURKNIT",
+       "companyName": "Madhur Knit Crafts Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1P5601010",
+       "listingDate": "2026-09-01",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -9282,7 +9336,8 @@
    "id": "skyways-air-services",
    "companyName": "Skyways Air Services Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "SKYWAYS",
    "bseScripCode": null,
@@ -9291,13 +9346,13 @@
    "issueType": "100% Book Building",
    "issueStartDate": "2026-08-24",
    "issueEndDate": "2026-08-27",
-   "listingDate": null,
+   "listingDate": "2026-09-01",
    "priceBand": {
     "min": 131.0,
     "max": 138.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 138.0,
    "faceValue": 10.0,
    "lotSize": 100,
    "issueSize": {
@@ -9331,16 +9386,36 @@
       "htmSym": "skyways",
       "ipoEndDate": "27-AUG-2026",
       "ipoStartDate": "24-AUG-2026",
-      "issuePrice": "-",
+      "issuePrice": "   138",
       "linkRemovalDate": "28-AUG-2026",
-      "listingDate": "-",
+      "listingDate": "01-SEP-2026",
       "priceRange": "Rs.131 to Rs.138",
       "securityType": "EQ",
       "symbol": "SKYWAYS"
      },
      "detail": {
-      "companyName": "SKYWAYS",
-      "metaInfo": {},
+      "companyName": "Skyways Air Services Limited",
+      "metaInfo": {
+       "symbol": "SKYWAYS",
+       "companyName": "Skyways Air Services Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE0PX301025",
+       "listingDate": "2026-09-01",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -9768,14 +9843,28 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "SKYWAYS AIR SERVICES LIMITED",
+      "Company_Short_Name": "SKYWAYS",
+      "IssuePrice": 138.0,
+      "ListedOn": "2026-09-01T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
    "id": "symbiotec-pharmalab",
    "companyName": "Symbiotec Pharmalab Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "SYMBIOTEC",
    "bseScripCode": null,
@@ -9784,13 +9873,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-08-24",
    "issueEndDate": "2026-08-27",
-   "listingDate": null,
+   "listingDate": "2026-09-01",
    "priceBand": {
     "min": 938.0,
     "max": 988.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 988.0,
    "faceValue": 2.0,
    "lotSize": 15,
    "issueSize": {
@@ -9827,16 +9916,36 @@
       "htmSym": "symbiotec",
       "ipoEndDate": "27-AUG-2026",
       "ipoStartDate": "24-AUG-2026",
-      "issuePrice": "-",
+      "issuePrice": "   988",
       "linkRemovalDate": "28-AUG-2026",
-      "listingDate": "-",
+      "listingDate": "01-SEP-2026",
       "priceRange": "Rs.938 to Rs.988",
       "securityType": "EQ",
       "symbol": "SYMBIOTEC"
      },
      "detail": {
-      "companyName": "SYMBIOTEC",
-      "metaInfo": {},
+      "companyName": "Symbiotec Pharmalab Limited",
+      "metaInfo": {
+       "symbol": "SYMBIOTEC",
+       "companyName": "Symbiotec Pharmalab Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE899I01028",
+       "listingDate": "2026-09-01",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -10310,7 +10419,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "SYMBIOTEC PHARMALAB LIMITED",
+      "Company_Short_Name": "SYMBIOTEC",
+      "IssuePrice": 988.0,
+      "ListedOn": "2026-09-01T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
