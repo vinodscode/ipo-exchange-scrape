@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01T18:50:48Z",
+ "generatedAt": "2026-09-02T01:14:51Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -5889,7 +5889,8 @@
    "id": "annu-projects",
    "companyName": "Annu Projects Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "ANNU",
    "bseScripCode": null,
@@ -5898,13 +5899,13 @@
    "issueType": "100% Book Building",
    "issueStartDate": "2026-08-25",
    "issueEndDate": "2026-08-28",
-   "listingDate": null,
+   "listingDate": "2026-09-02",
    "priceBand": {
     "min": 94.0,
     "max": 99.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 99.0,
    "faceValue": 10.0,
    "lotSize": 151,
    "issueSize": {
@@ -5936,16 +5937,36 @@
       "htmSym": "annu",
       "ipoEndDate": "28-AUG-2026",
       "ipoStartDate": "25-AUG-2026",
-      "issuePrice": "-",
+      "issuePrice": "    99",
       "linkRemovalDate": "29-AUG-2026",
-      "listingDate": "-",
+      "listingDate": "02-SEP-2026",
       "priceRange": "Rs.94 to Rs.99",
-      "securityType": "EQ",
+      "securityType": "BE",
       "symbol": "ANNU"
      },
      "detail": {
-      "companyName": "ANNU",
-      "metaInfo": {},
+      "companyName": "Annu Projects Limited",
+      "metaInfo": {
+       "symbol": "ANNU",
+       "companyName": "Annu Projects Limited",
+       "activeSeries": [
+        "BE"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE103001017",
+       "listingDate": "2026-09-02",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -6357,7 +6378,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "Annu Projects Limited",
+      "Company_Short_Name": "ANNU",
+      "IssuePrice": 99.0,
+      "ListedOn": "2026-09-02T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
@@ -6373,13 +6407,13 @@
    "issueType": "100 % Book Building",
    "issueStartDate": "2026-08-25",
    "issueEndDate": "2026-08-28",
-   "listingDate": null,
+   "listingDate": "2026-09-02",
    "priceBand": {
     "min": 95.0,
     "max": 101.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 101.0,
    "faceValue": 10.0,
    "lotSize": 1200,
    "issueSize": {
@@ -6410,16 +6444,36 @@
       "companyName": "Sumax Engineering Limited",
       "ipoEndDate": "28-AUG-2026",
       "ipoStartDate": "25-AUG-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "101",
+      "listingDate": "02-SEP-2026",
       "priceRange": "Rs.95 to Rs.101",
       "securityType": "SME",
       "symbol": "SUMAX",
       "company": "Sumax Engineering Limited"
      },
      "detail": {
-      "companyName": "SUMAX",
-      "metaInfo": {},
+      "companyName": "Sumax Engineering Limited",
+      "metaInfo": {
+       "symbol": "SUMAX",
+       "companyName": "Sumax Engineering Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE11Z001019",
+       "listingDate": "2026-09-02",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -14624,7 +14678,7 @@
        "companyName": "Pramodini Medicare Limited",
        "industry": "Healthcare Service Provider",
        "activeSeries": [
-        "ST"
+        "SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
