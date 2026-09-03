@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02T18:58:58Z",
+ "generatedAt": "2026-09-03T01:20:37Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -3727,7 +3727,8 @@
    "id": "lumino-industries",
    "companyName": "Lumino Industries Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "LUMINO",
    "bseScripCode": null,
@@ -3736,13 +3737,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-08-27",
    "issueEndDate": "2026-08-31",
-   "listingDate": null,
+   "listingDate": "2026-09-03",
    "priceBand": {
     "min": 78.0,
     "max": 82.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 82.0,
    "faceValue": 5.0,
    "lotSize": 182,
    "issueSize": {
@@ -3777,16 +3778,36 @@
       "htmSym": "lumino",
       "ipoEndDate": "31-AUG-2026",
       "ipoStartDate": "27-AUG-2026",
-      "issuePrice": "-",
+      "issuePrice": "    82",
       "linkRemovalDate": "01-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "03-SEP-2026",
       "priceRange": "Rs.78 to Rs.82",
       "securityType": "EQ",
       "symbol": "LUMINO"
      },
      "detail": {
-      "companyName": "LUMINO",
-      "metaInfo": {},
+      "companyName": "Lumino Industries Limited",
+      "metaInfo": {
+       "symbol": "LUMINO",
+       "companyName": "Lumino Industries Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE185Q01025",
+       "listingDate": "2026-09-03",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -4260,7 +4281,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "LUMINO INDUSTRIES LIMITED",
+      "Company_Short_Name": "LUMINO",
+      "IssuePrice": 82.0,
+      "ListedOn": "2026-09-03T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
@@ -12095,7 +12129,7 @@
        "companyName": "Credent Connect N Care Limited",
        "industry": "Healthcare Service Provider",
        "activeSeries": [
-        "ST"
+        "SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
