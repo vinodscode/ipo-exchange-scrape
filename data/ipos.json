@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T18:56:56Z",
+ "generatedAt": "2026-09-04T01:12:30Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -3600,7 +3600,8 @@
    "id": "esds-software-solution",
    "companyName": "ESDS Software Solution Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "ESDS",
    "bseScripCode": null,
@@ -3609,13 +3610,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-08-28",
    "issueEndDate": "2026-09-01",
-   "listingDate": null,
+   "listingDate": "2026-09-04",
    "priceBand": {
     "min": 408.0,
     "max": 429.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 429.0,
    "faceValue": 1.0,
    "lotSize": 34,
    "issueSize": {
@@ -3648,16 +3649,36 @@
       "htmSym": "esds",
       "ipoEndDate": "01-SEP-2026",
       "ipoStartDate": "28-AUG-2026",
-      "issuePrice": "-",
+      "issuePrice": "   429",
       "linkRemovalDate": "02-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "04-SEP-2026",
       "priceRange": "Rs.408 to Rs.429",
       "securityType": "EQ",
       "symbol": "ESDS"
      },
      "detail": {
-      "companyName": "ESDS",
-      "metaInfo": {},
+      "companyName": "ESDS Software Solution Limited",
+      "metaInfo": {
+       "symbol": "ESDS",
+       "companyName": "ESDS Software Solution Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE0DRI01029",
+       "listingDate": "2026-09-04",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -4085,14 +4106,28 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "ESDS Software Solution Limited",
+      "Company_Short_Name": "ESDS",
+      "IssuePrice": 429.0,
+      "ListedOn": "2026-09-04T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
    "id": "priority-jewels",
    "companyName": "Priority Jewels Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "PRIORITY",
    "bseScripCode": null,
@@ -4101,13 +4136,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-08-28",
    "issueEndDate": "2026-09-01",
-   "listingDate": null,
+   "listingDate": "2026-09-04",
    "priceBand": {
     "min": 190.0,
     "max": 200.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 200.0,
    "faceValue": 10.0,
    "lotSize": 75,
    "issueSize": {
@@ -4139,16 +4174,36 @@
       "htmSym": "priority",
       "ipoEndDate": "01-SEP-2026",
       "ipoStartDate": "28-AUG-2026",
-      "issuePrice": "-",
+      "issuePrice": "   200",
       "linkRemovalDate": "02-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "04-SEP-2026",
       "priceRange": "Rs.190 to Rs.200",
-      "securityType": "EQ",
+      "securityType": "BE",
       "symbol": "PRIORITY"
      },
      "detail": {
-      "companyName": "PRIORITY",
-      "metaInfo": {},
+      "companyName": "Priority Jewels Limited",
+      "metaInfo": {
+       "symbol": "PRIORITY",
+       "companyName": "Priority Jewels Limited",
+       "activeSeries": [
+        "BE"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE15EH01014",
+       "listingDate": "2026-09-04",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -4576,7 +4631,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "Priority Jewels Limited",
+      "Company_Short_Name": "PRIORITY",
+      "IssuePrice": 200.0,
+      "ListedOn": "2026-09-04T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
@@ -12566,7 +12634,7 @@
        "companyName": "Skytech Infinite Platform Limited",
        "industry": "Industrial Products",
        "activeSeries": [
-        "ST"
+        "SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
