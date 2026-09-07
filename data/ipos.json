@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-06T17:45:45Z",
+ "generatedAt": "2026-09-07T01:13:15Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -11,11 +11,630 @@
   }
  },
  "counts": {
-  "open": 1,
-  "upcoming": 6,
-  "closed": 69
+  "open": 2,
+  "upcoming": 5,
+  "closed": 68
  },
  "ipos": [
+  {
+   "id": "pranav-constructions",
+   "companyName": "Pranav Constructions Limited",
+   "exchanges": [
+    "NSE",
+    "BSE"
+   ],
+   "symbol": "PRANAV",
+   "bseScripCode": "4795",
+   "series": "EQ",
+   "status": "open",
+   "issueType": "Book Building",
+   "issueStartDate": "2026-09-07",
+   "issueEndDate": "2026-09-09",
+   "listingDate": null,
+   "priceBand": {
+    "min": 118.0,
+    "max": 124.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 10.0,
+   "lotSize": 120,
+   "issueSize": {
+    "shares": 22463137,
+    "amount": null
+   },
+   "leadManagers": [
+    "Centrum Broking Limited",
+    "PNB Investment Services Limited"
+   ],
+   "registrar": "KFin Technologies Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 0,
+    "sharesBid": 0,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=PRANAV&series=EQ&type=Active",
+    "bse": "https://www.bseindia.com/publicissue"
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Pranav Constructions Limited",
+      "issueEndDate": "09-Sep-2026",
+      "issuePrice": "Rs.118 to Rs.124",
+      "issueSize": "22463137",
+      "issueStartDate": "07-Sep-2026",
+      "series": "EQ",
+      "status": "Active",
+      "symbol": "PRANAV",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
+     },
+     "detail": {
+      "companyName": "PRANAV",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfSharesOffered": "0.0",
+        "noOfTime": "0.00",
+        "noOfsharesBid": "0.0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "Pranav Constructions Limited",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "PRANAV "
+        },
+        {
+         "title": "Issue Period",
+         "value": "07-Sep-2026 to 09-Sep-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"09-Sep-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial public offer comprising of fresh issue aggregating up to Rs. 3,156 million and offer for sale of up to 2,856,869 equity shares (including Anchor Investor portion of 67,94,034 Equity Shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 118/- to Rs. 124/- per Equity Share"
+        },
+        {
+         "title": "Discount",
+         "value": "NA"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs. 10 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re. 1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "120 Equity Shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "120 Equity Shares"
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"2,24,63,040 Equity Shares in multiple of 120 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"1,77,61,560 Equity Shares in multiple of 120 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "Centrum Broking Limited and PNB Investment Services Limited"
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "Kotak Mahindra Bank Limited and HDFC Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND, and NOH\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "KFin Technologies Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"Selenium Tower B, Plot No. 31 and 32, Financial District, Nanakramguda, Serilingampally Hyderabad-500 032, Telangana, India\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"M Murali Krishna, +91 6716 2222/18003094001, pcpl.ipo@kfintech.com\""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_PRANAV .zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_PRANAV .zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_PRANAV .zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_PRANAV .zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_PRANAV.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_PRANAV.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_PRANAV.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "PRANAV"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {
+     "list": {
+      "Scrip_cd": 4795,
+      "Scrip_Name": "Pranav Constructions Limited",
+      "short_name": null,
+      "Start_Dt": "2026-09-07T00:00:00",
+      "End_Dt": "2026-09-09T00:00:00",
+      "Price_Band": "118.00 - 124.00",
+      "Face_Val": 10.0,
+      "IR_flag": "IPO",
+      "IR_FLAG_FULL": "IPO",
+      "Status": "L",
+      "eXCHANGE_PLATFORM": "MainBoard",
+      "FLAG": 1,
+      "IPO_NO": 7943,
+      "Is_retailertype": 1,
+      "Cum_Shares_BuyBack": null,
+      "RN": 1,
+      "LONG_NAME": null
+     },
+     "detail": {
+      "IPONO_0": [
+       {
+        "DT_TM": "",
+        "DT_TMC": "",
+        "ISBID_Detail": "1",
+        "IPO_NO": "7943",
+        "ScripCode": "4795",
+        "ScripName": "Pranav Constructions Limited",
+        "Security_Type": "Equity",
+        "Symbol": "PRANAV",
+        "Issue_Period": "07 Sep 2026 to 09 Sep 2026",
+        "IPO_Market_Timings": "",
+        "Post_Issue_Modification": "",
+        "DY1": "",
+        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
+        "Issue_Size_No_of_shares": "22463137",
+        "Price_Band": "118.00-124.00",
+        "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/PBA_20260902183813.zip",
+        "Face_Value": "10.00",
+        "Tick_Size": "1.00",
+        "Market_Lot": "120",
+        "Minimum_Bid_Quantity": "120",
+        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "22463040",
+        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "17761560",
+        "Rating": "",
+        "DY2": "",
+        "Book_Running_Lead_Manager": "Centrum Broking Limited^Level 9, Centrum House C.S.T. Road, Vidyanagari Marg Kalina, Santacruz (East) Mumbai – 400 098||||||||pcpl.ipo@centrum.co.in|Sooraj Bhatia / Tarun Parmani",
+        "Co_Book_Running_Lead_Manager": "PNB Investment Services Limited^PNB Pragati Towers, 2nd Floor Plot No. C-9, G-Block Bandra Kurla Complex, Bandra (E) Mumbai – 400 051||||||||project.9realms@pnbisl.com",
+        "Syndicate_Member": "",
+        "Eligible_Banks": "",
+        "Registrar": "KFin Technologies Limited^Selenium Tower B, Plot No. 31 and 32, Financial District, Nanakramguda, Serilingampally Hyderabad-500 032, Telangana, India||||||||pcpl.ipo@kfintech.com",
+        "Sponsor_Bank": "HDFC BANK^HDFC Bank Limited, FIG - OPS Department, Lodha - I Think Techno Campus, O-3 Level, Next to Kanjurmarg Railway Station, Kanjurmarg (East), Mumbai 400042||||||||btiscsb@hdfcbank.com,btiops@hdfc.bank.in,vaibhav.gadge@hdfc.bank.in,pravin.teli2@hdfc.bank.in,eric.b|Eric Bacha/Sachin Gawade/Pravin Teli/Siddharth Jadhav/Tushar Gavankar#KOTAK BANK^Intellion Square, 501, 5th Floor, A Wing, Infinity IT Park, Gen. A.K. Vaidya Marg, Malad – East, Mumbai 400097||||||||ruchi.prasad@kotak.com,prashant.sawant@kotak.com,CMSIPO@kotak.com,girish.tondare@kotak.com,richardje|Siddhesh Shirodkar",
+        "DY3": "",
+        "Prospectus_GID": "https://listing.bseindia.com/Download//PreAnchor/RHP_20260902183812.pdf",
+        "Addendum": "",
+        "Corrigendum": "",
+        "Anchor_Details": "",
+        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4795",
+        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4795",
+        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4795",
+        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
+        "DY4": "",
+        "Public_Notices": "",
+        "Notes": "",
+        "Remarks": "",
+        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
+        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
+        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
+        "DY5": "",
+        "DY6": ""
+       }
+      ],
+      "IPONO_1": [
+       {
+        "NEW_ID": "3cba4c22-b59a-4979-b001-194f1e81d567",
+        "IPO_NO": "7943",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "9/6/2026 19:59:18",
+        "DYN_ORDER": "1"
+       },
+       {
+        "NEW_ID": "7ba9f037-3a2e-4af5-a9bd-18e9b6c945dd",
+        "IPO_NO": "7943",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "9/6/2026 19:59:18",
+        "DYN_ORDER": "2"
+       },
+       {
+        "NEW_ID": "0e096807-8f7d-4a70-811d-3310a616222c",
+        "IPO_NO": "7943",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "9/6/2026 19:59:18",
+        "DYN_ORDER": "3"
+       },
+       {
+        "NEW_ID": "4be5a75c-61fe-4126-b8da-310c45c2935f",
+        "IPO_NO": "7943",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "9/6/2026 19:59:18",
+        "DYN_ORDER": "4"
+       },
+       {
+        "NEW_ID": "5c97d90e-8277-4767-b110-ae08d3691968",
+        "IPO_NO": "7943",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "9/6/2026 19:59:18",
+        "DYN_ORDER": "5"
+       },
+       {
+        "NEW_ID": "fe19edd3-1647-4da3-8007-6fbfec19093f",
+        "IPO_NO": "7943",
+        "DYN_COLNAME": "",
+        "DYN_COLValue": "",
+        "INSERT_DTTM": "9/6/2026 19:59:18",
+        "DYN_ORDER": "6"
+       }
+      ],
+      "IPONO_2": [],
+      "IPONO_3": [],
+      "IPONO_4": [
+       {
+        "NOTICE_ID": "",
+        "NOTICE_DATE": "9/4/2026 20:36:01",
+        "NOTICE_NO": "20260904-33",
+        "SUBJECT": "Public Issue of Pranav Constructions Limited - Allocation to\r\nAnchor Investors",
+        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260904-33/20260904-33.pdf"
+       }
+      ],
+      "status": "success"
+     },
+     "subscription": {
+      "table2": [
+       {
+        "SRNo": "Sr.No.",
+        "col2": "Category",
+        "col3": "No.of shares offered/reserved",
+        "col4": "No. of shares bid for",
+        "col5": "No. of times of total meant for the category",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1",
+        "col2": "Qualified Institutional Buyers (QIBs)",
+        "col3": "4701558",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(a)",
+        "col2": "Foreign Institutional Investors (FIIs)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(b)",
+        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(c)",
+        "col2": "Mutual Funds",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "1(d)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2",
+        "col2": "Non Institutional Investors (NIIs)",
+        "col3": "4440395",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1",
+        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
+        "col3": "2960264",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.1(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2",
+        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
+        "col3": "1480131",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(a)",
+        "col2": "Corporates",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(b)",
+        "col2": "Individuals (Other than RIIs)",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "2.2(c)",
+        "col2": "Others",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3",
+        "col2": "Retail Individual Investors (RIIs)",
+        "col3": "13321184",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(a)",
+        "col2": "Cut Off",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "3(b)",
+        "col2": "Price Bids ",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4",
+        "col2": "Employee Reserved",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(a)",
+        "col2": "Employee (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "4(b)",
+        "col2": "Employee (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5",
+        "col2": "Reservation PortionShareholder",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(a)",
+        "col2": "RPS (Cut off)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "5(b)",
+        "col2": "RPS (Price)",
+        "col3": "",
+        "col4": "",
+        "col5": "",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       },
+       {
+        "SRNo": "",
+        "col2": "Total",
+        "col3": "22463137",
+        "col4": "0",
+        "col5": "0.0000",
+        "Scripname": "Pranav Constructions Limited",
+        "Maxdt": ""
+       }
+      ]
+     }
+    }
+   }
+  },
   {
    "id": "qualiance-international",
    "companyName": "Qualiance International Limited",
@@ -2998,620 +3617,6 @@
    }
   },
   {
-   "id": "pranav-constructions",
-   "companyName": "Pranav Constructions Limited",
-   "exchanges": [
-    "NSE",
-    "BSE"
-   ],
-   "symbol": "PRANAV",
-   "bseScripCode": "4795",
-   "series": "EQ",
-   "status": "upcoming",
-   "issueType": "Book Building",
-   "issueStartDate": "2026-09-07",
-   "issueEndDate": "2026-09-09",
-   "listingDate": null,
-   "priceBand": {
-    "min": 118.0,
-    "max": 124.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 10.0,
-   "lotSize": 120,
-   "issueSize": {
-    "shares": 22463137,
-    "amount": null
-   },
-   "leadManagers": [
-    "Centrum Broking Limited",
-    "PNB Investment Services Limited"
-   ],
-   "registrar": "KFin Technologies Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=PRANAV&series=EQ&type=Upcoming",
-    "bse": "https://www.bseindia.com/publicissue"
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Pranav Constructions Limited",
-      "issueEndDate": "09-Sep-2026",
-      "issuePrice": "Rs.118 to Rs.124",
-      "issueSize": "22463137",
-      "issueStartDate": "07-Sep-2026",
-      "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "PRANAV"
-     },
-     "detail": {
-      "companyName": "PRANAV",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfSharesOffered": "0.0",
-        "noOfTime": "0.00",
-        "noOfsharesBid": "0.0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Pranav Constructions Limited",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "PRANAV "
-        },
-        {
-         "title": "Issue Period",
-         "value": "07-Sep-2026 to 09-Sep-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"09-Sep-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial public offer comprising of fresh issue aggregating up to Rs. 3,156 million and offer for sale of up to 2,856,869 equity shares (including Anchor Investor portion of 67,94,034 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 118/- to Rs. 124/- per Equity Share"
-        },
-        {
-         "title": "Discount",
-         "value": "NA"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs. 10 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re. 1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "120 Equity Shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "120 Equity Shares"
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"2,24,63,040 Equity Shares in multiple of 120 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"1,77,61,560 Equity Shares in multiple of 120 Equity Shares (Calculated at Lower Price band)\""
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "Centrum Broking Limited and PNB Investment Services Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Kotak Mahindra Bank Limited and HDFC Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND, and NOH\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "KFin Technologies Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"Selenium Tower B, Plot No. 31 and 32, Financial District, Nanakramguda, Serilingampally Hyderabad-500 032, Telangana, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"M Murali Krishna, +91 6716 2222/18003094001, pcpl.ipo@kfintech.com\""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_PRANAV .zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_PRANAV .zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_PRANAV .zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_PRANAV .zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_PRANAV.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_PRANAV.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_PRANAV.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "PRANAV"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {
-     "list": {
-      "Scrip_cd": 4795,
-      "Scrip_Name": "Pranav Constructions Limited",
-      "short_name": null,
-      "Start_Dt": "2026-09-07T00:00:00",
-      "End_Dt": "2026-09-09T00:00:00",
-      "Price_Band": "118.00 - 124.00",
-      "Face_Val": 10.0,
-      "IR_flag": "IPO",
-      "IR_FLAG_FULL": "IPO",
-      "Status": "F",
-      "eXCHANGE_PLATFORM": "MainBoard",
-      "FLAG": 7,
-      "IPO_NO": 7943,
-      "Is_retailertype": 1,
-      "Cum_Shares_BuyBack": null,
-      "RN": 1,
-      "LONG_NAME": null
-     },
-     "detail": {
-      "IPONO_0": [
-       {
-        "DT_TM": "",
-        "DT_TMC": "",
-        "ISBID_Detail": "1",
-        "IPO_NO": "7943",
-        "ScripCode": "4795",
-        "ScripName": "Pranav Constructions Limited",
-        "Security_Type": "Equity",
-        "Symbol": "PRANAV",
-        "Issue_Period": "07 Sep 2026 to 09 Sep 2026",
-        "IPO_Market_Timings": "",
-        "Post_Issue_Modification": "",
-        "DY1": "",
-        "Cut_off_time_for_UPI_Mandate_Confirmation": "",
-        "Issue_Size_No_of_shares": "22463137",
-        "Price_Band": "118.00-124.00",
-        "Price_Band_Advertisement": "https://listing.bseindia.com/Download//PreAnchor/PBA_20260902183813.zip",
-        "Face_Value": "10.00",
-        "Tick_Size": "1.00",
-        "Market_Lot": "120",
-        "Minimum_Bid_Quantity": "120",
-        "Maximum_Bid_Quantity_For_Qualified_Institutional_Investors": "22463040",
-        "Maximum_Bid_Quantity_For_Qualified_Non_Institutional_Investors": "17761560",
-        "Rating": "",
-        "DY2": "",
-        "Book_Running_Lead_Manager": "Centrum Broking Limited^Level 9, Centrum House C.S.T. Road, Vidyanagari Marg Kalina, Santacruz (East) Mumbai – 400 098||||||||pcpl.ipo@centrum.co.in|Sooraj Bhatia / Tarun Parmani",
-        "Co_Book_Running_Lead_Manager": "PNB Investment Services Limited^PNB Pragati Towers, 2nd Floor Plot No. C-9, G-Block Bandra Kurla Complex, Bandra (E) Mumbai – 400 051||||||||project.9realms@pnbisl.com",
-        "Syndicate_Member": "",
-        "Eligible_Banks": "",
-        "Registrar": "KFin Technologies Limited^Selenium Tower B, Plot No. 31 and 32, Financial District, Nanakramguda, Serilingampally Hyderabad-500 032, Telangana, India||||||||pcpl.ipo@kfintech.com",
-        "Sponsor_Bank": "HDFC BANK^HDFC Bank Limited, FIG - OPS Department, Lodha - I Think Techno Campus, O-3 Level, Next to Kanjurmarg Railway Station, Kanjurmarg (East), Mumbai 400042||||||||btiscsb@hdfcbank.com,btiops@hdfc.bank.in,vaibhav.gadge@hdfc.bank.in,pravin.teli2@hdfc.bank.in,eric.b|Eric Bacha/Sachin Gawade/Pravin Teli/Siddharth Jadhav/Tushar Gavankar#KOTAK BANK^Intellion Square, 501, 5th Floor, A Wing, Infinity IT Park, Gen. A.K. Vaidya Marg, Malad – East, Mumbai 400097||||||||ruchi.prasad@kotak.com,prashant.sawant@kotak.com,CMSIPO@kotak.com,girish.tondare@kotak.com,richardje|Siddhesh Shirodkar",
-        "DY3": "",
-        "Prospectus_GID": "https://listing.bseindia.com/Download//PreAnchor/RHP_20260902183812.pdf",
-        "Addendum": "",
-        "Corrigendum": "",
-        "Anchor_Details": "",
-        "Bank_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BlankForms_New.aspx?ipo=4795",
-        "Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/BidEntryQuick_New.aspx?ipo=4795",
-        "Revised_Online_ASBA_Form": "https://ibbseforms.bseindia.com/ASBAFORMS/SrchBid.aspx?ipo=4795",
-        "Registrar_issue_share_Transfer_Agents_Depository": "https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx ",
-        "DY4": "",
-        "Public_Notices": "",
-        "Notes": "",
-        "Remarks": "",
-        "Branches_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34",
-        "List_of_SCSBs": "http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35",
-        "Self_Certified_Syndicate_Banks_Eligible": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40",
-        "DY5": "",
-        "DY6": ""
-       }
-      ],
-      "IPONO_1": [
-       {
-        "NEW_ID": "3cba4c22-b59a-4979-b001-194f1e81d567",
-        "IPO_NO": "7943",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "9/6/2026 19:59:18",
-        "DYN_ORDER": "1"
-       },
-       {
-        "NEW_ID": "7ba9f037-3a2e-4af5-a9bd-18e9b6c945dd",
-        "IPO_NO": "7943",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "9/6/2026 19:59:18",
-        "DYN_ORDER": "2"
-       },
-       {
-        "NEW_ID": "0e096807-8f7d-4a70-811d-3310a616222c",
-        "IPO_NO": "7943",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "9/6/2026 19:59:18",
-        "DYN_ORDER": "3"
-       },
-       {
-        "NEW_ID": "4be5a75c-61fe-4126-b8da-310c45c2935f",
-        "IPO_NO": "7943",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "9/6/2026 19:59:18",
-        "DYN_ORDER": "4"
-       },
-       {
-        "NEW_ID": "5c97d90e-8277-4767-b110-ae08d3691968",
-        "IPO_NO": "7943",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "9/6/2026 19:59:18",
-        "DYN_ORDER": "5"
-       },
-       {
-        "NEW_ID": "fe19edd3-1647-4da3-8007-6fbfec19093f",
-        "IPO_NO": "7943",
-        "DYN_COLNAME": "",
-        "DYN_COLValue": "",
-        "INSERT_DTTM": "9/6/2026 19:59:18",
-        "DYN_ORDER": "6"
-       }
-      ],
-      "IPONO_2": [],
-      "IPONO_3": [],
-      "IPONO_4": [
-       {
-        "NOTICE_ID": "",
-        "NOTICE_DATE": "9/4/2026 20:36:01",
-        "NOTICE_NO": "20260904-33",
-        "SUBJECT": "Public Issue of Pranav Constructions Limited - Allocation to\r\nAnchor Investors",
-        "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260904-33/20260904-33.pdf"
-       }
-      ],
-      "status": "success"
-     },
-     "subscription": {
-      "table2": [
-       {
-        "SRNo": "Sr.No.",
-        "col2": "Category",
-        "col3": "No.of shares offered/reserved",
-        "col4": "No. of shares bid for",
-        "col5": "No. of times of total meant for the category",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1",
-        "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "4701558",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(a)",
-        "col2": "Foreign Institutional Investors (FIIs)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(b)",
-        "col2": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(c)",
-        "col2": "Mutual Funds",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "1(d)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2",
-        "col2": "Non Institutional Investors (NIIs)",
-        "col3": "4440395",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1",
-        "col2": "Non Institutional Investors (Bid amount of more than Ten Lakh Rupees)",
-        "col3": "2960264",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.1(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2",
-        "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
-        "col3": "1480131",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(a)",
-        "col2": "Corporates",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(b)",
-        "col2": "Individuals (Other than RIIs)",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "2.2(c)",
-        "col2": "Others",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3",
-        "col2": "Retail Individual Investors (RIIs)",
-        "col3": "13321184",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(a)",
-        "col2": "Cut Off",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "3(b)",
-        "col2": "Price Bids ",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4",
-        "col2": "Employee Reserved",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(a)",
-        "col2": "Employee (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "4(b)",
-        "col2": "Employee (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5",
-        "col2": "Reservation PortionShareholder",
-        "col3": "",
-        "col4": "0",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(a)",
-        "col2": "RPS (Cut off)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "5(b)",
-        "col2": "RPS (Price)",
-        "col3": "",
-        "col4": "",
-        "col5": "",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       },
-       {
-        "SRNo": "",
-        "col2": "Total",
-        "col3": "22463137",
-        "col4": "0",
-        "col5": "0.0000",
-        "Scripname": "Pranav Constructions Limited",
-        "Maxdt": ""
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
    "id": "deepa-jewellers",
    "companyName": "Deepa Jewellers Limited",
    "exchanges": [
@@ -4607,13 +4612,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-08-31",
    "issueEndDate": "2026-09-02",
-   "listingDate": null,
+   "listingDate": "2026-09-07",
    "priceBand": {
     "min": 87.0,
     "max": 92.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 92.0,
    "faceValue": 10.0,
    "lotSize": 1200,
    "issueSize": {
@@ -4643,16 +4648,36 @@
       "companyName": "Ashutosh Fibre Limited",
       "ipoEndDate": "02-SEP-2026",
       "ipoStartDate": "31-AUG-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "92",
+      "listingDate": "07-SEP-2026",
       "priceRange": "Rs.87 to Rs.92",
       "securityType": "SME",
       "symbol": "ASHUTOSH",
       "company": "Ashutosh Fibre Limited"
      },
      "detail": {
-      "companyName": "ASHUTOSH",
-      "metaInfo": {},
+      "companyName": "Ashutosh Fibre Limited",
+      "metaInfo": {
+       "symbol": "ASHUTOSH",
+       "companyName": "Ashutosh Fibre Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE19FR01012",
+       "listingDate": "2026-09-07",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -5013,7 +5038,8 @@
    "id": "purple-style-labs",
    "companyName": "Purple Style Labs Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "PERNIASPOP",
    "bseScripCode": null,
@@ -5022,13 +5048,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-08-31",
    "issueEndDate": "2026-09-02",
-   "listingDate": null,
+   "listingDate": "2026-09-07",
    "priceBand": {
     "min": 546.0,
     "max": 575.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 575.0,
    "faceValue": 10.0,
    "lotSize": 26,
    "issueSize": {
@@ -5061,16 +5087,36 @@
       "htmSym": "perniaspop",
       "ipoEndDate": "02-SEP-2026",
       "ipoStartDate": "31-AUG-2026",
-      "issuePrice": "-",
+      "issuePrice": "   575",
       "linkRemovalDate": "03-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "07-SEP-2026",
       "priceRange": "Rs.546 to Rs.575",
       "securityType": "EQ",
       "symbol": "PERNIASPOP"
      },
      "detail": {
-      "companyName": "PERNIASPOP",
-      "metaInfo": {},
+      "companyName": "Purple Style Labs Limited",
+      "metaInfo": {
+       "symbol": "PERNIASPOP",
+       "companyName": "Purple Style Labs Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE0I1B01016",
+       "listingDate": "2026-09-07",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -5498,7 +5544,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "PURPLE STYLE LABS LIMITED",
+      "Company_Short_Name": "PERNIASPOP",
+      "IssuePrice": 575.0,
+      "ListedOn": "2026-09-07T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
@@ -5514,13 +5573,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-08-31",
    "issueEndDate": "2026-09-02",
-   "listingDate": null,
+   "listingDate": "2026-09-07",
    "priceBand": {
     "min": 79.0,
     "max": 83.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 83.0,
    "faceValue": 10.0,
    "lotSize": 1600,
    "issueSize": {
@@ -5550,16 +5609,36 @@
       "companyName": "Shanti Inorganics Limited",
       "ipoEndDate": "02-SEP-2026",
       "ipoStartDate": "31-AUG-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "83",
+      "listingDate": "07-SEP-2026",
       "priceRange": "Rs.79 to Rs.83",
       "securityType": "SME",
       "symbol": "SHANTIINOR",
       "company": "Shanti Inorganics Limited"
      },
      "detail": {
-      "companyName": "SHANTIINOR",
-      "metaInfo": {},
+      "companyName": "Shanti Inorganics Limited",
+      "metaInfo": {
+       "symbol": "SHANTIINOR",
+       "companyName": "Shanti Inorganics Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1ZEE01019",
+       "listingDate": "2026-09-07",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -17351,7 +17430,7 @@
        "companyName": "Fascinate Textiles Limited",
        "industry": "Garments & Apparels",
        "activeSeries": [
-        "ST"
+        "SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
@@ -36095,6 +36174,53 @@
    }
   },
   {
+   "id": "hexagon-nutrition",
+   "companyName": "Hexagon Nutrition Limited",
+   "exchanges": [
+    "BSE"
+   ],
+   "symbol": null,
+   "bseScripCode": null,
+   "series": null,
+   "status": "closed",
+   "issueType": null,
+   "issueStartDate": null,
+   "issueEndDate": null,
+   "listingDate": "2026-06-12",
+   "priceBand": null,
+   "issuePrice": 45.0,
+   "faceValue": null,
+   "lotSize": null,
+   "issueSize": {
+    "shares": null,
+    "amount": null
+   },
+   "leadManagers": [],
+   "registrar": null,
+   "subscription": null,
+   "urls": {
+    "nse": null,
+    "bse": "https://www.bseindia.com/stock-share-price/hexagon-nutrition-ltd/hexagon/544785/"
+   },
+   "raw": {
+    "nse": {},
+    "bse": {
+     "list": {
+      "CompanyName": "Hexagon Nutrition Limited",
+      "Company_Short_Name": "HEXAGON",
+      "IssuePrice": 45.0,
+      "ListedOn": "2026-06-12T00:00:00",
+      "ListingDayClose": 50.39,
+      "ListingDayGain": 5.39,
+      "CurrentPrice": 67.38,
+      "GainLoss": 22.38,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": "https://www.bseindia.com/stock-share-price/hexagon-nutrition-ltd/hexagon/544785/"
+     }
+    }
+   }
+  },
+  {
    "id": "cmr-green-technologies",
    "companyName": "CMR Green Technologies Limited",
    "exchanges": [
@@ -36466,1018 +36592,6 @@
      }
     },
     "bse": {}
-   }
-  },
-  {
-   "id": "genxai-analytics",
-   "companyName": "GenXAI Analytics Limited",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "GENXAI",
-   "bseScripCode": null,
-   "series": "SME",
-   "status": "closed",
-   "issueType": "100 % Book Building",
-   "issueStartDate": "2026-06-05",
-   "issueEndDate": "2026-06-09",
-   "listingDate": "2026-06-12",
-   "priceBand": {
-    "min": 110.0,
-    "max": 116.0,
-    "currency": "INR"
-   },
-   "issuePrice": 116.0,
-   "faceValue": 10.0,
-   "lotSize": 1200,
-   "issueSize": {
-    "shares": null,
-    "amount": null
-   },
-   "leadManagers": [
-    "Choice Capital Advisors Private Limited"
-   ],
-   "registrar": "Bigshare Services Private Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 0.0,
-     "nii": 0.0,
-     "employee": 0.0
-    }
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=GENXAI&series=SME&type=Past",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "GenXAI Analytics Limited",
-      "ipoEndDate": "09-JUN-2026",
-      "ipoStartDate": "05-JUN-2026",
-      "issuePrice": "116",
-      "listingDate": "12-JUN-2026",
-      "priceRange": "Rs.110 to Rs.116",
-      "securityType": "SME",
-      "symbol": "GENXAI",
-      "company": "GenXAI Analytics Limited"
-     },
-     "detail": {
-      "companyName": "GenXAI Analytics Limited",
-      "metaInfo": {
-       "symbol": "GENXAI",
-       "companyName": "GenXAI Analytics Limited",
-       "industry": "IT Enabled Services",
-       "activeSeries": [
-        "SM"
-       ],
-       "debtSeries": [],
-       "isFNOSec": false,
-       "isCASec": false,
-       "isSLBSec": false,
-       "isDebtSec": false,
-       "isSuspended": false,
-       "tempSuspendedSeries": [],
-       "isETFSec": false,
-       "isDelisted": false,
-       "isin": "INE1W0N01014",
-       "listingDate": "2026-06-12",
-       "isMunicipalBond": false,
-       "isHybridSymbol": false,
-       "segment": "SME"
-      },
-      "bidDetails": [
-       {
-        "category": "Qualified Institutional Buyers(QIBs)",
-        "noOfshareBid": "15142800",
-        "noofapplication": "24",
-        "srNo": "1"
-       },
-       {
-        "category": "Foreign Institutional Investors(FIIs)",
-        "noOfshareBid": "3010800",
-        "noofapplication": "5",
-        "srNo": "1(a)"
-       },
-       {
-        "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "noOfshareBid": "0",
-        "noofapplication": "0",
-        "srNo": "1(b)"
-       },
-       {
-        "category": "Mutual funds",
-        "noOfshareBid": "21600",
-        "noofapplication": "1",
-        "srNo": "1(c)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "12110400",
-        "noofapplication": "18",
-        "srNo": "1(d)"
-       },
-       {
-        "category": "Non Institutional Investors",
-        "noOfshareBid": "20218800",
-        "noofapplication": "2783",
-        "srNo": "2"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-        "noOfshareBid": "15949200",
-        "noofapplication": "1620",
-        "srNo": "2.1"
-       },
-       {
-        "category": "Corporates",
-        "noOfshareBid": "703200",
-        "noofapplication": "49",
-        "srNo": "2.1(a)"
-       },
-       {
-        "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "14842800",
-        "noofapplication": "1529",
-        "srNo": "2.1(b)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "403200",
-        "noofapplication": "42",
-        "srNo": "2.1(c)"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-        "noOfshareBid": "4269600",
-        "noofapplication": "1163",
-        "srNo": "2.2"
-       },
-       {
-        "category": "Corporates",
-        "noOfshareBid": "50400",
-        "noofapplication": "13",
-        "srNo": "2.2(a)"
-       },
-       {
-        "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "3988800",
-        "noofapplication": "1086",
-        "srNo": "2.2(b)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "230400",
-        "noofapplication": "64",
-        "srNo": "2.2(c)"
-       },
-       {
-        "category": "Individual Investors (IND category bidding for 2 Lots)",
-        "noOfshareBid": "18988800",
-        "noofapplication": "7912",
-        "srNo": "3"
-       },
-       {
-        "category": "Eligible Employees (EMP)",
-        "noOfshareBid": "198000",
-        "noofapplication": "64",
-        "srNo": "4"
-       },
-       {
-        "category": "Cut Off",
-        "noOfshareBid": "0",
-        "noofapplication": "0",
-        "srNo": "4(a)"
-       },
-       {
-        "category": "Price Bids",
-        "noOfshareBid": "198000",
-        "noofapplication": "64",
-        "srNo": "4(b)"
-       },
-       {
-        "category": "Total",
-        "noOfshareBid": "54548400",
-        "noofapplication": "10783",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall, at all times, maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "GENXAI"
-        },
-        {
-         "title": "Issue Period",
-         "value": "05-Jun-2026 to 09-Jun-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "09-Jun-2025 (upto 5:00 PM) The cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate."
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Intial Public offer of Fresh issue 47,28,000 of Equity Shares including Market Maker portion upto 2,40,000 Equity Shares and Employee portion upto 1,80,000 Equity Shares (Including anchor portion of 12,92,400 Equity shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "100 % Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs.110 to Rs.116 per equity share"
-        },
-        {
-         "title": "Discount",
-         "value": "Rs. 10 per equity share to Eligible Employees"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs.10"
-        },
-        {
-         "title": "Lot Size",
-         "value": "1200 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Subscription Amount for Eligible Employee",
-         "value": "\"Rs. 5,00,000\""
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"30,15,600  Equity Shares\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"21,54,000  Equity Shares\""
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re.1"
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m. (Bidding Timings on Issue Closure upto 4:00 P.M.)"
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "Choice Capital Advisors Private Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "ICICI Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND and EMP  (Up to Rs. 5 lacs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "Bigshare Services Private Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"Office No. S-2, 6th Floor, Pinnacle Business Park, Mahakali Caves Road, Next to Ahura Centre, Andheri (East), Mumbai - 400093\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Mr. Babu Raphael C, ipo@bigshareonline.com, +91 022-6263 8200\""
-        },
-        {
-         "title": "e-form link",
-         "value": "<a href=https://ipoforms.nseindia.com/issueforms/html/index.jsp target=new>e-Forms</a>"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_GENXAI.zip"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_GENXAI.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_GENXAI.zip"
-        },
-        {
-         "title": "Security Parameters ",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_GENXAI.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_GENXAI.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_GENXAI.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "heading": "Genxai Analytics Limited",
-       "symbol": "GENXAI"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Qualified Institutional Buyers(QIBs)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "15142800",
-         "noOfTotalMeant": "0.00",
-         "srNo": "1"
-        },
-        {
-         "category": "Foreign Institutional Investors(FIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "3010800",
-         "noOfTotalMeant": "",
-         "srNo": "1(a)"
-        },
-        {
-         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "0",
-         "noOfTotalMeant": "",
-         "srNo": "1(b)"
-        },
-        {
-         "category": "Mutual funds",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "21600",
-         "noOfTotalMeant": "",
-         "srNo": "1(c)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "12110400",
-         "noOfTotalMeant": "",
-         "srNo": "1(d)"
-        },
-        {
-         "category": "Non Institutional Investors",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "20218800",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "15949200",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2.1"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "703200",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "14842800",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "403200",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(c)"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "4269600",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2.2"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "50400",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "3988800",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "230400",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(c)"
-        },
-        {
-         "category": "Employees",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "198000",
-         "noOfTotalMeant": "0.00",
-         "srNo": "3"
-        },
-        {
-         "category": "Cut Off",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "0",
-         "noOfTotalMeant": "",
-         "srNo": "3(a)"
-        },
-        {
-         "category": "Price Bids",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "198000",
-         "noOfTotalMeant": "",
-         "srNo": "3(b)"
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "3.55596E7",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on 09-Jun-2026 19:00:00"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
-  {
-   "id": "hexagon-nutrition",
-   "companyName": "Hexagon Nutrition Limited",
-   "exchanges": [
-    "NSE",
-    "BSE"
-   ],
-   "symbol": "HEXAGON",
-   "bseScripCode": null,
-   "series": "EQ",
-   "status": "closed",
-   "issueType": "100% Book Building",
-   "issueStartDate": "2026-06-05",
-   "issueEndDate": "2026-06-09",
-   "listingDate": "2026-06-12",
-   "priceBand": {
-    "min": 42.0,
-    "max": 45.0,
-    "currency": "INR"
-   },
-   "issuePrice": 45.0,
-   "faceValue": 1.0,
-   "lotSize": 333,
-   "issueSize": {
-    "shares": null,
-    "amount": null
-   },
-   "leadManagers": [
-    "Cumulative Capital Private Limited",
-    "Catalyst Capital Partners Private Limited"
-   ],
-   "registrar": "KFin Technologies Limited",
-   "subscription": {
-    "timesSubscribed": 53.68082258834456,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 19.772106824925817,
-     "nii": 161.49243522729532,
-     "retail": 26.85292471541947
-    }
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=HEXAGON&series=EQ&type=Past",
-    "bse": "https://www.bseindia.com/stock-share-price/hexagon-nutrition-ltd/hexagon/544785/"
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "company": "Hexagon Nutrition Limited",
-      "htmSym": "hexagon",
-      "ipoEndDate": "09-JUN-2026",
-      "ipoStartDate": "05-JUN-2026",
-      "issuePrice": "    45",
-      "linkRemovalDate": "10-JUN-2026",
-      "listingDate": "12-JUN-2026",
-      "priceRange": "Rs.42 to Rs.45",
-      "securityType": "BE",
-      "symbol": "HEXAGON"
-     },
-     "detail": {
-      "companyName": "Hexagon Nutrition Limited",
-      "metaInfo": {
-       "symbol": "HEXAGON",
-       "companyName": "Hexagon Nutrition Limited",
-       "industry": "Other Food Products",
-       "activeSeries": [
-        "BE",
-        " BE"
-       ],
-       "debtSeries": [],
-       "isFNOSec": false,
-       "isCASec": false,
-       "isSLBSec": false,
-       "isDebtSec": false,
-       "isSuspended": false,
-       "tempSuspendedSeries": [],
-       "isETFSec": false,
-       "isDelisted": false,
-       "isin": "INE0JUI01012",
-       "listingDate": "2026-06-12",
-       "isMunicipalBond": false,
-       "isHybridSymbol": false,
-       "segment": "EQUITY"
-      },
-      "bidDetails": [
-       {
-        "category": "Qualified Institutional Buyers(QIBs)",
-        "noOfSharesOffered": "6172155",
-        "noOfTime": "17.787375236039924",
-        "noOfsharesBid": "109786437",
-        "srNo": "1"
-       },
-       {
-        "category": "Foreign Institutional Investors(FIIs)",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "4685643",
-        "srNo": "1(a)"
-       },
-       {
-        "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "31825809",
-        "srNo": "1(b)"
-       },
-       {
-        "category": "Mutual funds",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "11349306",
-        "srNo": "1(c)"
-       },
-       {
-        "category": "Others",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "61925679",
-        "srNo": "1(d)"
-       },
-       {
-        "category": "Non Institutional Investors",
-        "noOfSharesOffered": "4628956",
-        "noOfTime": "116.03271925678274",
-        "noOfsharesBid": "537110352",
-        "srNo": "2"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-        "noOfSharesOffered": "3085971",
-        "noOfTime": "131.94704065592322",
-        "noOfsharesBid": "407184741",
-        "srNo": "2.1"
-       },
-       {
-        "category": "Corporates",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "4893102",
-        "srNo": "2.1(a)"
-       },
-       {
-        "category": "Individuals(Other than RIIs)",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "386999280",
-        "srNo": "2.1(b)"
-       },
-       {
-        "category": "Others",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "15292359",
-        "srNo": "2.1(c)"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-        "noOfSharesOffered": "1542985",
-        "noOfTime": "84.20406614451858",
-        "noOfsharesBid": "129925611",
-        "srNo": "2.2"
-       },
-       {
-        "category": "Corporates",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "193473",
-        "srNo": "2.2(a)"
-       },
-       {
-        "category": "Individuals(Other than RIIs)",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "124058484",
-        "srNo": "2.2(b)"
-       },
-       {
-        "category": "Others",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "5673654",
-        "srNo": "2.2(c)"
-       },
-       {
-        "category": "Retail Individual Investors(RIIs)",
-        "noOfSharesOffered": "10800897",
-        "noOfTime": "20.00019970563556",
-        "noOfsharesBid": "216020097",
-        "srNo": "3"
-       },
-       {
-        "category": "Cut Off",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "182850300",
-        "srNo": "3(a)"
-       },
-       {
-        "category": "Price bids",
-        "noOfSharesOffered": "",
-        "noOfTime": "",
-        "noOfsharesBid": "33169797",
-        "srNo": "3(b)"
-       },
-       {
-        "category": "Total",
-        "noOfSharesOffered": "2.1602008E7",
-        "noOfTime": "39.946142321584176",
-        "noOfsharesBid": "8.62916886E8",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Hexagon Nutrition Limited",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "HEXAGON"
-        },
-        {
-         "title": "Issue Period",
-         "value": "05-Jun-2026 to 09-Jun-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"09-Jun-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer of Offer for Sale of up to 3,08,59,704 Equity Shares (including Anchor investor portion of 92,57,696 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "100% Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 42 to Rs. 45 per Equity Share"
-        },
-        {
-         "title": "Face Value",
-         "value": "Re.1 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re.1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "333 Equity Shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "333 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"2,16,01,710 equity shares in multiple of 333 Equity Shares (Calculated at Higher Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"1,54,29,555 equity shares in multiple of 333 Equity Shares (Calculated at Higher Price band)\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "Cumulative Capital Private Limited and Catalyst Capital Partners Private Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "ICICI Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND and NOH\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "KFin Technologies Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"301, The Centrium, 3rd Floor, 57, Lal Bahadur Shastri Road, Nav Pada, Kurla (West), Kurla, Mumbai 400 070, Maharashtra, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"M. Murali Krishna, +91 40 6716 2222, hexagon.ipo@kfintech.com\""
-        },
-        {
-         "title": "e-form link",
-         "value": "<a href=https://ipoforms.nseindia.com/issueforms/html/index.jsp target=new>e-Forms</a>"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_HEXAGON.zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_HEXAGON.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_HEXAGON.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_HEXAGON.zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_HEXAGON.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_HEXAGON.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_HEXAGON.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "HEXAGON"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Qualified Institutional Buyers(QIBs)",
-         "noOfShareOffered": "6172155",
-         "noOfSharesBid": "122036508",
-         "noOfTotalMeant": "19.772106824925817",
-         "srNo": "1"
-        },
-        {
-         "category": "Foreign Institutional Investors(FIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "5427567",
-         "noOfTotalMeant": "",
-         "srNo": "1(a)"
-        },
-        {
-         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "31897404",
-         "noOfTotalMeant": "",
-         "srNo": "1(b)"
-        },
-        {
-         "category": "Mutual funds",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "11349306",
-         "noOfTotalMeant": "",
-         "srNo": "1(c)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "73362231",
-         "noOfTotalMeant": "",
-         "srNo": "1(d)"
-        },
-        {
-         "category": "Non Institutional Investors",
-         "noOfShareOffered": "4628956",
-         "noOfSharesBid": "747541377",
-         "noOfTotalMeant": "161.49243522729532",
-         "srNo": "2"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-         "noOfShareOffered": "3085971",
-         "noOfSharesBid": "565231203",
-         "noOfTotalMeant": "183.1615407273756",
-         "srNo": "2.1"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "5965362",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "537741054",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "21524787",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(c)"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-         "noOfShareOffered": "1542985",
-         "noOfSharesBid": "182310174",
-         "noOfTotalMeant": "118.15421018350794",
-         "srNo": "2.2"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "266400",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "174785040",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "7258734",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(c)"
-        },
-        {
-         "category": "Retail Individual Investors(RIIs)",
-         "noOfShareOffered": "10800897",
-         "noOfSharesBid": "290035674",
-         "noOfTotalMeant": "26.85292471541947",
-         "srNo": "3"
-        },
-        {
-         "category": "Cut Off",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "245527227",
-         "noOfTotalMeant": "",
-         "srNo": "3(a)"
-        },
-        {
-         "category": "Price bids",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "44508447",
-         "noOfTotalMeant": "",
-         "srNo": "3(b)"
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "2.1602008E7",
-         "noOfSharesBid": "1.159613559E9",
-         "noOfTotalMeant": "53.68082258834456",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on 09-Jun-2026 19:00:00"
-      }
-     }
-    },
-    "bse": {
-     "list": {
-      "CompanyName": "Hexagon Nutrition Limited",
-      "Company_Short_Name": "HEXAGON",
-      "IssuePrice": 45.0,
-      "ListedOn": "2026-06-12T00:00:00",
-      "ListingDayClose": 50.39,
-      "ListingDayGain": 5.39,
-      "CurrentPrice": 67.38,
-      "GainLoss": 22.38,
-      "Time": "2026-12-31T00:00:00",
-      "IMAGE": "https://www.bseindia.com/stock-share-price/hexagon-nutrition-ltd/hexagon/544785/"
-     }
-    }
    }
   }
  ]
