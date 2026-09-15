@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T20:02:46Z",
+ "generatedAt": "2026-09-15T01:43:50Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -12470,7 +12470,8 @@
    "id": "pranav-constructions",
    "companyName": "Pranav Constructions Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "PRANAV",
    "bseScripCode": null,
@@ -12479,13 +12480,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-09-07",
    "issueEndDate": "2026-09-09",
-   "listingDate": null,
+   "listingDate": "2026-09-15",
    "priceBand": {
     "min": 118.0,
     "max": 124.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 124.0,
    "faceValue": 10.0,
    "lotSize": 120,
    "issueSize": {
@@ -12518,16 +12519,36 @@
       "htmSym": "pranav",
       "ipoEndDate": "09-SEP-2026",
       "ipoStartDate": "07-SEP-2026",
-      "issuePrice": "-",
+      "issuePrice": "   124",
       "linkRemovalDate": "10-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "15-SEP-2026",
       "priceRange": "Rs.118 to Rs.124",
       "securityType": "EQ",
       "symbol": "PRANAV"
      },
      "detail": {
-      "companyName": "PRANAV",
-      "metaInfo": {},
+      "companyName": "Pranav Constructions Limited",
+      "metaInfo": {
+       "symbol": "PRANAV",
+       "companyName": "Pranav Constructions Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE0H4201019",
+       "listingDate": "2026-09-15",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -12955,7 +12976,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "PRANAV CONSTRUCTIONS LIMITED",
+      "Company_Short_Name": "PRANAV",
+      "IssuePrice": 124.0,
+      "ListedOn": "2026-09-15T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
