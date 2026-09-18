@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17T19:18:53Z",
+ "generatedAt": "2026-09-18T01:27:41Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -9006,7 +9006,8 @@
    "id": "veegaland-developers",
    "companyName": "Veegaland Developers Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "VEEGALAND",
    "bseScripCode": null,
@@ -9015,13 +9016,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-09-10",
    "issueEndDate": "2026-09-15",
-   "listingDate": null,
+   "listingDate": "2026-09-18",
    "priceBand": {
     "min": 130.0,
     "max": 140.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 140.0,
    "faceValue": 10.0,
    "lotSize": 107,
    "issueSize": {
@@ -9053,16 +9054,36 @@
       "htmSym": "veegaland",
       "ipoEndDate": "15-SEP-2026",
       "ipoStartDate": "10-SEP-2026",
-      "issuePrice": "-",
+      "issuePrice": "   140",
       "linkRemovalDate": "16-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "18-SEP-2026",
       "priceRange": "Rs.130 to Rs.140",
-      "securityType": "EQ",
+      "securityType": "BE",
       "symbol": "VEEGALAND"
      },
      "detail": {
-      "companyName": "VEEGALAND",
-      "metaInfo": {},
+      "companyName": "Veegaland Developers Limited",
+      "metaInfo": {
+       "symbol": "VEEGALAND",
+       "companyName": "Veegaland Developers Limited",
+       "activeSeries": [
+        "BE"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1JTV01015",
+       "listingDate": "2026-09-18",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -9490,7 +9511,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "Veegaland Developers Limited",
+      "Company_Short_Name": "VEEGALAND",
+      "IssuePrice": 140.0,
+      "ListedOn": "2026-09-18T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
