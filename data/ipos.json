@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T19:34:16Z",
+ "generatedAt": "2026-09-25T01:48:28Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -6725,13 +6725,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-09-18",
    "issueEndDate": "2026-09-22",
-   "listingDate": null,
+   "listingDate": "2026-09-25",
    "priceBand": {
     "min": 51.0,
     "max": 54.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 54.0,
    "faceValue": 5.0,
    "lotSize": 2000,
    "issueSize": {
@@ -6761,16 +6761,36 @@
       "companyName": "Axiom Gas Engineering Limited",
       "ipoEndDate": "22-SEP-2026",
       "ipoStartDate": "18-SEP-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "54",
+      "listingDate": "25-SEP-2026",
       "priceRange": "Rs.51 to Rs.54",
       "securityType": "SME",
       "symbol": "AXIOMGAS",
       "company": "Axiom Gas Engineering Limited"
      },
      "detail": {
-      "companyName": "AXIOMGAS",
-      "metaInfo": {},
+      "companyName": "Axiom Gas Engineering Limited",
+      "metaInfo": {
+       "symbol": "AXIOMGAS",
+       "companyName": "Axiom Gas Engineering Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE16J201028",
+       "listingDate": "2026-09-25",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -31764,7 +31784,8 @@
        "companyName": "Milky Mist Dairy Food Limited",
        "industry": "Dairy Products",
        "activeSeries": [
-        "EQ"
+        "BE",
+        " BE"
        ],
        "debtSeries": [],
        "isFNOSec": false,
