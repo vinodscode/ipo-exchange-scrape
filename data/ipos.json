@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T02:54:30Z",
+ "generatedAt": "2026-10-04T18:52:43Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -11,11 +11,435 @@
   }
  },
  "counts": {
-  "open": 3,
-  "upcoming": 2,
-  "closed": 93
+  "open": 5,
+  "upcoming": 0,
+  "closed": 92
  },
  "ipos": [
+  {
+   "id": "r-k-fashion-accessories",
+   "companyName": "R.K. Fashion Accessories Limited",
+   "exchanges": [
+    "NSE"
+   ],
+   "symbol": "RKFAL",
+   "bseScripCode": null,
+   "series": "SME",
+   "status": "open",
+   "issueType": "Book Building",
+   "issueStartDate": "2026-10-05",
+   "issueEndDate": "2026-10-07",
+   "listingDate": null,
+   "priceBand": {
+    "min": 77.0,
+    "max": 82.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 10.0,
+   "lotSize": 1600,
+   "issueSize": {
+    "shares": 214400,
+    "amount": null
+   },
+   "leadManagers": [
+    "Affinity Global Capital Market Private Limited"
+   ],
+   "registrar": "Cameo Corporate Service Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 4267200,
+    "sharesBid": null,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=RKFAL&series=SME&type=Active",
+    "bse": null
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "R.K. Fashion Accessories Limited",
+      "isBse": "1",
+      "issueEndDate": "07-Oct-2026",
+      "issueStartDate": "05-Oct-2026",
+      "series": "SME",
+      "status": "Active",
+      "symbol": "RKFAL",
+      "noOfsharesBid": "",
+      "noOfSharesOffered": "4267200",
+      "noOfTime": ""
+     },
+     "detail": {
+      "companyName": "RKFAL",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall, at all times, maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "RKFAL"
+        },
+        {
+         "title": "Issue Period",
+         "value": "05-Oct-2026 to 07-Oct-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "07-Oct-2026 (upto 5:00 PM) The cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate."
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public Offering of upto 42,67,200 fresh equity shares (Including market maker portion of 2,14,400 equity shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs.77 to Rs.82 per equity share"
+        },
+        {
+         "title": "Lot Size",
+         "value": "1600 Equity Shares"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs.10 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re.1"
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m. (Bidding Timings on Issue Closure upto 4:00 P.M.)"
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "Affinity Global Capital Market Private Limited"
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "Kotak Mahindra Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "\"IND (Up to Rs. 5,00,000)\""
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "Cameo Corporate Service Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"Subramanian Building, 1 Club House Road, Chennai- 600 002\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"Mrs. K. Sreepriya, +91 44 6716 2222 , priya@cameoindia.com \""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_RKFAL.zip"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_RKFAL.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_RKFAL.zip"
+        },
+        {
+         "title": "Security Parameters ",
+         "value": "https://nsearchives.nseindia.com/content/ipo/LIVE_PARAMETERS_RKFAL.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "heading": "R.K. Fashion Accessories Limited",
+       "symbol": "RKFAL"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {}
+   }
+  },
+  {
+   "id": "smc-global-securities",
+   "companyName": "SMC Global Securities Limited",
+   "exchanges": [
+    "NSE"
+   ],
+   "symbol": "SMCG04",
+   "bseScripCode": null,
+   "series": "DEBT",
+   "status": "open",
+   "issueType": null,
+   "issueStartDate": "2026-10-05",
+   "issueEndDate": "2026-10-16",
+   "listingDate": null,
+   "priceBand": null,
+   "issuePrice": null,
+   "faceValue": 1000.0,
+   "lotSize": null,
+   "issueSize": {
+    "shares": null,
+    "amount": null
+   },
+   "leadManagers": [
+    "Corporate Professionals Capital Private Limited"
+   ],
+   "registrar": "MUFG Intime India Private Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": null,
+    "sharesBid": null,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=SMCG04&series=DEBT&type=Active",
+    "bse": null
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "SMC Global Securities Limited",
+      "issueEndDate": "16-Oct-2026",
+      "issuePrice": "Rs.1000",
+      "issueSize": "750000",
+      "issueStartDate": "05-Oct-2026",
+      "series": "DEBT",
+      "status": "Active",
+      "symbol": "SMCG04"
+     },
+     "detail": {
+      "companyName": "SMCG04",
+      "metaInfo": {},
+      "bidDetails": [],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "SMC Global Securities Limited",
+         "value": ""
+        },
+        {
+         "title": "Symbol",
+         "value": "SMCG04"
+        },
+        {
+         "title": "Series",
+         "value": "\"S1 - 9.50%, Tenor 24 months, for All category Investors - Annual Payment\""
+        },
+        {
+         "title": null,
+         "value": "\"S2 - Tenor 24 months, Payable at Maturity Rs. 1,199.03 for All Category Investors\""
+        },
+        {
+         "title": null,
+         "value": "\"S3 - 9.75%, Tenor 36 months, for All category Investors - Annual Payment\""
+        },
+        {
+         "title": null,
+         "value": "\"S4 - Tenor 36 months, Payable at Maturity Rs. 1,321.95 for All Category Investors\""
+        },
+        {
+         "title": null,
+         "value": "\"S5 - 9.57%, Tenor 60 months, for All category Investors - Monthly Payment\""
+        },
+        {
+         "title": null,
+         "value": "\"S6 - 10.00%, Tenor 60 months, for All category Investors - Annual Payment\""
+        },
+        {
+         "title": "Issue Period",
+         "value": "05-Oct-2025 to 16-Oct-2025"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"Up to 5.00 P.M. (T+2 day) T Day being the date of bidding the application. For bids placed on the second last day and last day i.e., 15-Oct-2026 and 16-Oct-2026 respectively, cut off shall be up to 5.00 P.M. on 16-Oct-2026\""
+        },
+        {
+         "title": "Issue Size ",
+         "value": "\"The Company is proposing a Public Issue of secured, rated, listed, redeemable, non-convertible debentures of face value of Rs.1,000 each (NCDs) for an amount up to Rs.7,500 Lakh (Base Issue Size) with an option to retain oversubscription up to Rs.7,500 Lakh (Green Shoe Option), aggregating up to 15,00,000 NCDs for an aggregate amount of up to Rs.15,000 Lakhs (Issue Size OR Issue Limit) (hereinafter referred to as the Issue)\""
+        },
+        {
+         "title": "Security Type",
+         "value": "\"Secured Rated, Listed, Redeemable, Non- Convertible Debentures\""
+        },
+        {
+         "title": "Price",
+         "value": "Rs 1000"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs 1000"
+        },
+        {
+         "title": "Market Lot",
+         "value": "1 (One) NCD"
+        },
+        {
+         "title": "Minimum Application Value",
+         "value": "\"10 (Ten) NCDs (Rs. 10,000) either taken individually or collectively across all series of NCDs and in multiple of 1 NCD (Rs.1000) thereafter\""
+        },
+        {
+         "title": "IPO Grading",
+         "value": "The NCDs proposed to be issued under the Issue have been rated : ICRA A Stable"
+        },
+        {
+         "title": "Rating Agency",
+         "value": "ICRA"
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Lead Managers",
+         "value": "Corporate Professionals Capital Private Limited"
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "HDFC Bank Limited"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "MUFG Intime India Private Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"C-101, 247 Park, L.B.S Marg, Vikhroli West, Mumbai-400083\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"Shanti Gopalkrishnan, +91 810,8114949, smcglobal.ncd2026@in.mpms.mufg.com\""
+        },
+        {
+         "title": "Live Parameters",
+         "value": "https://nsearchives.nseindia.com/content/ipo/LIVE_PARAMETERS_SMCG04.zip"
+        },
+        {
+         "title": "Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PROSPECTUS_SMCG04.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_SMCG04.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_SMCG04.zip"
+        },
+        {
+         "title": "ASBA e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "List of Escrow Banks branches where the Application Form shall be deposited by the Trading Members ",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yesandintmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yesandintmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "SMCG04"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {}
+   }
+  },
   {
    "id": "eventions",
    "companyName": "Eventions Limited",
@@ -1413,434 +1837,6 @@
        "heading": null,
        "symbol": null,
        "updateTime": "Updated as on 01-Oct-2026 17:00:00"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
-  {
-   "id": "r-k-fashion-accessories",
-   "companyName": "R.K. Fashion Accessories Limited",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "RKFAL",
-   "bseScripCode": null,
-   "series": "SME",
-   "status": "upcoming",
-   "issueType": "Book Building",
-   "issueStartDate": "2026-10-05",
-   "issueEndDate": "2026-10-07",
-   "listingDate": null,
-   "priceBand": {
-    "min": 77.0,
-    "max": 82.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 10.0,
-   "lotSize": 1600,
-   "issueSize": {
-    "shares": 4267200,
-    "amount": null
-   },
-   "leadManagers": [
-    "Affinity Global Capital Market Private Limited"
-   ],
-   "registrar": "Cameo Corporate Service Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=RKFAL&series=SME&type=Upcoming",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "R.K. Fashion Accessories Limited",
-      "issueEndDate": "07-Oct-2026",
-      "issuePrice": "Rs.77 to Rs.82",
-      "issueSize": "4267200",
-      "issueStartDate": "05-Oct-2026",
-      "lotSize": "1600",
-      "priceBand": "Rs.77 to Rs.82",
-      "series": "SME",
-      "status": "Forthcoming",
-      "symbol": "RKFAL"
-     },
-     "detail": {
-      "companyName": "RKFAL",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfshareBid": "0",
-        "noofapplication": "0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall, at all times, maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "RKFAL"
-        },
-        {
-         "title": "Issue Period",
-         "value": "05-Oct-2026 to 07-Oct-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "07-Oct-2026 (upto 5:00 PM) The cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate."
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offering of upto 42,67,200 fresh equity shares (Including market maker portion of 2,14,400 equity shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs.77 to Rs.82 per equity share"
-        },
-        {
-         "title": "Lot Size",
-         "value": "1600 Equity Shares"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs.10 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re.1"
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m. (Bidding Timings on Issue Closure upto 4:00 P.M.)"
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "Affinity Global Capital Market Private Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Kotak Mahindra Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "\"IND (Up to Rs. 5,00,000)\""
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "Cameo Corporate Service Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"Subramanian Building, 1 Club House Road, Chennai- 600 002\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Mrs. K. Sreepriya, +91 44 6716 2222 , priya@cameoindia.com \""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_RKFAL.zip"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_RKFAL.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_RKFAL.zip"
-        },
-        {
-         "title": "Security Parameters ",
-         "value": "https://nsearchives.nseindia.com/content/ipo/LIVE_PARAMETERS_RKFAL.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "heading": "R.K. Fashion Accessories Limited",
-       "symbol": "RKFAL"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
-  {
-   "id": "smc-global-securities",
-   "companyName": "SMC Global Securities Limited",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "SMCG04",
-   "bseScripCode": null,
-   "series": "DEBT",
-   "status": "upcoming",
-   "issueType": null,
-   "issueStartDate": "2026-10-05",
-   "issueEndDate": "2026-10-16",
-   "listingDate": null,
-   "priceBand": {
-    "min": 1000.0,
-    "max": 1000.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 1000.0,
-   "lotSize": null,
-   "issueSize": {
-    "shares": 750000,
-    "amount": null
-   },
-   "leadManagers": [
-    "Corporate Professionals Capital Private Limited"
-   ],
-   "registrar": "MUFG Intime India Private Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=SMCG04&series=DEBT&type=Upcoming",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "SMC Global Securities Limited",
-      "issueEndDate": "16-Oct-2026",
-      "issuePrice": "Rs.1000",
-      "issueSize": "750000",
-      "issueStartDate": "05-Oct-2026",
-      "series": "DEBT",
-      "status": "Forthcoming",
-      "symbol": "SMCG04"
-     },
-     "detail": {
-      "companyName": "SMCG04",
-      "metaInfo": {},
-      "bidDetails": [],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "SMC Global Securities Limited",
-         "value": ""
-        },
-        {
-         "title": "Symbol",
-         "value": "SMCG04"
-        },
-        {
-         "title": "Series",
-         "value": "\"S1 - 9.50%, Tenor 24 months, for All category Investors - Annual Payment\""
-        },
-        {
-         "title": null,
-         "value": "\"S2 - Tenor 24 months, Payable at Maturity Rs. 1,199.03 for All Category Investors\""
-        },
-        {
-         "title": null,
-         "value": "\"S3 - 9.75%, Tenor 36 months, for All category Investors - Annual Payment\""
-        },
-        {
-         "title": null,
-         "value": "\"S4 - Tenor 36 months, Payable at Maturity Rs. 1,321.95 for All Category Investors\""
-        },
-        {
-         "title": null,
-         "value": "\"S5 - 9.57%, Tenor 60 months, for All category Investors - Monthly Payment\""
-        },
-        {
-         "title": null,
-         "value": "\"S6 - 10.00%, Tenor 60 months, for All category Investors - Annual Payment\""
-        },
-        {
-         "title": "Issue Period",
-         "value": "05-Oct-2025 to 16-Oct-2025"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"Up to 5.00 P.M. (T+2 day) T Day being the date of bidding the application. For bids placed on the second last day and last day i.e., 15-Oct-2026 and 16-Oct-2026 respectively, cut off shall be up to 5.00 P.M. on 16-Oct-2026\""
-        },
-        {
-         "title": "Issue Size ",
-         "value": "\"The Company is proposing a Public Issue of secured, rated, listed, redeemable, non-convertible debentures of face value of Rs.1,000 each (NCDs) for an amount up to Rs.7,500 Lakh (Base Issue Size) with an option to retain oversubscription up to Rs.7,500 Lakh (Green Shoe Option), aggregating up to 15,00,000 NCDs for an aggregate amount of up to Rs.15,000 Lakhs (Issue Size OR Issue Limit) (hereinafter referred to as the Issue)\""
-        },
-        {
-         "title": "Security Type",
-         "value": "\"Secured Rated, Listed, Redeemable, Non- Convertible Debentures\""
-        },
-        {
-         "title": "Price",
-         "value": "Rs 1000"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs 1000"
-        },
-        {
-         "title": "Market Lot",
-         "value": "1 (One) NCD"
-        },
-        {
-         "title": "Minimum Application Value",
-         "value": "\"10 (Ten) NCDs (Rs. 10,000) either taken individually or collectively across all series of NCDs and in multiple of 1 NCD (Rs.1000) thereafter\""
-        },
-        {
-         "title": "IPO Grading",
-         "value": "The NCDs proposed to be issued under the Issue have been rated : ICRA A Stable"
-        },
-        {
-         "title": "Rating Agency",
-         "value": "ICRA"
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Lead Managers",
-         "value": "Corporate Professionals Capital Private Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "HDFC Bank Limited"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "MUFG Intime India Private Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"C-101, 247 Park, L.B.S Marg, Vikhroli West, Mumbai-400083\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Shanti Gopalkrishnan, +91 810,8114949, smcglobal.ncd2026@in.mpms.mufg.com\""
-        },
-        {
-         "title": "Live Parameters",
-         "value": "https://nsearchives.nseindia.com/content/ipo/LIVE_PARAMETERS_SMCG04.zip"
-        },
-        {
-         "title": "Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PROSPECTUS_SMCG04.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_SMCG04.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_SMCG04.zip"
-        },
-        {
-         "title": "ASBA e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "List of Escrow Banks branches where the Application Form shall be deposited by the Trading Members ",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yesandintmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yesandintmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "SMCG04"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
       }
      }
     },
@@ -47779,442 +47775,6 @@
        "heading": null,
        "symbol": null,
        "updateTime": "Updated as on 10-Jul-2026 19:00:00"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
-  {
-   "id": "ic-electricals-company",
-   "companyName": "IC Electricals Company Limited",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "ICELCO",
-   "bseScripCode": null,
-   "series": "SME",
-   "status": "closed",
-   "issueType": "100 % Book Building",
-   "issueStartDate": "2026-07-03",
-   "issueEndDate": "2026-07-07",
-   "listingDate": "2026-07-10",
-   "priceBand": {
-    "min": 94.0,
-    "max": 99.0,
-    "currency": "INR"
-   },
-   "issuePrice": 99.0,
-   "faceValue": 10.0,
-   "lotSize": 1200,
-   "issueSize": {
-    "shares": null,
-    "amount": null
-   },
-   "leadManagers": [
-    "Nexgen Financial Solutions Private Limited"
-   ],
-   "registrar": "Skyline Financial Services Private Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 0.0,
-     "nii": 0.0
-    }
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=ICELCO&series=SME&type=Past",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "IC Electricals Company Limited",
-      "ipoEndDate": "07-JUL-2026",
-      "ipoStartDate": "03-JUL-2026",
-      "issuePrice": "99",
-      "listingDate": "10-JUL-2026",
-      "priceRange": "Rs.94 to Rs.99",
-      "securityType": "SME",
-      "symbol": "ICELCO",
-      "company": "IC Electricals Company Limited"
-     },
-     "detail": {
-      "companyName": "IC Electricals Company Limited",
-      "metaInfo": {
-       "symbol": "ICELCO",
-       "companyName": "IC Electricals Company Limited",
-       "industry": "Industrial Products",
-       "activeSeries": [
-        "SM"
-       ],
-       "debtSeries": [],
-       "isFNOSec": false,
-       "isCASec": false,
-       "isSLBSec": false,
-       "isDebtSec": false,
-       "isSuspended": false,
-       "tempSuspendedSeries": [],
-       "isETFSec": false,
-       "isDelisted": false,
-       "isin": "INE0XE501015",
-       "listingDate": "2026-07-10",
-       "isMunicipalBond": false,
-       "isHybridSymbol": false,
-       "segment": "SME"
-      },
-      "bidDetails": [
-       {
-        "category": "Qualified Institutional Buyers(QIBs)",
-        "noOfshareBid": "221930400",
-        "noofapplication": "149",
-        "srNo": "1"
-       },
-       {
-        "category": "Foreign Institutional Investors(FIIs)",
-        "noOfshareBid": "40828800",
-        "noofapplication": "34",
-        "srNo": "1(a)"
-       },
-       {
-        "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "noOfshareBid": "22734000",
-        "noofapplication": "10",
-        "srNo": "1(b)"
-       },
-       {
-        "category": "Mutual funds",
-        "noOfshareBid": "1584000",
-        "noofapplication": "3",
-        "srNo": "1(c)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "156783600",
-        "noofapplication": "102",
-        "srNo": "1(d)"
-       },
-       {
-        "category": "Non Institutional Investors",
-        "noOfshareBid": "534082800",
-        "noofapplication": "62537",
-        "srNo": "2"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-        "noOfshareBid": "435246000",
-        "noofapplication": "38247",
-        "srNo": "2.1"
-       },
-       {
-        "category": "Corporates",
-        "noOfshareBid": "5052000",
-        "noofapplication": "417",
-        "srNo": "2.1(a)"
-       },
-       {
-        "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "424911600",
-        "noofapplication": "37446",
-        "srNo": "2.1(b)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "5282400",
-        "noofapplication": "384",
-        "srNo": "2.1(c)"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-        "noOfshareBid": "98836800",
-        "noofapplication": "24290",
-        "srNo": "2.2"
-       },
-       {
-        "category": "Corporates",
-        "noOfshareBid": "458400",
-        "noofapplication": "117",
-        "srNo": "2.2(a)"
-       },
-       {
-        "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "97519200",
-        "noofapplication": "23962",
-        "srNo": "2.2(b)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "859200",
-        "noofapplication": "211",
-        "srNo": "2.2(c)"
-       },
-       {
-        "category": "Individual Investors (IND category bidding for 2 Lots)",
-        "noOfshareBid": "600787200",
-        "noofapplication": "250328",
-        "srNo": "3"
-       },
-       {
-        "category": "Total",
-        "noOfshareBid": "1356800400",
-        "noofapplication": "313014",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall, at all times, maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "ICELCO"
-        },
-        {
-         "title": "Issue Period",
-         "value": "03-July-2026 to 07-July-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "07-July-2026 (upto 5:00 PM) The cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate."
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer of fresh Issue up to 48,39,600 Equity Shares (including Market Maker portion of 2,42,400 Equity Shares and Anchor Allocation 13,68,000 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "100 % Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs.94 to Rs.99 per equity share"
-        },
-        {
-         "title": "Lot Size",
-         "value": "1200 Equity Shares"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs.10"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re.1"
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m. (Bidding Timings on Issue Closure upto 4:00 P.M.)"
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"32,29,200 Equity Shares (Calculated at Higher Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"23,11,200 Equity Shares (Calculated at Higher Price band)\""
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "Nexgen Financial Solutions Private Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Axis Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND and NOH\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "Skyline Financial Services Private Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\" D-153A, 1st Floor, Okhla Industrial Area Phase-I, New Delhi - 110020, India \""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Mr. Anuj Rana ,011-40450193-197, ipo@skylinerta.com  \""
-        },
-        {
-         "title": "e-form link",
-         "value": "<a href=https://ipoforms.nseindia.com/issueforms/html/index.jsp target=new>e-Forms</a>"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_ICELCO.zip"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_ICELCO.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_ICELCO.zip"
-        },
-        {
-         "title": "Security Parameters ",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_ICELCO.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_ICELCO.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_ICELCO.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "heading": "IC Electricals Company Limited",
-       "symbol": "ICELCO"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Qualified Institutional Buyers(QIBs)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "221930400",
-         "noOfTotalMeant": "0.00",
-         "srNo": "1"
-        },
-        {
-         "category": "Foreign Institutional Investors(FIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "40828800",
-         "noOfTotalMeant": "",
-         "srNo": "1(a)"
-        },
-        {
-         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "22734000",
-         "noOfTotalMeant": "",
-         "srNo": "1(b)"
-        },
-        {
-         "category": "Mutual funds",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "1584000",
-         "noOfTotalMeant": "",
-         "srNo": "1(c)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "156783600",
-         "noOfTotalMeant": "",
-         "srNo": "1(d)"
-        },
-        {
-         "category": "Non Institutional Investors",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "534082800",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "435246000",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2.1"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "5052000",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "424911600",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "5282400",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(c)"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "98836800",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2.2"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "458400",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "97519200",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "859200",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(c)"
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "7.560132E8",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on 07-Jul-2026 19:00:00"
       }
      }
     },
