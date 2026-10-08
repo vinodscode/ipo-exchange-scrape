@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T02:55:17Z",
+ "generatedAt": "2026-10-08T20:55:31Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -11,193 +11,11 @@
   }
  },
  "counts": {
-  "open": 2,
-  "upcoming": 0,
+  "open": 1,
+  "upcoming": 2,
   "closed": 96
  },
  "ipos": [
-  {
-   "id": "grace-cancer-foundation-zczp",
-   "companyName": "Grace Cancer Foundation - ZCZP",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "GCFZCZP",
-   "bseScripCode": null,
-   "series": "DEBT",
-   "status": "open",
-   "issueType": null,
-   "issueStartDate": "2026-10-07",
-   "issueEndDate": "2026-10-09",
-   "listingDate": null,
-   "priceBand": null,
-   "issuePrice": null,
-   "faceValue": 10.0,
-   "lotSize": null,
-   "issueSize": {
-    "shares": null,
-    "amount": null
-   },
-   "leadManagers": [],
-   "registrar": "KFin Technologies Limited",
-   "subscription": {
-    "timesSubscribed": 0.02,
-    "sharesOffered": 1000000,
-    "sharesBid": 17519,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=GCFZCZP&series=DEBT&type=Active",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Grace Cancer Foundation - ZCZP",
-      "issueEndDate": "09-Oct-2026",
-      "issuePrice": "Rs.10",
-      "issueSize": "1000000",
-      "issueStartDate": "07-Oct-2026",
-      "series": "DEBT",
-      "status": "Active",
-      "symbol": "GCFZCZP",
-      "category": "Total",
-      "noOfSharesOffered": "1000000",
-      "noOfTime": "0.02",
-      "noOfsharesBid": "17519",
-      "srNo": " "
-     },
-     "detail": {
-      "companyName": "GCFZCZP",
-      "metaInfo": {},
-      "bidDetails": [],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Grace Cancer Foundation - ZCZP",
-         "value": ""
-        },
-        {
-         "title": "Symbol",
-         "value": "GCFZCZP"
-        },
-        {
-         "title": "Series",
-         "value": "S1- Zero Coupon Zero Principal (ZCZP) Instrument for Tenor 12 months"
-        },
-        {
-         "title": "Issue Period",
-         "value": "07-Oct-2026 to 09-Oct-2026"
-        },
-        {
-         "title": "Post issue Modification Period",
-         "value": "12-October-2026 (10.00 A.M. to 1.00 P.M.)"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"Upto 5.00 P.M. (T+2 day) T Day being the date of bidding the application. For bids placed on the last day i.e., 09-Oct-2026, cut off shall be Upto 5.00 P.M. on 12-Oct-2026\""
-        },
-        {
-         "title": "Issue Size ",
-         "value": "Zero Coupon Zero Principal (ZCZP) NPO of Rs. 10 each for an amount up to Rs.1 Crore"
-        },
-        {
-         "title": "Security Type",
-         "value": "Zero Coupon Zero Principal (ZCZP) NPO - SSE"
-        },
-        {
-         "title": "Price ",
-         "value": "Rs. 10 per ZCZP Instrument"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs. 10 per ZCZP Instrument"
-        },
-        {
-         "title": "Market Lot",
-         "value": "1 (One) ZCZP Instrument"
-        },
-        {
-         "title": "Minimum Application Value",
-         "value": "\"Rs. 1,000/- (100 ZCZP instrument) and thereafter in multiples of Rs. 10 (i.e. 1 ZCZP instrument) thereof \""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "State Bank of India"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "KFin Technologies Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"The Centrium, 3rd Floor, 57, Lal Bahadur Shastri Road, Nav Pada, Kurla West, Mumbai - 400070\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Praveen Chaturvedi,+91 40 6716 2222, grace.ipo@kfintech.com \""
-        },
-        {
-         "title": "Live Parameters",
-         "value": "https://nsearchives.nseindia.com/content/ipo/LIVE_PARAMETERS_GCFZCZP.zip"
-        },
-        {
-         "title": "Offer Document",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ISSUE_DOCUMENT_GCFZCZP.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_GCFZCZP.zip"
-        },
-        {
-         "title": "List of Escrow Banks branches where the Application Form shall be deposited by the Trading Members ",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yesandintmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yesandintmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "GCFZCZP"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
   {
    "id": "smc-global-securities",
    "companyName": "SMC Global Securities Limited",
@@ -210,7 +28,7 @@
    "status": "open",
    "issueType": null,
    "issueStartDate": "2026-10-05",
-   "issueEndDate": "2026-10-16",
+   "issueEndDate": "2026-10-09",
    "listingDate": null,
    "priceBand": null,
    "issuePrice": null,
@@ -227,7 +45,7 @@
    "subscription": {
     "timesSubscribed": 0.01,
     "sharesOffered": 750000,
-    "sharesBid": 5377,
+    "sharesBid": 5857,
     "categories": null
    },
    "urls": {
@@ -238,7 +56,7 @@
     "nse": {
      "list": {
       "companyName": "SMC Global Securities Limited",
-      "issueEndDate": "16-Oct-2026",
+      "issueEndDate": "09-Oct-2026",
       "issuePrice": "Rs.1000",
       "issueSize": "750000",
       "issueStartDate": "05-Oct-2026",
@@ -248,7 +66,7 @@
       "category": "Total",
       "noOfSharesOffered": "750000",
       "noOfTime": "0.01",
-      "noOfsharesBid": "5377",
+      "noOfsharesBid": "5857",
       "srNo": " "
      },
      "detail": {
@@ -291,11 +109,11 @@
         },
         {
          "title": "Issue Period",
-         "value": "05-Oct-2025 to 16-Oct-2025"
+         "value": "05-Oct-2025 to 09-Oct-2025"
         },
         {
          "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"Up to 5.00 P.M. (T+2 day) T Day being the date of bidding the application. For bids placed on the second last day and last day i.e., 15-Oct-2026 and 16-Oct-2026 respectively, cut off shall be up to 5.00 P.M. on 16-Oct-2026\""
+         "value": "\"Up to 5.00 P.M. (T+2 day) T Day being the date of bidding the application. For bids placed on the second last day and last day i.e., 08-Oct-2026 and 09-Oct-2026 respectively, cut off shall be up to 5.00 P.M. on 09-Oct-2026\""
         },
         {
          "title": "Issue Size ",
@@ -306,7 +124,7 @@
          "value": "\"Secured Rated, Listed, Redeemable, Non- Convertible Debentures\""
         },
         {
-         "title": "Price",
+         "title": "Price ",
          "value": "Rs 1000"
         },
         {
@@ -370,6 +188,10 @@
          "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_SMCG04.zip"
         },
         {
+         "title": "Early Closure Intimation",
+         "value": "https://nsearchives.nseindia.com/content/ipo/EARLY_CLOSURE_SMCG04.zip"
+        },
+        {
          "title": "ASBA e-form link",
          "value": "https://bidcollection.nseindia.com/asba"
         },
@@ -391,6 +213,452 @@
         }
        ],
        "symbol": "SMCG04"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {}
+   }
+  },
+  {
+   "id": "hd-fire-protect",
+   "companyName": "HD Fire Protect Limited",
+   "exchanges": [
+    "NSE"
+   ],
+   "symbol": "HDFIRE",
+   "bseScripCode": null,
+   "series": "EQ",
+   "status": "upcoming",
+   "issueType": "Book Building",
+   "issueStartDate": "2026-10-13",
+   "issueEndDate": "2026-10-15",
+   "listingDate": null,
+   "priceBand": {
+    "min": 258.0,
+    "max": 271.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 5.0,
+   "lotSize": 55,
+   "issueSize": {
+    "shares": 26284500,
+    "amount": null
+   },
+   "leadManagers": [
+    "Ambit Private Limited",
+    "Anand Rathi Advisors Limited",
+    "IIFL Capital Services Limited"
+   ],
+   "registrar": "MUFG Intime India Private Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": null,
+    "sharesBid": null,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=HDFIRE&series=EQ&type=Upcoming",
+    "bse": null
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "HD Fire Protect Limited",
+      "issueEndDate": "15-Oct-2026",
+      "issuePrice": "Rs.258 to Rs.271",
+      "issueSize": "26284500",
+      "issueStartDate": "13-Oct-2026",
+      "series": "EQ",
+      "status": "Forthcoming",
+      "symbol": "HDFIRE"
+     },
+     "detail": {
+      "companyName": "HDFIRE",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfSharesOffered": "0.0",
+        "noOfTime": "0.00",
+        "noOfsharesBid": "0.0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "HD Fire Protect Limited",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "HDFIRE"
+        },
+        {
+         "title": "Issue Period",
+         "value": "13-Oct-2026 to 15-Oct-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"15-Oct-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public offer comprising of Offer for sale up to 26,284,500 Equity Shares (Including Eligible Employee Reservation up to Rs. 17.50 million)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 258 to Rs. 271 per Equity Share"
+        },
+        {
+         "title": "Discount",
+         "value": "Rs. 25/- per equity share is being offered to Eligible Employees Bidding in the Employee Reservation Portion"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs. 5 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re. 1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "55 Equity Shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "55 Equity Shares"
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Employee",
+         "value": "\"Rs. 5,00,000\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "\"Ambit Private Limited, Anand Rathi Advisors Limited and IIFL Capital Services Limited\""
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "Kotak Mahindra Bank Limited and ICICI Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND, and NOH\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "MUFG Intime India Private Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"C-101, Embassy 247, LBS Marg, Vikhroli (West) Mumbai 400 083 Maharashtra, India\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"Shanti Gopalkrishnan, +91 81081 14949, hdfire.ipo@in.mpms.mufg.com\""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_HDFIRE.zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_HDFIRE.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_HDFIRE.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_HDFIRE.zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_HDFIRE.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "HDFIRE"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {}
+   }
+  },
+  {
+   "id": "ravita-engineering-services",
+   "companyName": "Ravita Engineering Services Limited",
+   "exchanges": [
+    "NSE"
+   ],
+   "symbol": "RAVITA",
+   "bseScripCode": null,
+   "series": "SME",
+   "status": "upcoming",
+   "issueType": "Book Building",
+   "issueStartDate": "2026-10-13",
+   "issueEndDate": "2026-10-15",
+   "listingDate": null,
+   "priceBand": {
+    "min": 105.0,
+    "max": 112.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 5.0,
+   "lotSize": 1200,
+   "issueSize": {
+    "shares": 10362000,
+    "amount": null
+   },
+   "leadManagers": [
+    "Vivro Financial Services Private Limited"
+   ],
+   "registrar": "MUFG Intime India Private Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": null,
+    "sharesBid": null,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=RAVITA&series=SME&type=Upcoming",
+    "bse": null
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Ravita Engineering Services Limited",
+      "issueEndDate": "15-Oct-2026",
+      "issuePrice": "Rs.105 to Rs.112",
+      "issueSize": "10362000",
+      "issueStartDate": "13-Oct-2026",
+      "lotSize": "1200",
+      "priceBand": "Rs.105 to Rs.112",
+      "series": "SME",
+      "status": "Forthcoming",
+      "symbol": "RAVITA"
+     },
+     "detail": {
+      "companyName": "RAVITA",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall, at all times, maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "RAVITA"
+        },
+        {
+         "title": "Issue Period",
+         "value": "13-Oct-2026 to 15-Oct-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "15-Oct-2026 (upto 5:00 PM) The cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate."
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public Offer comprising of Fresh Issue of 1,03,62,000 Equity Shares\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs.105 to Rs.112 per equity share"
+        },
+        {
+         "title": "Lot Size",
+         "value": "1200 Equity Shares"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs.5 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re.1"
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m. (Bidding Timings on Issue Closure upto 4:00 P.M.)"
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "Vivro Financial Services Private Limited"
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "ICICI Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "\"IND (Up to Rs. 5,00,000)\""
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "MUFG Intime India Private Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"C 101, Embassy 247, L. B. S Marg, Vikhroli West, Mumbai 400 083 \""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"Shanti Gopalkrishnan, +91 8108114949 , ravitaengineering.smeipo@in.mpms.mufg.com\""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_RAVITA.zip"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_RAVITA.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_RAVITA.zip"
+        },
+        {
+         "title": "Security Parameters ",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_RAVITA.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "heading": "Ravita Engineering Services Limited",
+       "symbol": "RAVITA"
       },
       "activeCat": {
        "dataList": [
@@ -878,6 +1146,7 @@
       "metaInfo": {
        "symbol": "EVENTIONS",
        "companyName": "Eventions Limited",
+       "industry": "Other Consumer Services",
        "activeSeries": [
         "ST"
        ],
@@ -1300,6 +1569,7 @@
       "metaInfo": {
        "symbol": "NITYAS",
        "companyName": "Nityas Gems and Jewellery Limited",
+       "industry": "Gems Jewellery And Watches",
        "activeSeries": [
         "BE"
        ],
@@ -1841,6 +2111,7 @@
       "metaInfo": {
        "symbol": "VNL",
        "companyName": "Vishal Nirmiti Limited",
+       "industry": "Civil Construction",
        "activeSeries": [
         "BE"
        ],
@@ -12149,16 +12420,16 @@
        "symbol": "KHERIAAUTO",
        "companyName": "Kheria Autocomp Limited",
        "industry": "Auto Components & Equipments",
-       "activeSeries": [
-        "ST"
-       ],
+       "activeSeries": [],
        "debtSeries": [],
        "isFNOSec": false,
        "isCASec": false,
        "isSLBSec": false,
        "isDebtSec": false,
-       "isSuspended": false,
-       "tempSuspendedSeries": [],
+       "isSuspended": true,
+       "tempSuspendedSeries": [
+        "ST"
+       ],
        "isETFSec": false,
        "isDelisted": false,
        "isin": "INE0HOL01013",
@@ -13209,16 +13480,16 @@
        "symbol": "SONA",
        "companyName": "Sonaselection India Limited",
        "industry": "Other Textile Products",
-       "activeSeries": [
-        "BE"
-       ],
+       "activeSeries": [],
        "debtSeries": [],
        "isFNOSec": false,
        "isCASec": false,
        "isSLBSec": false,
        "isDebtSec": false,
-       "isSuspended": false,
-       "tempSuspendedSeries": [],
+       "isSuspended": true,
+       "tempSuspendedSeries": [
+        "BE"
+       ],
        "isETFSec": false,
        "isDelisted": false,
        "isin": "INE0LLZ01011",
@@ -13719,16 +13990,16 @@
        "symbol": "SPECTRAA",
        "companyName": "SpectraA Technology Solutions Limited",
        "industry": "Industrial Products",
-       "activeSeries": [
-        "ST"
-       ],
+       "activeSeries": [],
        "debtSeries": [],
        "isFNOSec": false,
        "isCASec": false,
        "isSLBSec": false,
        "isDebtSec": false,
-       "isSuspended": false,
-       "tempSuspendedSeries": [],
+       "isSuspended": true,
+       "tempSuspendedSeries": [
+        "ST"
+       ],
        "isETFSec": false,
        "isDelisted": false,
        "isin": "INE0GAN01010",
