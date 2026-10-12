@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T19:48:22Z",
+ "generatedAt": "2026-10-12T02:38:16Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -684,13 +684,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-10-05",
    "issueEndDate": "2026-10-07",
-   "listingDate": null,
+   "listingDate": "2026-10-12",
    "priceBand": {
     "min": 77.0,
     "max": 82.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 82.0,
    "faceValue": 10.0,
    "lotSize": 1600,
    "issueSize": {
@@ -720,16 +720,36 @@
       "companyName": "R.K. Fashion Accessories Limited",
       "ipoEndDate": "07-OCT-2026",
       "ipoStartDate": "05-OCT-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "82",
+      "listingDate": "12-OCT-2026",
       "priceRange": "Rs.77 to Rs.82",
       "securityType": "SME",
       "symbol": "RKFAL",
       "company": "R.K. Fashion Accessories Limited"
      },
      "detail": {
-      "companyName": "RKFAL",
-      "metaInfo": {},
+      "companyName": "R.K. Fashion Accessories Limited",
+      "metaInfo": {
+       "symbol": "RKFAL",
+       "companyName": "R.K. Fashion Accessories Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE2O2Y01016",
+       "listingDate": "2026-10-12",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -12195,7 +12215,7 @@
        "companyName": "Axiom Gas Engineering Limited",
        "industry": "LPG/CNG/PNG/LNG Supplier",
        "activeSeries": [
-        "ST"
+        "SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
@@ -15153,7 +15173,8 @@
        "companyName": "Jindal Supreme (India) Limited",
        "industry": "Iron & Steel Products",
        "activeSeries": [
-        "EQ"
+        "BE",
+        " BE"
        ],
        "debtSeries": [],
        "isFNOSec": false,
