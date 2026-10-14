@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T02:09:34Z",
+ "generatedAt": "2026-10-14T19:46:25Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -11,11 +11,1050 @@
   }
  },
  "counts": {
-  "open": 4,
-  "upcoming": 4,
+  "open": 8,
+  "upcoming": 0,
   "closed": 94
  },
  "ipos": [
+  {
+   "id": "bonfiglioli-transmissions",
+   "companyName": "Bonfiglioli Transmissions Limited",
+   "exchanges": [
+    "NSE"
+   ],
+   "symbol": "BONFIG",
+   "bseScripCode": null,
+   "series": "EQ",
+   "status": "open",
+   "issueType": "Book Building",
+   "issueStartDate": "2026-10-15",
+   "issueEndDate": "2026-10-19",
+   "listingDate": null,
+   "priceBand": {
+    "min": 558.0,
+    "max": 586.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 10.0,
+   "lotSize": 25,
+   "issueSize": {
+    "shares": null,
+    "amount": null
+   },
+   "leadManagers": [
+    "Axis Capital Limited",
+    "BNP Paribas",
+    "ICICI Securities Limited",
+    "Jefferies India Private Limited"
+   ],
+   "registrar": "MUFG Intime India Private Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 0,
+    "sharesBid": 0,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=BONFIG&series=EQ&type=Active",
+    "bse": null
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Bonfiglioli Transmissions Limited",
+      "issueEndDate": "19-Oct-2026",
+      "issuePrice": "Rs.558 to Rs.586",
+      "issueSize": "30282330",
+      "issueStartDate": "15-Oct-2026",
+      "series": "EQ",
+      "status": "Active",
+      "symbol": "BONFIG",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
+     },
+     "detail": {
+      "companyName": "BONFIG",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfSharesOffered": "0.0",
+        "noOfTime": "0.00",
+        "noOfsharesBid": "0.0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "Bonfiglioli Transmissions Limited",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "BONFIG"
+        },
+        {
+         "title": "Issue Period",
+         "value": "15-Oct-2026 to 19-Oct-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"19-Oct-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public Offer of offer for sale up to 4,32,39,042 Equity Shares (Including Eligible Employee Reservation of up to 50,000 Equity Shares and Anchor portion 1,29,56,712 Equity Shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 558 to Rs. 586 per Equity Share"
+        },
+        {
+         "title": "Discount",
+         "value": "Rs. 29 per equity share to eligible employees"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs 10 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re.1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "25 Equity Shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "25 Equity Shares"
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"3,02,32,325 Equity Shares in multiple of 25 Equity Shares (Calculated at Higher Price band)\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"2,15,94,500 Equity Shares in multiple of 25 Equity Shares (Calculated at Higher Price band)\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Employee Category",
+         "value": "\"Rs. 5,00,000\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "\"Axis Capital Limited, BNP Paribas, ICICI Securities Limited and Jefferies India Private Limited\""
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "ICICI Bank Limited and Axis Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND NOH and EMP\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND and EMP (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "MUFG Intime India Private Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"C-101, Embassy 247, L.B.S. Marg, Vikhroli (West) Mumbai 400 083 Maharashtra, India \""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"Shanti Gopalkrishnan,+91 810 811 4949, bonfigliolitransmissions.ipo@in.mpms.mufg.com\""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba "
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_BONFIG.zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_BONFIG.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_BONFIG.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_BONFIG.zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_BONFIG.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_BONFIG.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_BONFIG.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "BONFIG"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {}
+   }
+  },
+  {
+   "id": "sahajanand-medical-technologies",
+   "companyName": "Sahajanand Medical Technologies Limited",
+   "exchanges": [
+    "NSE"
+   ],
+   "symbol": "SMT",
+   "bseScripCode": null,
+   "series": "EQ",
+   "status": "open",
+   "issueType": "Book Building",
+   "issueStartDate": "2026-10-15",
+   "issueEndDate": "2026-10-19",
+   "listingDate": null,
+   "priceBand": {
+    "min": 327.0,
+    "max": 344.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 1.0,
+   "lotSize": 43,
+   "issueSize": {
+    "shares": null,
+    "amount": null
+   },
+   "leadManagers": [
+    "Motilal Oswal Investment Advisors Limited",
+    "Avendus Capital Private Limited",
+    "HSBC Securities",
+    "Capital Markets (India) Private Limited",
+    "Nuvama Wealth Management Limited"
+   ],
+   "registrar": "MUFG Intime India Private Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 0,
+    "sharesBid": 0,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=SMT&series=EQ&type=Active",
+    "bse": null
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Sahajanand Medical Technologies Limited",
+      "issueEndDate": "19-Oct-2026",
+      "issuePrice": "Rs.327 to Rs.344",
+      "issueSize": "9750482",
+      "issueStartDate": "15-Oct-2026",
+      "series": "EQ",
+      "status": "Active",
+      "symbol": "SMT",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
+     },
+     "detail": {
+      "companyName": "SMT",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfSharesOffered": "0.0",
+        "noOfTime": "0.00",
+        "noOfsharesBid": "0.0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "Sahajanand Medical Technologies Limited ",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "SMT"
+        },
+        {
+         "title": "Issue Period",
+         "value": "15-Oct-2026 to 19-Oct-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"19-Oct-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public Offer comprising of Offer for sale upto 13,822,116 Equity Shares (Including Eligible Employees Reservation Portion of up to 2,50,000 Equity Shares and Anchor Allocation of 40,71,634 Equity Shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 327/- to Rs. 344/- per Equity Share"
+        },
+        {
+         "title": "Discount",
+         "value": "NA"
+        },
+        {
+         "title": "Face Value",
+         "value": "Re. 1 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re. 1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "43 Equity Shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "43 Equity Shares"
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"95,00,463 Equity Shares in multiple of 43 Equity Shares (Calculated at Higher Price band)\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"67,86,045 Equity Shares in multiple of 43 Equity Shares (Calculated at Higher Price band)\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Eligible Employee",
+         "value": "\"Rs. 5,00,000\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "\"Motilal Oswal Investment Advisors Limited, Avendus Capital Private Limited, HSBC Securities and Capital Markets (India) Private Limited , Nuvama Wealth Management Limited\""
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "Axis Bank Limited and Kotak Mahindra Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND and EMP (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "MUFG Intime India Private Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"C-101, Embassy 247, Lal Bahadur Shastri Marg, Vikhroli (West), Mumbai 400 083, Maharashtra, India\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"Shanti Gopalkrishnan, +91 810 811 4949 , Tel: +91 810 811 4949, sahajanandmedical.ipo@in.mpms.mufg.com \""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_SMT.zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_SMT.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_SMT.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_SMT.zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_SMT.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_SMT.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_SMT.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "SMT"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {}
+   }
+  },
+  {
+   "id": "tonbo-imaging-india",
+   "companyName": "Tonbo Imaging India Limited",
+   "exchanges": [
+    "NSE"
+   ],
+   "symbol": "TONBO",
+   "bseScripCode": null,
+   "series": "EQ",
+   "status": "open",
+   "issueType": "100% Book Building",
+   "issueStartDate": "2026-10-15",
+   "issueEndDate": "2026-10-19",
+   "listingDate": null,
+   "priceBand": {
+    "min": 665.0,
+    "max": 700.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 2.0,
+   "lotSize": 21,
+   "issueSize": {
+    "shares": null,
+    "amount": null
+   },
+   "leadManagers": [
+    "JM Financial Limited",
+    "IIFL Capital Services Limited"
+   ],
+   "registrar": "KFin Technologies Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 0,
+    "sharesBid": 0,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=TONBO&series=EQ&type=Active",
+    "bse": null
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Tonbo Imaging India Limited",
+      "issueEndDate": "19-Oct-2026",
+      "issuePrice": "Rs.665 to Rs.700",
+      "issueSize": "8526033",
+      "issueStartDate": "15-Oct-2026",
+      "series": "EQ",
+      "status": "Active",
+      "symbol": "TONBO",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
+     },
+     "detail": {
+      "companyName": "TONBO",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfSharesOffered": "0.0",
+        "noOfTime": "0.00",
+        "noOfsharesBid": "0.0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "Tonbo Imaging India Limited",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "TONBO"
+        },
+        {
+         "title": "Issue Period",
+         "value": "15-Oct-2026 to 19-Oct-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"19-Oct-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public Offer comprising of Offer for Sale of up to 12,174,046 Equity Shares (including Employee Reservation Portion of up to 14,000 Equity Shares and Anchor reservation portion of 36,48,013 Equity Shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "100% Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 665 to Rs. 700 per Equity Share"
+        },
+        {
+         "title": "Discount",
+         "value": "Rs. 65 per equity share to Eligible Employees"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs. 2 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re. 1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "21 Equity Shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "21 Equity Shares"
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Eligible Employee",
+         "value": "\"Rs. 5,00,000\""
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"85,12,014 Equity Shares in multiple of 21 Equity Shares\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"60,80,004 Equity Shares in multiple of 21 Equity Shares\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "JM Financial Limited and IIFL Capital Services Limited"
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "Axis Bank Limited and HDFC Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND and EMP (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "KFin Technologies Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"301, The Centrium, 3rd Floor, 57, Lal Bahadur Shastri Road, Nav Pada, Kurla (West), Mumbai 400 070, Maharashtra, India\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"Williams R, +91 40 6716 2222, tonbo.ipo@kfintech.com\""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_TONBO.zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_TONBO.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_TONBO.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_TONBO.zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_TONBO.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_TONBO.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_TONBO.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "TONBO"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {}
+   }
+  },
+  {
+   "id": "zetwerk-manufacturing-businesses",
+   "companyName": "Zetwerk Manufacturing Businesses Limited",
+   "exchanges": [
+    "NSE"
+   ],
+   "symbol": "ZETWERK",
+   "bseScripCode": null,
+   "series": "EQ",
+   "status": "open",
+   "issueType": "Book Building",
+   "issueStartDate": "2026-10-15",
+   "issueEndDate": "2026-10-19",
+   "listingDate": null,
+   "priceBand": {
+    "min": 143.0,
+    "max": 151.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 1.0,
+   "lotSize": 99,
+   "issueSize": {
+    "shares": null,
+    "amount": null
+   },
+   "leadManagers": [
+    "Kotak Mahindra Capital Company Limited",
+    "Morgan Stanley India Company Private Limited",
+    "Goldman Sachs (India) Securities Private Limited",
+    "Avendus Capital Private Limited",
+    "JM Financial Limited",
+    "HSBC Securities",
+    "Capital Markets (India) Private Limited",
+    "Pantomath Capital Advisors Private Limited"
+   ],
+   "registrar": "KFin Technologies Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 0,
+    "sharesBid": 0,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=ZETWERK&series=EQ&type=Active",
+    "bse": null
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Zetwerk Manufacturing Businesses Limited",
+      "issueEndDate": "19-Oct-2026",
+      "issuePrice": "Rs.143 to Rs.151",
+      "issueSize": "185066845",
+      "issueStartDate": "15-Oct-2026",
+      "series": "EQ",
+      "status": "Active",
+      "symbol": "ZETWERK",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
+     },
+     "detail": {
+      "companyName": "ZETWERK",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfSharesOffered": "0.0",
+        "noOfTime": "0.00",
+        "noOfsharesBid": "0.0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": "Zetwerk Manufacturing Businesses Limited",
+         "value": ""
+        },
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "ZETWERK"
+        },
+        {
+         "title": "Issue Period",
+         "value": "15-Oct-2026 to 19-Oct-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "\"19-Oct-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public offer comprising Fresh issue of aggregating up to Rs. 28,300 million and offer for sale up to 14,45,25,036 Equity Shares (Including Eligible Employee Reservation up to 7,00,000 Equity Shares and Anchor portion 14,90,88,220 Equity Shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 143 to Rs. 151 per Equity Share"
+        },
+        {
+         "title": "Discount",
+         "value": "Rs. 14/- per equity share is being offered to Eligible Employees Bidding in the Employee Reservation Portion"
+        },
+        {
+         "title": "Face Value",
+         "value": "Re. 1 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re. 1"
+        },
+        {
+         "title": "Bid Lot",
+         "value": "99 Equity Shares and in multiples thereof"
+        },
+        {
+         "title": "Minimum Order Quantity",
+         "value": "99 Equity Shares"
+        },
+        {
+         "title": "Maximum Bid Quantity for QIB Investors",
+         "value": "\"18,43,66,809 Equity Shares in multiple of 99 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "Maximum Bid Quantity for NIB Investors",
+         "value": "\"85,448,880 Equity Shares in multiple of 99 Equity Shares (Calculated at Lower Price band)\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Retail Investor",
+         "value": "\"Rs. 2,00,000\""
+        },
+        {
+         "title": "Maximum Subscription Amount for Employee",
+         "value": "\"Rs. 5,00,000\""
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m."
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "\"Kotak Mahindra Capital Company Limited, Morgan Stanley India Company Private Limited, Goldman Sachs (India) Securities Private Limited, Avendus Capital Private Limited, JM Financial Limited, HSBC Securities and Capital Markets (India) Private Limited and Pantomath Capital Advisors Private Limited\""
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "Kotak Mahindra Bank Limited and ICICI Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND, and NOH\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "IND and EMP (upto 5 Lakhs)"
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "KFin Technologies Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"The Centrium, 3rd Floor, 57 Lal Bahadur Shastri Road, Nav Pada, Kurla (West) Mumbai 400 070 Maharashtra, India\""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"Williams R., +91 40 6716 2222/180 0309 4001, zetwerk.ipo@kfintech.com \""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://bidcollection.nseindia.com/asba"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_ZETWERK.zip"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_ZETWERK.zip"
+        },
+        {
+         "title": "Bidding Centers",
+         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_ZETWERK.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_ZETWERK.zip"
+        },
+        {
+         "title": "Security Parameters (Pre Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_ZETWERK.zip"
+        },
+        {
+         "title": "Security Parameters (Post Anchor)",
+         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_ZETWERK.zip"
+        },
+        {
+         "title": "Anchor Allocation Report",
+         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_ZETWERK.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "Remark",
+         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "symbol": "ZETWERK"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {}
+   }
+  },
   {
    "id": "fusion-cx",
    "companyName": "Fusion CX Limited",
@@ -49,10 +1088,14 @@
    ],
    "registrar": "KFin Technologies Limited",
    "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": 0,
-    "sharesBid": 0,
-    "categories": null
+    "timesSubscribed": 0.29716944444444443,
+    "sharesOffered": 1,
+    "sharesBid": 4172259,
+    "categories": {
+     "qib": 0.001997862939551066,
+     "nii": 0.4580835133151741,
+     "retail": 1.5497426869383213
+    }
    },
    "urls": {
     "nse": "https://www.nseindia.com/market-data/issue-information?symbol=FUSIONCX&series=EQ&type=Active",
@@ -70,9 +1113,9 @@
       "status": "Active",
       "symbol": "FUSIONCX",
       "category": "Total",
-      "noOfSharesOffered": "0.0",
-      "noOfTime": "0.00",
-      "noOfsharesBid": "0.0",
+      "noOfSharesOffered": "1.404E7",
+      "noOfTime": "0.29716944444444443",
+      "noOfsharesBid": "4172259.0",
       "srNo": null
      },
      "detail": {
@@ -80,10 +1123,129 @@
       "metaInfo": {},
       "bidDetails": [
        {
+        "category": "Qualified Institutional Buyers(QIBs)",
+        "noOfSharesOffered": "7658183",
+        "noOfTime": "0.0019046293357053495",
+        "noOfsharesBid": "14586",
+        "srNo": "1"
+       },
+       {
+        "category": "Foreign Institutional Investors(FIIs)",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "0",
+        "srNo": "1(a)"
+       },
+       {
+        "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "3468",
+        "srNo": "1(b)"
+       },
+       {
+        "category": "Mutual funds",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "0",
+        "srNo": "1(c)"
+       },
+       {
+        "category": "Others",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "11118",
+        "srNo": "1(d)"
+       },
+       {
+        "category": "Non Institutional Investors",
+        "noOfSharesOffered": "3829090",
+        "noOfTime": "0.3624257982967232",
+        "noOfsharesBid": "1387761",
+        "srNo": "2"
+       },
+       {
+        "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
+        "noOfSharesOffered": "2552727",
+        "noOfTime": "0.3083902038878423",
+        "noOfsharesBid": "787236",
+        "srNo": "2.1"
+       },
+       {
+        "category": "Corporates",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "38148",
+        "srNo": "2.1(a)"
+       },
+       {
+        "category": "Individuals(Other than RIIs)",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "700332",
+        "srNo": "2.1(b)"
+       },
+       {
+        "category": "Others",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "48756",
+        "srNo": "2.1(c)"
+       },
+       {
+        "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
+        "noOfSharesOffered": "1276363",
+        "noOfTime": "0.4704970294500859",
+        "noOfsharesBid": "600525",
+        "srNo": "2.2"
+       },
+       {
+        "category": "Corporates",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "714",
+        "srNo": "2.2(a)"
+       },
+       {
+        "category": "Individuals(Other than RIIs)",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "579105",
+        "srNo": "2.2(b)"
+       },
+       {
+        "category": "Others",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "20706",
+        "srNo": "2.2(c)"
+       },
+       {
+        "category": "Retail Individual Investors(RIIs)",
+        "noOfSharesOffered": "2552727",
+        "noOfTime": "1.0850796031067953",
+        "noOfsharesBid": "2769912",
+        "srNo": "3"
+       },
+       {
+        "category": "Cut Off",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "2361912",
+        "srNo": "3(a)"
+       },
+       {
+        "category": "Price bids",
+        "noOfSharesOffered": "",
+        "noOfTime": "",
+        "noOfsharesBid": "408000",
+        "srNo": "3(b)"
+       },
+       {
         "category": "Total",
-        "noOfSharesOffered": "0.0",
-        "noOfTime": "0.00",
-        "noOfsharesBid": "0.0",
+        "noOfSharesOffered": "1.404E7",
+        "noOfTime": "0.29716944444444443",
+        "noOfsharesBid": "4172259.0",
         "srNo": null
        }
       ],
@@ -254,16 +1416,135 @@
          "srNo": "Sr.No."
         },
         {
+         "category": "Qualified Institutional Buyers(QIBs)",
+         "noOfShareOffered": "7658183",
+         "noOfSharesBid": "15300",
+         "noOfTotalMeant": "0.001997862939551066",
+         "srNo": "1"
+        },
+        {
+         "category": "Foreign Institutional Investors(FIIs)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "0",
+         "noOfTotalMeant": "",
+         "srNo": "1(a)"
+        },
+        {
+         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "3468",
+         "noOfTotalMeant": "",
+         "srNo": "1(b)"
+        },
+        {
+         "category": "Mutual funds",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "0",
+         "noOfTotalMeant": "",
+         "srNo": "1(c)"
+        },
+        {
+         "category": "Others",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "11832",
+         "noOfTotalMeant": "",
+         "srNo": "1(d)"
+        },
+        {
+         "category": "Non Institutional Investors",
+         "noOfShareOffered": "3829090",
+         "noOfSharesBid": "1754043",
+         "noOfTotalMeant": "0.4580835133151741",
+         "srNo": "2"
+        },
+        {
+         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
+         "noOfShareOffered": "2552727",
+         "noOfSharesBid": "947070",
+         "noOfTotalMeant": "0.37100324476530394",
+         "srNo": "2.1"
+        },
+        {
+         "category": "Corporates",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "38148",
+         "noOfTotalMeant": "",
+         "srNo": "2.1(a)"
+        },
+        {
+         "category": "Individuals(Other than RIIs)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "849660",
+         "noOfTotalMeant": "",
+         "srNo": "2.1(b)"
+        },
+        {
+         "category": "Others",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "59262",
+         "noOfTotalMeant": "",
+         "srNo": "2.1(c)"
+        },
+        {
+         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
+         "noOfShareOffered": "1276363",
+         "noOfSharesBid": "806973",
+         "noOfTotalMeant": "0.6322441186402301",
+         "srNo": "2.2"
+        },
+        {
+         "category": "Corporates",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "4998",
+         "noOfTotalMeant": "",
+         "srNo": "2.2(a)"
+        },
+        {
+         "category": "Individuals(Other than RIIs)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "779841",
+         "noOfTotalMeant": "",
+         "srNo": "2.2(b)"
+        },
+        {
+         "category": "Others",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "22134",
+         "noOfTotalMeant": "",
+         "srNo": "2.2(c)"
+        },
+        {
+         "category": "Retail Individual Investors(RIIs)",
+         "noOfShareOffered": "2552727",
+         "noOfSharesBid": "3956070",
+         "noOfTotalMeant": "1.5497426869383213",
+         "srNo": "3"
+        },
+        {
+         "category": "Cut Off",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "3426180",
+         "noOfTotalMeant": "",
+         "srNo": "3(a)"
+        },
+        {
+         "category": "Price bids",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "529890",
+         "noOfTotalMeant": "",
+         "srNo": "3(b)"
+        },
+        {
          "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
+         "noOfShareOffered": "1.404E7",
+         "noOfSharesBid": "5725413.0",
+         "noOfTotalMeant": "0.40779294871794874",
          "srNo": null
         }
        ],
        "heading": null,
        "symbol": null,
-       "updateTime": "Updated as on null"
+       "updateTime": "Updated as on 14-Oct-2026 17:00:00"
       }
      }
     },
@@ -301,10 +1582,13 @@
    ],
    "registrar": "MUFG Intime India Private Limited",
    "subscription": {
-    "timesSubscribed": 0.0,
+    "timesSubscribed": 1.05,
     "sharesOffered": 7413600,
-    "sharesBid": null,
-    "categories": null
+    "sharesBid": 7818000,
+    "categories": {
+     "qib": 0.0,
+     "nii": 0.0
+    }
    },
    "urls": {
     "nse": "https://www.nseindia.com/market-data/issue-information?symbol=RAVITA&series=SME&type=Active",
@@ -320,18 +1604,108 @@
       "series": "SME",
       "status": "Active",
       "symbol": "RAVITA",
-      "noOfsharesBid": "",
+      "noOfsharesBid": "7818000",
       "noOfSharesOffered": "7413600",
-      "noOfTime": ""
+      "noOfTime": "1.05"
      },
      "detail": {
       "companyName": "RAVITA",
       "metaInfo": {},
       "bidDetails": [
        {
-        "category": "Total",
+        "category": "Qualified Institutional Buyers(QIBs)",
+        "noOfshareBid": "2074800",
+        "noofapplication": "3",
+        "srNo": "1"
+       },
+       {
+        "category": "Foreign Institutional Investors(FIIs)",
         "noOfshareBid": "0",
         "noofapplication": "0",
+        "srNo": "1(a)"
+       },
+       {
+        "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "1(b)"
+       },
+       {
+        "category": "Mutual funds",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "1(c)"
+       },
+       {
+        "category": "Others",
+        "noOfshareBid": "2074800",
+        "noofapplication": "3",
+        "srNo": "1(d)"
+       },
+       {
+        "category": "Non Institutional Investors",
+        "noOfshareBid": "2486400",
+        "noofapplication": "182",
+        "srNo": "2"
+       },
+       {
+        "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
+        "noOfshareBid": "2145600",
+        "noofapplication": "88",
+        "srNo": "2.1"
+       },
+       {
+        "category": "Corporates",
+        "noOfshareBid": "28800",
+        "noofapplication": "3",
+        "srNo": "2.1(a)"
+       },
+       {
+        "category": "Individuals(IND category bidding for more than 2 Lots)",
+        "noOfshareBid": "2107200",
+        "noofapplication": "84",
+        "srNo": "2.1(b)"
+       },
+       {
+        "category": "Others",
+        "noOfshareBid": "9600",
+        "noofapplication": "1",
+        "srNo": "2.1(c)"
+       },
+       {
+        "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
+        "noOfshareBid": "340800",
+        "noofapplication": "94",
+        "srNo": "2.2"
+       },
+       {
+        "category": "Corporates",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "2.2(a)"
+       },
+       {
+        "category": "Individuals(IND category bidding for more than 2 Lots)",
+        "noOfshareBid": "340800",
+        "noofapplication": "94",
+        "srNo": "2.2(b)"
+       },
+       {
+        "category": "Others",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "2.2(c)"
+       },
+       {
+        "category": "Individual Investors (IND category bidding for 2 Lots)",
+        "noOfshareBid": "3256800",
+        "noofapplication": "1357",
+        "srNo": "3"
+       },
+       {
+        "category": "Total",
+        "noOfshareBid": "7818000",
+        "noofapplication": "1542",
         "srNo": null
        }
       ],
@@ -479,16 +1853,114 @@
          "srNo": "Sr.No."
         },
         {
+         "category": "Qualified Institutional Buyers(QIBs)",
+         "noOfShareOffered": "0",
+         "noOfSharesBid": "2074800",
+         "noOfTotalMeant": "0.00",
+         "srNo": "1"
+        },
+        {
+         "category": "Foreign Institutional Investors(FIIs)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "0",
+         "noOfTotalMeant": "",
+         "srNo": "1(a)"
+        },
+        {
+         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "0",
+         "noOfTotalMeant": "",
+         "srNo": "1(b)"
+        },
+        {
+         "category": "Mutual funds",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "0",
+         "noOfTotalMeant": "",
+         "srNo": "1(c)"
+        },
+        {
+         "category": "Others",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "2074800",
+         "noOfTotalMeant": "",
+         "srNo": "1(d)"
+        },
+        {
+         "category": "Non Institutional Investors",
+         "noOfShareOffered": "0",
+         "noOfSharesBid": "2486400",
+         "noOfTotalMeant": "0.00",
+         "srNo": "2"
+        },
+        {
+         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
+         "noOfShareOffered": "0",
+         "noOfSharesBid": "2145600",
+         "noOfTotalMeant": "0.00",
+         "srNo": "2.1"
+        },
+        {
+         "category": "Corporates",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "28800",
+         "noOfTotalMeant": "",
+         "srNo": "2.1(a)"
+        },
+        {
+         "category": "Individuals(Other than RIIs)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "2107200",
+         "noOfTotalMeant": "",
+         "srNo": "2.1(b)"
+        },
+        {
+         "category": "Others",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "9600",
+         "noOfTotalMeant": "",
+         "srNo": "2.1(c)"
+        },
+        {
+         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
+         "noOfShareOffered": "0",
+         "noOfSharesBid": "340800",
+         "noOfTotalMeant": "0.00",
+         "srNo": "2.2"
+        },
+        {
+         "category": "Corporates",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "0",
+         "noOfTotalMeant": "",
+         "srNo": "2.2(a)"
+        },
+        {
+         "category": "Individuals(Other than RIIs)",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "340800",
+         "noOfTotalMeant": "",
+         "srNo": "2.2(b)"
+        },
+        {
+         "category": "Others",
+         "noOfShareOffered": "",
+         "noOfSharesBid": "0",
+         "noOfTotalMeant": "",
+         "srNo": "2.2(c)"
+        },
+        {
          "category": "Total",
          "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
+         "noOfSharesBid": "4561200.0",
          "noOfTotalMeant": "0.00",
          "srNo": null
         }
        ],
        "heading": null,
        "symbol": null,
-       "updateTime": "Updated as on null"
+       "updateTime": "Updated as on 14-Oct-2026 17:00:00"
       }
      }
     },
@@ -528,14 +2000,14 @@
    ],
    "registrar": "MUFG Intime India Private Limited",
    "subscription": {
-    "timesSubscribed": 3.310666729205713,
+    "timesSubscribed": 11.009213000391085,
     "sharesOffered": 1,
-    "sharesBid": 6,
+    "sharesBid": 2,
     "categories": {
-     "qib": 1.040669719562849,
-     "nii": 11.377460099872712,
-     "retail": 3.7756146619657565,
-     "employee": 2.927127554893306
+     "qib": 1.4922371645603616,
+     "nii": 48.70105327943377,
+     "retail": 11.332041444074816,
+     "employee": 7.920872107734263
     }
    },
    "urls": {
@@ -555,8 +2027,8 @@
       "symbol": "HDFIRE",
       "category": "Total",
       "noOfSharesOffered": "1.8420492E7",
-      "noOfTime": "3.310666729205713",
-      "noOfsharesBid": "6.098411E7",
+      "noOfTime": "11.009213000391085",
+      "noOfsharesBid": "2.0279512E8",
       "srNo": null
      },
      "detail": {
@@ -566,8 +2038,8 @@
        {
         "category": "Qualified Institutional Buyers(QIBs)",
         "noOfSharesOffered": "5242672",
-        "noOfTime": "1.0158274254044501",
-        "noOfsharesBid": "5325650",
+        "noOfTime": "1.4193468521395196",
+        "noOfsharesBid": "7441170",
         "srNo": "1"
        },
        {
@@ -581,133 +2053,133 @@
         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "4510",
+        "noOfsharesBid": "5280",
         "srNo": "1(b)"
        },
        {
         "category": "Mutual funds",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "2310",
+        "noOfsharesBid": "8360",
         "srNo": "1(c)"
        },
        {
         "category": "Others",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "71665",
+        "noOfsharesBid": "2180365",
         "srNo": "1(d)"
        },
        {
         "category": "Non Institutional Investors",
         "noOfSharesOffered": "3932005",
-        "noOfTime": "7.496873732357919",
-        "noOfsharesBid": "29477745",
+        "noOfTime": "30.91603138856639",
+        "noOfsharesBid": "121561990",
         "srNo": "2"
        },
        {
         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
         "noOfSharesOffered": "2621337",
-        "noOfTime": "6.764801702337395",
-        "noOfsharesBid": "17732825",
+        "noOfTime": "31.010976459722652",
+        "noOfsharesBid": "81290220",
         "srNo": "2.1"
        },
        {
         "category": "Corporates",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "123695",
+        "noOfsharesBid": "555830",
         "srNo": "2.1(a)"
        },
        {
         "category": "Individuals(Other than RIIs)",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "16910300",
+        "noOfsharesBid": "77298210",
         "srNo": "2.1(b)"
        },
        {
         "category": "Others",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "698830",
+        "noOfsharesBid": "3436180",
         "srNo": "2.1(c)"
        },
        {
         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
         "noOfSharesOffered": "1310668",
-        "noOfTime": "8.96101835094776",
-        "noOfsharesBid": "11744920",
+        "noOfTime": "30.72614117381366",
+        "noOfsharesBid": "40271770",
         "srNo": "2.2"
        },
        {
         "category": "Corporates",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "20350",
+        "noOfsharesBid": "54725",
         "srNo": "2.2(a)"
        },
        {
         "category": "Individuals(Other than RIIs)",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "11436865",
+        "noOfsharesBid": "38701520",
         "srNo": "2.2(b)"
        },
        {
         "category": "Others",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "287705",
+        "noOfsharesBid": "1515525",
         "srNo": "2.2(c)"
        },
        {
         "category": "Retail Individual Investors(RIIs)",
         "noOfSharesOffered": "9174677",
-        "noOfTime": "2.836978893098907",
-        "noOfsharesBid": "26028365",
+        "noOfTime": "8.000135045626129",
+        "noOfsharesBid": "73398655",
         "srNo": "3"
        },
        {
         "category": "Cut Off",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "20585565",
+        "noOfsharesBid": "58944985",
         "srNo": "3(a)"
        },
        {
         "category": "Price bids",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "5442800",
+        "noOfsharesBid": "14453670",
         "srNo": "3(b)"
        },
        {
         "category": "Employees",
         "noOfSharesOffered": "71138",
-        "noOfTime": "2.1416120779330314",
-        "noOfsharesBid": "152350",
+        "noOfTime": "5.528760999746971",
+        "noOfsharesBid": "393305",
         "srNo": "4"
        },
        {
         "category": "Cut Off",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "133045",
+        "noOfsharesBid": "338800",
         "srNo": "4(a)"
        },
        {
         "category": "Price Bids",
         "noOfSharesOffered": "",
         "noOfTime": "",
-        "noOfsharesBid": "19305",
+        "noOfsharesBid": "54505",
         "srNo": "4(b)"
        },
        {
         "category": "Total",
         "noOfSharesOffered": "1.8420492E7",
-        "noOfTime": "3.310666729205713",
-        "noOfsharesBid": "6.098411E7",
+        "noOfTime": "11.009213000391085",
+        "noOfsharesBid": "2.0279512E8",
         "srNo": null
        }
       ],
@@ -884,154 +2356,154 @@
         {
          "category": "Qualified Institutional Buyers(QIBs)",
          "noOfShareOffered": "5242672",
-         "noOfSharesBid": "5455890",
-         "noOfTotalMeant": "1.040669719562849",
+         "noOfSharesBid": "7823310",
+         "noOfTotalMeant": "1.4922371645603616",
          "srNo": "1"
         },
         {
          "category": "Foreign Institutional Investors(FIIs)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "5247165",
+         "noOfSharesBid": "5260035",
          "noOfTotalMeant": "",
          "srNo": "1(a)"
         },
         {
          "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "4510",
+         "noOfSharesBid": "5280",
          "noOfTotalMeant": "",
          "srNo": "1(b)"
         },
         {
          "category": "Mutual funds",
          "noOfShareOffered": "",
-         "noOfSharesBid": "2310",
+         "noOfSharesBid": "9130",
          "noOfTotalMeant": "",
          "srNo": "1(c)"
         },
         {
          "category": "Others",
          "noOfShareOffered": "",
-         "noOfSharesBid": "201905",
+         "noOfSharesBid": "2548865",
          "noOfTotalMeant": "",
          "srNo": "1(d)"
         },
         {
          "category": "Non Institutional Investors",
          "noOfShareOffered": "3932005",
-         "noOfSharesBid": "44736230",
-         "noOfTotalMeant": "11.377460099872712",
+         "noOfSharesBid": "191492785",
+         "noOfTotalMeant": "48.70105327943377",
          "srNo": "2"
         },
         {
          "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
          "noOfShareOffered": "2621337",
-         "noOfSharesBid": "28326595",
-         "noOfTotalMeant": "10.806163038174795",
+         "noOfSharesBid": "132460625",
+         "noOfTotalMeant": "50.53170385951902",
          "srNo": "2.1"
         },
         {
          "category": "Corporates",
          "noOfShareOffered": "",
-         "noOfSharesBid": "209880",
+         "noOfSharesBid": "1065020",
          "noOfTotalMeant": "",
          "srNo": "2.1(a)"
         },
         {
          "category": "Individuals(Other than RIIs)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "27211910",
+         "noOfSharesBid": "127315265",
          "noOfTotalMeant": "",
          "srNo": "2.1(b)"
         },
         {
          "category": "Others",
          "noOfShareOffered": "",
-         "noOfSharesBid": "904805",
+         "noOfSharesBid": "4080340",
          "noOfTotalMeant": "",
          "srNo": "2.1(c)"
         },
         {
          "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
          "noOfShareOffered": "1310668",
-         "noOfSharesBid": "16409635",
-         "noOfTotalMeant": "12.520054659150906",
+         "noOfSharesBid": "59032160",
+         "noOfTotalMeant": "45.039750722532325",
          "srNo": "2.2"
         },
         {
          "category": "Corporates",
          "noOfShareOffered": "",
-         "noOfSharesBid": "24970",
+         "noOfSharesBid": "78100",
          "noOfTotalMeant": "",
          "srNo": "2.2(a)"
         },
         {
          "category": "Individuals(Other than RIIs)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "16073090",
+         "noOfSharesBid": "57317865",
          "noOfTotalMeant": "",
          "srNo": "2.2(b)"
         },
         {
          "category": "Others",
          "noOfShareOffered": "",
-         "noOfSharesBid": "311575",
+         "noOfSharesBid": "1636195",
          "noOfTotalMeant": "",
          "srNo": "2.2(c)"
         },
         {
          "category": "Retail Individual Investors(RIIs)",
          "noOfShareOffered": "9174677",
-         "noOfSharesBid": "34640045",
-         "noOfTotalMeant": "3.7756146619657565",
+         "noOfSharesBid": "103967820",
+         "noOfTotalMeant": "11.332041444074816",
          "srNo": "3"
         },
         {
          "category": "Cut Off",
          "noOfShareOffered": "",
-         "noOfSharesBid": "28722870",
+         "noOfSharesBid": "87666975",
          "noOfTotalMeant": "",
          "srNo": "3(a)"
         },
         {
          "category": "Price bids",
          "noOfShareOffered": "",
-         "noOfSharesBid": "5917175",
+         "noOfSharesBid": "16300845",
          "noOfTotalMeant": "",
          "srNo": "3(b)"
         },
         {
          "category": "Employees",
          "noOfShareOffered": "71138",
-         "noOfSharesBid": "208230",
-         "noOfTotalMeant": "2.927127554893306",
+         "noOfSharesBid": "563475",
+         "noOfTotalMeant": "7.920872107734263",
          "srNo": "4"
         },
         {
          "category": "Cut Off",
          "noOfShareOffered": "",
-         "noOfSharesBid": "174735",
+         "noOfSharesBid": "455785",
          "noOfTotalMeant": "",
          "srNo": "4(a)"
         },
         {
          "category": "Price Bids",
          "noOfShareOffered": "",
-         "noOfSharesBid": "33495",
+         "noOfSharesBid": "107690",
          "noOfTotalMeant": "",
          "srNo": "4(b)"
         },
         {
          "category": "Total",
          "noOfShareOffered": "1.8420492E7",
-         "noOfSharesBid": "8.5040395E7",
-         "noOfTotalMeant": "4.616619089218681",
+         "noOfSharesBid": "3.0384739E8",
+         "noOfTotalMeant": "16.495074615813735",
          "srNo": null
         }
        ],
        "heading": null,
        "symbol": null,
-       "updateTime": "Updated as on 13-Oct-2026 17:00:00"
+       "updateTime": "Updated as on 14-Oct-2026 17:00:00"
       }
      }
     },
@@ -1069,9 +2541,9 @@
    ],
    "registrar": "Kfin Technologies Limited",
    "subscription": {
-    "timesSubscribed": 0.17,
+    "timesSubscribed": 0.43,
     "sharesOffered": 5596000,
-    "sharesBid": 974000,
+    "sharesBid": 2380000,
     "categories": {
      "qib": 0.0,
      "nii": 0.0
@@ -1091,9 +2563,9 @@
       "series": "SME",
       "status": "Active",
       "symbol": "LOANFRONT",
-      "noOfsharesBid": "974000",
+      "noOfsharesBid": "2380000",
       "noOfSharesOffered": "5596000",
-      "noOfTime": "0.17"
+      "noOfTime": "0.43"
      },
      "detail": {
       "companyName": "LOANFRONT",
@@ -1131,14 +2603,14 @@
        },
        {
         "category": "Non Institutional Investors",
-        "noOfshareBid": "466000",
-        "noofapplication": "34",
+        "noOfshareBid": "848000",
+        "noofapplication": "69",
         "srNo": "2"
        },
        {
         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-        "noOfshareBid": "360000",
-        "noofapplication": "18",
+        "noOfshareBid": "600000",
+        "noofapplication": "30",
         "srNo": "2.1"
        },
        {
@@ -1149,8 +2621,8 @@
        },
        {
         "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "360000",
-        "noofapplication": "18",
+        "noOfshareBid": "600000",
+        "noofapplication": "30",
         "srNo": "2.1(b)"
        },
        {
@@ -1161,8 +2633,8 @@
        },
        {
         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-        "noOfshareBid": "106000",
-        "noofapplication": "16",
+        "noOfshareBid": "248000",
+        "noofapplication": "39",
         "srNo": "2.2"
        },
        {
@@ -1173,26 +2645,26 @@
        },
        {
         "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "106000",
-        "noofapplication": "16",
+        "noOfshareBid": "242000",
+        "noofapplication": "38",
         "srNo": "2.2(b)"
        },
        {
         "category": "Others",
-        "noOfshareBid": "0",
-        "noofapplication": "0",
+        "noOfshareBid": "6000",
+        "noofapplication": "1",
         "srNo": "2.2(c)"
        },
        {
         "category": "Individual Investors (IND category bidding for 2 Lots)",
-        "noOfshareBid": "508000",
-        "noofapplication": "127",
+        "noOfshareBid": "1532000",
+        "noofapplication": "383",
         "srNo": "3"
        },
        {
         "category": "Total",
-        "noOfshareBid": "974000",
-        "noofapplication": "161",
+        "noOfshareBid": "2380000",
+        "noofapplication": "452",
         "srNo": null
        }
       ],
@@ -1377,14 +2849,14 @@
         {
          "category": "Non Institutional Investors",
          "noOfShareOffered": "0",
-         "noOfSharesBid": "466000",
+         "noOfSharesBid": "848000",
          "noOfTotalMeant": "0.00",
          "srNo": "2"
         },
         {
          "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
          "noOfShareOffered": "0",
-         "noOfSharesBid": "360000",
+         "noOfSharesBid": "600000",
          "noOfTotalMeant": "0.00",
          "srNo": "2.1"
         },
@@ -1398,7 +2870,7 @@
         {
          "category": "Individuals(Other than RIIs)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "360000",
+         "noOfSharesBid": "600000",
          "noOfTotalMeant": "",
          "srNo": "2.1(b)"
         },
@@ -1412,7 +2884,7 @@
         {
          "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
          "noOfShareOffered": "0",
-         "noOfSharesBid": "106000",
+         "noOfSharesBid": "248000",
          "noOfTotalMeant": "0.00",
          "srNo": "2.2"
         },
@@ -1426,983 +2898,28 @@
         {
          "category": "Individuals(Other than RIIs)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "106000",
+         "noOfSharesBid": "242000",
          "noOfTotalMeant": "",
          "srNo": "2.2(b)"
         },
         {
          "category": "Others",
          "noOfShareOffered": "",
-         "noOfSharesBid": "0",
+         "noOfSharesBid": "6000",
          "noOfTotalMeant": "",
          "srNo": "2.2(c)"
         },
         {
          "category": "Total",
          "noOfShareOffered": "0.0",
-         "noOfSharesBid": "466000.0",
+         "noOfSharesBid": "848000.0",
          "noOfTotalMeant": "0.00",
          "srNo": null
         }
        ],
        "heading": null,
        "symbol": null,
-       "updateTime": "Updated as on 13-Oct-2026 17:00:00"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
-  {
-   "id": "bonfiglioli-transmissions",
-   "companyName": "Bonfiglioli Transmissions Limited",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "BONFIG",
-   "bseScripCode": null,
-   "series": "EQ",
-   "status": "upcoming",
-   "issueType": "Book Building",
-   "issueStartDate": "2026-10-15",
-   "issueEndDate": "2026-10-19",
-   "listingDate": null,
-   "priceBand": {
-    "min": 558.0,
-    "max": 586.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 10.0,
-   "lotSize": 25,
-   "issueSize": {
-    "shares": 43239042,
-    "amount": null
-   },
-   "leadManagers": [
-    "Axis Capital Limited",
-    "BNP Paribas",
-    "ICICI Securities Limited",
-    "Jefferies India Private Limited"
-   ],
-   "registrar": "MUFG Intime India Private Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=BONFIG&series=EQ&type=Upcoming",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Bonfiglioli Transmissions Limited",
-      "issueEndDate": "19-Oct-2026",
-      "issuePrice": "Rs.558 to Rs.586",
-      "issueSize": "43239042",
-      "issueStartDate": "15-Oct-2026",
-      "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "BONFIG"
-     },
-     "detail": {
-      "companyName": "BONFIG",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfSharesOffered": "0.0",
-        "noOfTime": "0.00",
-        "noOfsharesBid": "0.0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Bonfiglioli Transmissions Limited",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "BONFIG"
-        },
-        {
-         "title": "Issue Period",
-         "value": "15-Oct-2026 to 19-Oct-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"19-Oct-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer of offer for sale up to 4,32,39,042 Equity Shares\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 558 to Rs. 586 per Equity Share"
-        },
-        {
-         "title": "Discount",
-         "value": "Rs. 29 per equity share to eligible employees"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs 10 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re.1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "25 Equity Shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "25 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Subscription Amount for Employee Category",
-         "value": "\"Rs. 5,00,000\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "\"Axis Capital Limited, BNP Paribas, ICICI Securities Limited and Jefferies India Private Limited\""
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "ICICI Bank Limited and Axis Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND NOH and EMP\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND and EMP (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "MUFG Intime India Private Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"C-101, Embassy 247, L.B.S. Marg, Vikhroli (West) Mumbai 400 083 Maharashtra, India \""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Shanti Gopalkrishnan,+91 810 811 4949, bonfigliolitransmissions.ipo@in.mpms.mufg.com\""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba "
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_BONFIG.zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_BONFIG.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_BONFIG.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_BONFIG.zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_BONFIG.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "BONFIG"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
-  {
-   "id": "sahajanand-medical-technologies",
-   "companyName": "Sahajanand Medical Technologies Limited",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "SMT",
-   "bseScripCode": null,
-   "series": "EQ",
-   "status": "upcoming",
-   "issueType": "Book Building",
-   "issueStartDate": "2026-10-15",
-   "issueEndDate": "2026-10-19",
-   "listingDate": null,
-   "priceBand": {
-    "min": 327.0,
-    "max": 344.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 1.0,
-   "lotSize": 43,
-   "issueSize": {
-    "shares": 13822116,
-    "amount": null
-   },
-   "leadManagers": [
-    "Motilal Oswal Investment Advisors Limited",
-    "Avendus Capital Private Limited",
-    "HSBC Securities",
-    "Capital Markets (India) Private Limited",
-    "Nuvama Wealth Management Limited"
-   ],
-   "registrar": "MUFG Intime India Private Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=SMT&series=EQ&type=Upcoming",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Sahajanand Medical Technologies Limited",
-      "issueEndDate": "19-Oct-2026",
-      "issuePrice": "Rs.327 to Rs.344",
-      "issueSize": "13822116",
-      "issueStartDate": "15-Oct-2026",
-      "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "SMT"
-     },
-     "detail": {
-      "companyName": "SMT",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfSharesOffered": "0.0",
-        "noOfTime": "0.00",
-        "noOfsharesBid": "0.0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Sahajanand Medical Technologies Limited ",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "SMT"
-        },
-        {
-         "title": "Issue Period",
-         "value": "15-Oct-2026 to 19-Oct-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"19-Oct-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer comprising of Offer for sale upto 13,822,116 Equity Shares (Including Eligible Employees Reservation Portion of up to 2,50,000 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 327/- to Rs. 344/- per Equity Share"
-        },
-        {
-         "title": "Discount",
-         "value": "NA"
-        },
-        {
-         "title": "Face Value",
-         "value": "Re. 1 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re. 1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "43 Equity Shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "43 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Subscription Amount for Eligible Employee",
-         "value": "\"Rs. 5,00,000\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "\"Motilal Oswal Investment Advisors Limited, Avendus Capital Private Limited, HSBC Securities and Capital Markets (India) Private Limited , Nuvama Wealth Management Limited\""
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Axis Bank Limited and Kotak Mahindra Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND and EMP (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "MUFG Intime India Private Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"C-101, Embassy 247, Lal Bahadur Shastri Marg, Vikhroli (West), Mumbai 400 083, Maharashtra, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Shanti Gopalkrishnan, +91 810 811 4949 , Tel: +91 810 811 4949, sahajanandmedical.ipo@in.mpms.mufg.com \""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_SMT.zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_SMT.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_SMT.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_SMT.zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_SMT.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "SMT"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
-  {
-   "id": "tonbo-imaging-india",
-   "companyName": "Tonbo Imaging India Limited",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "TONBO",
-   "bseScripCode": null,
-   "series": "EQ",
-   "status": "upcoming",
-   "issueType": "100% Book Building",
-   "issueStartDate": "2026-10-15",
-   "issueEndDate": "2026-10-19",
-   "listingDate": null,
-   "priceBand": {
-    "min": 665.0,
-    "max": 700.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 2.0,
-   "lotSize": 21,
-   "issueSize": {
-    "shares": 12174046,
-    "amount": null
-   },
-   "leadManagers": [
-    "JM Financial Limited",
-    "IIFL Capital Services Limited"
-   ],
-   "registrar": "KFin Technologies Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=TONBO&series=EQ&type=Upcoming",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Tonbo Imaging India Limited",
-      "issueEndDate": "19-Oct-2026",
-      "issuePrice": "Rs.665 to Rs.700",
-      "issueSize": "12174046",
-      "issueStartDate": "15-Oct-2026",
-      "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "TONBO"
-     },
-     "detail": {
-      "companyName": "TONBO",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfSharesOffered": "0.0",
-        "noOfTime": "0.00",
-        "noOfsharesBid": "0.0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Tonbo Imaging India Limited",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "TONBO"
-        },
-        {
-         "title": "Issue Period",
-         "value": "15-Oct-2026 to 19-Oct-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"19-Oct-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer comprising of Offer for Sale of up to 12,174,046 Equity Shares (including Employee Reservation Portion of up to 14,000 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "100% Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 665 to Rs. 700 per Equity Share"
-        },
-        {
-         "title": "Discount",
-         "value": "Rs. 65 per equity share to Eligible Employees"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs. 2 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re. 1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "21 Equity Shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "21 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Subscription Amount for Eligible Employee",
-         "value": "\"Rs. 5,00,000\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "JM Financial Limited and IIFL Capital Services Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Axis Bank Limited and HDFC Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND, NOH and EMP\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND and EMP (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "KFin Technologies Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"301, The Centrium, 3rd Floor, 57, Lal Bahadur Shastri Road, Nav Pada, Kurla (West), Mumbai 400 070, Maharashtra, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Williams R, +91 40 6716 2222, tonbo.ipo@kfintech.com\""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_TONBO.zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_TONBO.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_TONBO.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_TONBO.zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_TONBO.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "TONBO"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
-  {
-   "id": "zetwerk-manufacturing-businesses",
-   "companyName": "Zetwerk Manufacturing Businesses Limited",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "ZETWERK",
-   "bseScripCode": null,
-   "series": "EQ",
-   "status": "upcoming",
-   "issueType": "Book Building",
-   "issueStartDate": "2026-10-15",
-   "issueEndDate": "2026-10-19",
-   "listingDate": null,
-   "priceBand": {
-    "min": 143.0,
-    "max": 151.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 1.0,
-   "lotSize": 99,
-   "issueSize": {
-    "shares": 342495665,
-    "amount": null
-   },
-   "leadManagers": [
-    "Kotak Mahindra Capital Company Limited",
-    "Morgan Stanley India Company Private Limited",
-    "Goldman Sachs (India) Securities Private Limited",
-    "Avendus Capital Private Limited",
-    "JM Financial Limited",
-    "HSBC Securities",
-    "Capital Markets (India) Private Limited",
-    "Pantomath Capital Advisors Private Limited"
-   ],
-   "registrar": "KFin Technologies Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=ZETWERK&series=EQ&type=Upcoming",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Zetwerk Manufacturing Businesses Limited",
-      "issueEndDate": "19-Oct-2026",
-      "issuePrice": "Rs.143 to Rs.151",
-      "issueSize": "342495665",
-      "issueStartDate": "15-Oct-2026",
-      "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "ZETWERK"
-     },
-     "detail": {
-      "companyName": "ZETWERK",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfSharesOffered": "0.0",
-        "noOfTime": "0.00",
-        "noOfsharesBid": "0.0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": "Zetwerk Manufacturing Businesses Limited",
-         "value": ""
-        },
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 28 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall at all times maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "ZETWERK"
-        },
-        {
-         "title": "Issue Period",
-         "value": "15-Oct-2026 to 19-Oct-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "\"19-Oct-2026 (upto 5:00 PM) The new cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence, investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate.\""
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public offer comprising Fresh issue of aggregating up to Rs. 28,300 million and offer for sale up to 14,45,25,036 Equity Shares (Including Eligible Employee Reservation up to 7,00,000 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 143 to Rs. 151 per Equity Share"
-        },
-        {
-         "title": "Discount",
-         "value": "Rs. 14/- per equity share is being offered to Eligible Employees Bidding in the Employee Reservation Portion"
-        },
-        {
-         "title": "Face Value",
-         "value": "Re. 1 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re. 1"
-        },
-        {
-         "title": "Bid Lot",
-         "value": "99 Equity Shares and in multiples thereof"
-        },
-        {
-         "title": "Minimum Order Quantity",
-         "value": "99 Equity Shares"
-        },
-        {
-         "title": "Maximum Subscription Amount for Retail Investor",
-         "value": "\"Rs. 2,00,000\""
-        },
-        {
-         "title": "Maximum Subscription Amount for Employee",
-         "value": "\"Rs. 5,00,000\""
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m."
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "\"Kotak Mahindra Capital Company Limited, Morgan Stanley India Company Private Limited, Goldman Sachs (India) Securities Private Limited, Avendus Capital Private Limited, JM Financial Limited, HSBC Securities and Capital Markets (India) Private Limited and Pantomath Capital Advisors Private Limited\""
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Kotak Mahindra Bank Limited and ICICI Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND, and NOH\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND and EMP (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "KFin Technologies Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"The Centrium, 3rd Floor, 57 Lal Bahadur Shastri Road, Nav Pada, Kurla (West) Mumbai 400 070 Maharashtra, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Williams R., +91 40 6716 2222/180 0309 4001, zetwerk.ipo@kfintech.com \""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_ZETWERK.zip"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_ZETWERK.zip"
-        },
-        {
-         "title": "Bidding Centers",
-         "value": "https://nsearchives.nseindia.com/content/ipo/BIDDING_CENTERS_ZETWERK.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_ZETWERK.zip"
-        },
-        {
-         "title": "Security Parameters (Pre Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_ZETWERK.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "Remark",
-         "value": "\"The dedicated window provided for bid modification (modification of selected fields viz. DP ID/Client ID or Pan ID, Bank code and Location code) on T+1 day (T being last day of bidding) shall not be available now. The bid modification of selected fields shall be allowed during bidding period of IPO only.\""
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "symbol": "ZETWERK"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
+       "updateTime": "Updated as on 14-Oct-2026 17:00:00"
       }
      }
     },
