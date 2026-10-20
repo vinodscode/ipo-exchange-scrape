@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T02:05:58Z",
+ "generatedAt": "2026-10-20T19:39:42Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -11,8 +11,8 @@
   }
  },
  "counts": {
-  "open": 0,
-  "upcoming": 2,
+  "open": 2,
+  "upcoming": 0,
   "closed": 99
  },
  "ipos": [
@@ -25,7 +25,7 @@
    "symbol": "JPL",
    "bseScripCode": null,
    "series": "EQ",
-   "status": "upcoming",
+   "status": "open",
    "issueType": "Book Building",
    "issueStartDate": "2026-10-21",
    "issueEndDate": "2026-10-23",
@@ -39,7 +39,7 @@
    "faceValue": 10.0,
    "lotSize": 12,
    "issueSize": {
-    "shares": 197525934,
+    "shares": null,
     "amount": null
    },
    "leadManagers": [
@@ -48,12 +48,12 @@
    "registrar": "Kfin Technologies Limited",
    "subscription": {
     "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
+    "sharesOffered": 0,
+    "sharesBid": 0,
     "categories": null
    },
    "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=JPL&series=EQ&type=Upcoming",
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=JPL&series=EQ&type=Active",
     "bse": null
    },
    "raw": {
@@ -65,8 +65,13 @@
       "issueSize": "197525934",
       "issueStartDate": "21-Oct-2026",
       "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "JPL"
+      "status": "Active",
+      "symbol": "JPL",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
      },
      "detail": {
       "companyName": "JPL",
@@ -360,7 +365,7 @@
    "symbol": "PARASHLTH",
    "bseScripCode": null,
    "series": "EQ",
-   "status": "upcoming",
+   "status": "open",
    "issueType": "Book Building",
    "issueStartDate": "2026-10-21",
    "issueEndDate": "2026-10-23",
@@ -374,7 +379,7 @@
    "faceValue": 1.0,
    "lotSize": 21,
    "issueSize": {
-    "shares": 12083331,
+    "shares": 9415584,
     "amount": null
    },
    "leadManagers": [
@@ -385,12 +390,12 @@
    "registrar": "MUFG Intime India Private Limited",
    "subscription": {
     "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
+    "sharesOffered": 0,
+    "sharesBid": 0,
     "categories": null
    },
    "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=PARASHLTH&series=EQ&type=Upcoming",
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=PARASHLTH&series=EQ&type=Active",
     "bse": null
    },
    "raw": {
@@ -402,8 +407,13 @@
       "issueSize": "12083331",
       "issueStartDate": "21-Oct-2026",
       "series": "EQ",
-      "status": "Forthcoming",
-      "symbol": "PARASHLTH"
+      "status": "Active",
+      "symbol": "PARASHLTH",
+      "category": "Total",
+      "noOfSharesOffered": "0.0",
+      "noOfTime": "0.00",
+      "noOfsharesBid": "0.0",
+      "srNo": null
      },
      "detail": {
       "companyName": "PARASHLTH",
@@ -634,9 +644,9 @@
    ],
    "registrar": "MUFG Intime India Private Limited",
    "subscription": {
-    "timesSubscribed": 31.76523900241494,
-    "sharesOffered": 3,
-    "sharesBid": 9,
+    "timesSubscribed": 46.055135948918064,
+    "sharesOffered": null,
+    "sharesBid": null,
     "categories": {
      "qib": 120.78396220429998,
      "nii": 40.39682823901184,
@@ -645,25 +655,22 @@
     }
    },
    "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=BONFIG&series=EQ&type=Active",
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=BONFIG&series=EQ&type=Past",
     "bse": null
    },
    "raw": {
     "nse": {
      "list": {
-      "companyName": "Bonfiglioli Transmissions Limited",
-      "issueEndDate": "19-Oct-2026",
-      "issuePrice": "Rs.558 to Rs.586",
-      "issueSize": "30282330",
-      "issueStartDate": "15-Oct-2026",
-      "series": "EQ",
-      "status": "Closed",
-      "symbol": "BONFIG",
-      "category": "Total",
-      "noOfSharesOffered": "3.028233E7",
-      "noOfTime": "31.76523900241494",
-      "noOfsharesBid": "9.6192545E8",
-      "srNo": null
+      "company": "Bonfiglioli Transmissions Limited",
+      "htmSym": "bonfig",
+      "ipoEndDate": "19-OCT-2026",
+      "ipoStartDate": "15-OCT-2026",
+      "issuePrice": "-",
+      "linkRemovalDate": "20-OCT-2026",
+      "listingDate": "-",
+      "priceRange": "Rs.558 to Rs.586",
+      "securityType": "EQ",
+      "symbol": "BONFIG"
      },
      "detail": {
       "companyName": "BONFIG",
@@ -1179,9 +1186,9 @@
    ],
    "registrar": "MUFG Intime India Private Limited",
    "subscription": {
-    "timesSubscribed": 4.288056734015816,
-    "sharesOffered": 9750482,
-    "sharesBid": 4,
+    "timesSubscribed": 14.201633416686478,
+    "sharesOffered": null,
+    "sharesBid": null,
     "categories": {
      "qib": 34.69606763573695,
      "nii": 14.642006309011906,
@@ -1190,25 +1197,22 @@
     }
    },
    "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=SMT&series=EQ&type=Active",
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=SMT&series=EQ&type=Past",
     "bse": null
    },
    "raw": {
     "nse": {
      "list": {
-      "companyName": "Sahajanand Medical Technologies Limited",
-      "issueEndDate": "19-Oct-2026",
-      "issuePrice": "Rs.327 to Rs.344",
-      "issueSize": "9750482",
-      "issueStartDate": "15-Oct-2026",
-      "series": "EQ",
-      "status": "Closed",
-      "symbol": "SMT",
-      "category": "Total",
-      "noOfSharesOffered": "9750482.0",
-      "noOfTime": "4.288056734015816",
-      "noOfsharesBid": "4.181062E7",
-      "srNo": null
+      "company": "Sahajanand Medical Technologies Limited",
+      "htmSym": "smt",
+      "ipoEndDate": "19-OCT-2026",
+      "ipoStartDate": "15-OCT-2026",
+      "issuePrice": "-",
+      "linkRemovalDate": "20-OCT-2026",
+      "listingDate": "-",
+      "priceRange": "Rs.327 to Rs.344",
+      "securityType": "EQ",
+      "symbol": "SMT"
      },
      "detail": {
       "companyName": "SMT",
@@ -1721,9 +1725,9 @@
    ],
    "registrar": "KFin Technologies Limited",
    "subscription": {
-    "timesSubscribed": 96.88362008451058,
-    "sharesOffered": 8526033,
-    "sharesBid": 8,
+    "timesSubscribed": 135.90367841644525,
+    "sharesOffered": null,
+    "sharesBid": null,
     "categories": {
      "qib": 293.5569379060686,
      "nii": 170.9431893627601,
@@ -1732,25 +1736,22 @@
     }
    },
    "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=TONBO&series=EQ&type=Active",
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=TONBO&series=EQ&type=Past",
     "bse": null
    },
    "raw": {
     "nse": {
      "list": {
-      "companyName": "Tonbo Imaging India Limited",
-      "issueEndDate": "19-Oct-2026",
-      "issuePrice": "Rs.665 to Rs.700",
-      "issueSize": "8526033",
-      "issueStartDate": "15-Oct-2026",
-      "series": "EQ",
-      "status": "Closed",
-      "symbol": "TONBO",
-      "category": "Total",
-      "noOfSharesOffered": "8526033.0",
-      "noOfTime": "96.88362008451058",
-      "noOfsharesBid": "8.26032942E8",
-      "srNo": null
+      "company": "Tonbo Imaging India Limited",
+      "htmSym": "tonbo",
+      "ipoEndDate": "19-OCT-2026",
+      "ipoStartDate": "15-OCT-2026",
+      "issuePrice": "-",
+      "linkRemovalDate": "20-OCT-2026",
+      "listingDate": "-",
+      "priceRange": "Rs.665 to Rs.700",
+      "securityType": "EQ",
+      "symbol": "TONBO"
      },
      "detail": {
       "companyName": "TONBO",
@@ -2269,9 +2270,9 @@
    ],
    "registrar": "KFin Technologies Limited",
    "subscription": {
-    "timesSubscribed": 1.3724419898118434,
-    "sharesOffered": 1,
-    "sharesBid": 2,
+    "timesSubscribed": 3.0597630548032524,
+    "sharesOffered": null,
+    "sharesBid": null,
     "categories": {
      "qib": 4.733238807160643,
      "nii": 1.4014828040824159,
@@ -2280,25 +2281,22 @@
     }
    },
    "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=ZETWERK&series=EQ&type=Active",
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=ZETWERK&series=EQ&type=Past",
     "bse": null
    },
    "raw": {
     "nse": {
      "list": {
-      "companyName": "Zetwerk Manufacturing Businesses Limited",
-      "issueEndDate": "19-Oct-2026",
-      "issuePrice": "Rs.143 to Rs.151",
-      "issueSize": "185066845",
-      "issueStartDate": "15-Oct-2026",
-      "series": "EQ",
-      "status": "Closed",
-      "symbol": "ZETWERK",
-      "category": "Total",
-      "noOfSharesOffered": "1.85066845E8",
-      "noOfTime": "1.3724419898118434",
-      "noOfsharesBid": "2.53993509E8",
-      "srNo": null
+      "company": "Zetwerk Manufacturing Businesses Limited",
+      "htmSym": "zetwerk",
+      "ipoEndDate": "19-OCT-2026",
+      "ipoStartDate": "15-OCT-2026",
+      "issuePrice": "-",
+      "linkRemovalDate": "20-OCT-2026",
+      "listingDate": "-",
+      "priceRange": "Rs.143 to Rs.151",
+      "securityType": "EQ",
+      "symbol": "ZETWERK"
      },
      "detail": {
       "companyName": "ZETWERK",
