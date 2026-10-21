@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T19:39:42Z",
+ "generatedAt": "2026-10-21T01:53:52Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -3698,13 +3698,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-10-13",
    "issueEndDate": "2026-10-15",
-   "listingDate": null,
+   "listingDate": "2026-10-21",
    "priceBand": {
     "min": 258.0,
     "max": 271.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 271.0,
    "faceValue": 5.0,
    "lotSize": 55,
    "issueSize": {
@@ -3739,16 +3739,36 @@
       "htmSym": "hdfire",
       "ipoEndDate": "15-OCT-2026",
       "ipoStartDate": "13-OCT-2026",
-      "issuePrice": "-",
+      "issuePrice": "   271",
       "linkRemovalDate": "16-OCT-2026",
-      "listingDate": "-",
+      "listingDate": "21-OCT-2026",
       "priceRange": "Rs.258 to Rs.271",
       "securityType": "EQ",
       "symbol": "HDFIRE"
      },
      "detail": {
-      "companyName": "HDFIRE",
-      "metaInfo": {},
+      "companyName": "HD Fire Protect Limited",
+      "metaInfo": {
+       "symbol": "HDFIRE",
+       "companyName": "HD Fire Protect Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE18AK01028",
+       "listingDate": "2026-10-21",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -4238,13 +4258,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-10-13",
    "issueEndDate": "2026-10-15",
-   "listingDate": null,
+   "listingDate": "2026-10-21",
    "priceBand": {
     "min": 51.0,
     "max": 54.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 54.0,
    "faceValue": 5.0,
    "lotSize": 2000,
    "issueSize": {
@@ -4274,16 +4294,36 @@
       "companyName": "Vaibhav Vyapaar Limited",
       "ipoEndDate": "15-OCT-2026",
       "ipoStartDate": "13-OCT-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "54",
+      "listingDate": "21-OCT-2026",
       "priceRange": "Rs.51 to Rs.54",
       "securityType": "SME",
       "symbol": "LOANFRONT",
       "company": "Vaibhav Vyapaar Limited"
      },
      "detail": {
-      "companyName": "LOANFRONT",
-      "metaInfo": {},
+      "companyName": "Vaibhav Vyapaar Limited",
+      "metaInfo": {
+       "symbol": "LOANFRONT",
+       "companyName": "Vaibhav Vyapaar Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1KAA01025",
+       "listingDate": "2026-10-21",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -7229,7 +7269,7 @@
        "companyName": "Shah Investor's Home Limited",
        "industry": "Stockbroking & Allied",
        "activeSeries": [
-        "BE"
+        "EQ"
        ],
        "debtSeries": [],
        "isFNOSec": false,
@@ -7741,7 +7781,7 @@
        "companyName": "SRIT India Limited",
        "industry": "IT Enabled Services",
        "activeSeries": [
-        "BE"
+        "EQ"
        ],
        "debtSeries": [],
        "isFNOSec": false,
@@ -13748,7 +13788,7 @@
        "companyName": "Coreintegra Consulting Services Limited",
        "industry": "Diversified Commercial Services",
        "activeSeries": [
-        "SM"
+        "ST"
        ],
        "debtSeries": [],
        "isFNOSec": false,
