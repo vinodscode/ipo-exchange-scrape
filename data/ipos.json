@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T19:39:20Z",
+ "generatedAt": "2026-10-22T01:48:26Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -3360,13 +3360,13 @@
    "issueType": "100% Book Building",
    "issueStartDate": "2026-10-14",
    "issueEndDate": "2026-10-16",
-   "listingDate": null,
+   "listingDate": "2026-10-22",
    "priceBand": {
     "min": 275.0,
     "max": 289.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 289.0,
    "faceValue": 1.0,
    "lotSize": 51,
    "issueSize": {
@@ -3400,16 +3400,36 @@
       "htmSym": "fusioncx",
       "ipoEndDate": "16-OCT-2026",
       "ipoStartDate": "14-OCT-2026",
-      "issuePrice": "-",
+      "issuePrice": "   289",
       "linkRemovalDate": "17-OCT-2026",
-      "listingDate": "-",
+      "listingDate": "22-OCT-2026",
       "priceRange": "Rs.275 to Rs.289",
       "securityType": "EQ",
       "symbol": "FUSIONCX"
      },
      "detail": {
-      "companyName": "FUSIONCX",
-      "metaInfo": {},
+      "companyName": "Fusion CX Limited",
+      "metaInfo": {
+       "symbol": "FUSIONCX",
+       "companyName": "Fusion CX Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE0N2201019",
+       "listingDate": "2026-10-22",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -3853,13 +3873,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-10-14",
    "issueEndDate": "2026-10-16",
-   "listingDate": null,
+   "listingDate": "2026-10-22",
    "priceBand": {
     "min": 105.0,
     "max": 112.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 112.0,
    "faceValue": 5.0,
    "lotSize": 1200,
    "issueSize": {
@@ -3889,16 +3909,36 @@
       "companyName": "Ravita Engineering Services Limited",
       "ipoEndDate": "16-OCT-2026",
       "ipoStartDate": "14-OCT-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "112",
+      "listingDate": "22-OCT-2026",
       "priceRange": "Rs.105 to Rs.112",
       "securityType": "SME",
       "symbol": "RAVITA",
       "company": "Ravita Engineering Services Limited"
      },
      "detail": {
-      "companyName": "RAVITA",
-      "metaInfo": {},
+      "companyName": "Ravita Engineering Services Limited",
+      "metaInfo": {
+       "symbol": "RAVITA",
+       "companyName": "Ravita Engineering Services Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1UEL01023",
+       "listingDate": "2026-10-22",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -7419,7 +7459,7 @@
        "companyName": "Papadmalji Agro Foods Limited",
        "industry": "Packaged Foods",
        "activeSeries": [
-        "ST"
+        "SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
@@ -12396,7 +12436,7 @@
        "companyName": "Green Asia Impex Limited",
        "industry": "Seafood",
        "activeSeries": [
-        "ST"
+        "SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
