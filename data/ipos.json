@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T03:13:27Z",
+ "generatedAt": "2026-11-04T21:35:15Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -11,7 +11,7 @@
   }
  },
  "counts": {
-  "open": 1,
+  "open": 0,
   "upcoming": 0,
   "closed": 100
  },
@@ -25,7 +25,7 @@
    "symbol": "VPFL",
    "bseScripCode": null,
    "series": "SME",
-   "status": "open",
+   "status": "closed",
    "issueType": "Book Building",
    "issueStartDate": "2026-11-02",
    "issueEndDate": "2026-11-04",
@@ -47,9 +47,9 @@
    ],
    "registrar": "Cameo Corporate Services Limited",
    "subscription": {
-    "timesSubscribed": 0.87,
+    "timesSubscribed": 1.85,
     "sharesOffered": 6030000,
-    "sharesBid": 5272800,
+    "sharesBid": 11168400,
     "categories": {
      "qib": 0.0,
      "nii": 0.0
@@ -67,11 +67,11 @@
       "issueEndDate": "04-Nov-2026",
       "issueStartDate": "02-Nov-2026",
       "series": "SME",
-      "status": "Active",
+      "status": "Closed",
       "symbol": "VPFL",
-      "noOfsharesBid": "5272800",
+      "noOfsharesBid": "11168400",
       "noOfSharesOffered": "6030000",
-      "noOfTime": "0.87"
+      "noOfTime": "1.85"
      },
      "detail": {
       "companyName": "VPFL",
@@ -109,26 +109,26 @@
        },
        {
         "category": "Non Institutional Investors",
-        "noOfshareBid": "2432400",
-        "noofapplication": "198",
+        "noOfshareBid": "3432000",
+        "noofapplication": "324",
         "srNo": "2"
        },
        {
         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-        "noOfshareBid": "1432800",
-        "noofapplication": "25",
+        "noOfshareBid": "1996800",
+        "noofapplication": "50",
         "srNo": "2.1"
        },
        {
         "category": "Corporates",
-        "noOfshareBid": "0",
-        "noofapplication": "0",
+        "noOfshareBid": "304800",
+        "noofapplication": "1",
         "srNo": "2.1(a)"
        },
        {
         "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "1432800",
-        "noofapplication": "25",
+        "noOfshareBid": "1692000",
+        "noofapplication": "49",
         "srNo": "2.1(b)"
        },
        {
@@ -139,8 +139,8 @@
        },
        {
         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-        "noOfshareBid": "999600",
-        "noofapplication": "173",
+        "noOfshareBid": "1435200",
+        "noofapplication": "274",
         "srNo": "2.2"
        },
        {
@@ -151,26 +151,26 @@
        },
        {
         "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "830400",
-        "noofapplication": "141",
+        "noOfshareBid": "1262400",
+        "noofapplication": "241",
         "srNo": "2.2(b)"
        },
        {
         "category": "Others",
-        "noOfshareBid": "169200",
-        "noofapplication": "32",
+        "noOfshareBid": "172800",
+        "noofapplication": "33",
         "srNo": "2.2(c)"
        },
        {
         "category": "Individual Investors (IND category bidding for 2 Lots)",
-        "noOfshareBid": "2772000",
-        "noofapplication": "1155",
+        "noOfshareBid": "7668000",
+        "noofapplication": "3195",
         "srNo": "3"
        },
        {
         "category": "Total",
-        "noOfshareBid": "5272800",
-        "noofapplication": "1354",
+        "noOfshareBid": "11168400",
+        "noofapplication": "3520",
         "srNo": null
        }
       ],
@@ -339,28 +339,28 @@
         {
          "category": "Non Institutional Investors",
          "noOfShareOffered": "0",
-         "noOfSharesBid": "2432400",
+         "noOfSharesBid": "3432000",
          "noOfTotalMeant": "0.00",
          "srNo": "2"
         },
         {
          "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
          "noOfShareOffered": "0",
-         "noOfSharesBid": "1432800",
+         "noOfSharesBid": "1996800",
          "noOfTotalMeant": "0.00",
          "srNo": "2.1"
         },
         {
          "category": "Corporates",
          "noOfShareOffered": "",
-         "noOfSharesBid": "0",
+         "noOfSharesBid": "304800",
          "noOfTotalMeant": "",
          "srNo": "2.1(a)"
         },
         {
          "category": "Individuals(Other than RIIs)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "1432800",
+         "noOfSharesBid": "1692000",
          "noOfTotalMeant": "",
          "srNo": "2.1(b)"
         },
@@ -374,7 +374,7 @@
         {
          "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
          "noOfShareOffered": "0",
-         "noOfSharesBid": "999600",
+         "noOfSharesBid": "1435200",
          "noOfTotalMeant": "0.00",
          "srNo": "2.2"
         },
@@ -388,28 +388,28 @@
         {
          "category": "Individuals(Other than RIIs)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "830400",
+         "noOfSharesBid": "1262400",
          "noOfTotalMeant": "",
          "srNo": "2.2(b)"
         },
         {
          "category": "Others",
          "noOfShareOffered": "",
-         "noOfSharesBid": "169200",
+         "noOfSharesBid": "172800",
          "noOfTotalMeant": "",
          "srNo": "2.2(c)"
         },
         {
          "category": "Total",
          "noOfShareOffered": "0.0",
-         "noOfSharesBid": "2500800.0",
+         "noOfSharesBid": "3500400.0",
          "noOfTotalMeant": "0.00",
          "srNo": null
         }
        ],
        "heading": null,
        "symbol": null,
-       "updateTime": "Updated as on 03-Nov-2026 17:00:00"
+       "updateTime": "Updated as on 04-Nov-2026 19:00:00"
       }
      }
     },
@@ -417,22 +417,22 @@
    }
   },
   {
-   "id": "hgs-india",
-   "companyName": "HGS (India) Limited",
+   "id": "vedant-poly-fabs",
+   "companyName": "Vedant Poly Fabs Limited",
    "exchanges": [
     "NSE"
    ],
-   "symbol": "HGSINDIALT",
+   "symbol": "VPFL",
    "bseScripCode": null,
    "series": "SME",
    "status": "closed",
    "issueType": "Book Building",
-   "issueStartDate": "2026-10-30",
-   "issueEndDate": "2026-11-03",
+   "issueStartDate": "2026-11-02",
+   "issueEndDate": "2026-11-04",
    "listingDate": null,
    "priceBand": {
-    "min": 114.0,
-    "max": 120.0,
+    "min": 88.0,
+    "max": 94.0,
     "currency": "INR"
    },
    "issuePrice": null,
@@ -443,134 +443,133 @@
     "amount": null
    },
    "leadManagers": [
-    "Hem Securities Limited"
+    "Affinity Global Capital Market Private Limited"
    ],
-   "registrar": "Kfin Technologies Limited",
+   "registrar": "Cameo Corporate Services Limited",
    "subscription": {
-    "timesSubscribed": 231.18,
-    "sharesOffered": 2066400,
-    "sharesBid": 477717600,
+    "timesSubscribed": 0.0,
+    "sharesOffered": null,
+    "sharesBid": null,
     "categories": {
      "qib": 0.0,
      "nii": 0.0
     }
    },
    "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=HGSINDIALT&series=SME&type=Active",
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=VPFL&series=SME&type=Past",
     "bse": null
    },
    "raw": {
     "nse": {
      "list": {
-      "companyName": "HGS (India) Limited",
-      "isBse": "1",
-      "issueEndDate": "03-Nov-2026",
-      "issueStartDate": "30-Oct-2026",
-      "series": "SME",
-      "status": "Closed",
-      "symbol": "HGSINDIALT",
-      "noOfsharesBid": "477717600",
-      "noOfSharesOffered": "2066400",
-      "noOfTime": "231.18"
+      "companyName": "Vedant Poly Fabs Limited",
+      "ipoEndDate": "04-NOV-2026",
+      "ipoStartDate": "02-NOV-2026",
+      "issuePrice": "-",
+      "listingDate": "-",
+      "priceRange": "Rs.88 to Rs.94",
+      "securityType": "SME",
+      "symbol": "VPFL",
+      "company": "Vedant Poly Fabs Limited"
      },
      "detail": {
-      "companyName": "HGSINDIALT",
+      "companyName": "VPFL",
       "metaInfo": {},
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
-        "noOfshareBid": "75469200",
-        "noofapplication": "95",
+        "noOfshareBid": "68400",
+        "noofapplication": "1",
         "srNo": "1"
        },
        {
         "category": "Foreign Institutional Investors(FIIs)",
-        "noOfshareBid": "18511200",
-        "noofapplication": "16",
+        "noOfshareBid": "68400",
+        "noofapplication": "1",
         "srNo": "1(a)"
        },
        {
         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "noOfshareBid": "10788000",
-        "noofapplication": "37",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
         "srNo": "1(b)"
        },
        {
         "category": "Mutual funds",
-        "noOfshareBid": "1333200",
-        "noofapplication": "1",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
         "srNo": "1(c)"
        },
        {
         "category": "Others",
-        "noOfshareBid": "44836800",
-        "noofapplication": "41",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
         "srNo": "1(d)"
        },
        {
         "category": "Non Institutional Investors",
-        "noOfshareBid": "175959600",
-        "noofapplication": "26693",
+        "noOfshareBid": "3432000",
+        "noofapplication": "324",
         "srNo": "2"
        },
        {
         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-        "noOfshareBid": "135073200",
-        "noofapplication": "15675",
+        "noOfshareBid": "1996800",
+        "noofapplication": "50",
         "srNo": "2.1"
        },
        {
         "category": "Corporates",
-        "noOfshareBid": "1936800",
-        "noofapplication": "182",
+        "noOfshareBid": "304800",
+        "noofapplication": "1",
         "srNo": "2.1(a)"
        },
        {
         "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "131530800",
-        "noofapplication": "15305",
+        "noOfshareBid": "1692000",
+        "noofapplication": "49",
         "srNo": "2.1(b)"
        },
        {
         "category": "Others",
-        "noOfshareBid": "1605600",
-        "noofapplication": "188",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
         "srNo": "2.1(c)"
        },
        {
         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-        "noOfshareBid": "40886400",
-        "noofapplication": "11018",
+        "noOfshareBid": "1435200",
+        "noofapplication": "274",
         "srNo": "2.2"
        },
        {
         "category": "Corporates",
-        "noOfshareBid": "651600",
-        "noofapplication": "177",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
         "srNo": "2.2(a)"
        },
        {
         "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "39198000",
-        "noofapplication": "10554",
+        "noOfshareBid": "1262400",
+        "noofapplication": "241",
         "srNo": "2.2(b)"
        },
        {
         "category": "Others",
-        "noOfshareBid": "1036800",
-        "noofapplication": "287",
+        "noOfshareBid": "172800",
+        "noofapplication": "33",
         "srNo": "2.2(c)"
        },
        {
         "category": "Individual Investors (IND category bidding for 2 Lots)",
-        "noOfshareBid": "226288800",
-        "noofapplication": "94287",
+        "noOfshareBid": "7668000",
+        "noofapplication": "3195",
         "srNo": "3"
        },
        {
         "category": "Total",
-        "noOfshareBid": "477717600",
-        "noofapplication": "121075",
+        "noOfshareBid": "11168400",
+        "noofapplication": "3520",
         "srNo": null
        }
       ],
@@ -582,19 +581,19 @@
         },
         {
          "title": "Symbol",
-         "value": "HGSINDIALT"
+         "value": "VPFL"
         },
         {
          "title": "Issue Period",
-         "value": "30-Oct-2026 to 03-Nov-2026"
+         "value": "02-Nov-2026 to 04-Nov-2026"
         },
         {
          "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "03-Nov-2026 (upto 5:00 PM) The cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate."
+         "value": "04-Nov-2026 (upto 5:00 PM) The cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate."
         },
         {
          "title": "Issue Size",
-         "value": "\"Initial Public Offer comprising of Fresh Issue of up to 23,26,000 equity shares and Offer for Sale of up to 5,54,000 Equity Shares (including Market Maker portion of 1,45,200 Equity Shares and Anchor Allocation of 8,13,600 Equity shares)\""
+         "value": "\"Initial Public Offer comprising of Fresh Issue of up to 54,26,400 Equity Shares and Offer for sale of up to 6,03,600 Equity Shares (including market maker portion of 3,04,800 equity shares)\""
         },
         {
          "title": "Issue Type",
@@ -602,7 +601,7 @@
         },
         {
          "title": "Price Range",
-         "value": "Rs.114 to Rs.120 per equity share"
+         "value": "Rs.88 to Rs.94 per equity share"
         },
         {
          "title": "Lot Size",
@@ -622,7 +621,7 @@
         },
         {
          "title": "Book Running Lead Managers",
-         "value": "Hem Securities Limited"
+         "value": "Affinity Global Capital Market Private Limited"
         },
         {
          "title": "Sponsor Bank",
@@ -637,24 +636,16 @@
          "value": "\"IND (Up to Rs. 5,00,000)\""
         },
         {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"19,21,200 Equity shares (Calculated at Higher Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"13,74,000 Equity shares (Calculated at Higher Price band)\""
-        },
-        {
          "title": "Name of the Registrar",
-         "value": "Kfin Technologies Limited"
+         "value": "Cameo Corporate Services Limited"
         },
         {
          "title": "Address of the Registrar",
-         "value": "\"301, The Centrium, 3rd Floor, 57, Lal Bahadur Shastri Road, Nav Pada, Kurla (West),  Mumbai 400070, Maharashtra, India\""
+         "value": "\"Subramanian Building, 1 Club House Road, Chennai 600 002\""
         },
         {
          "title": "Contact person name number and Email id",
-         "value": "\"Williams R, +9140-67162222 , hgs.ipo@kfintech.com\""
+         "value": "\"K. Sreepriya, +91 40 6716 2222, priya@cameoindia.com \""
         },
         {
          "title": "e-form link",
@@ -666,27 +657,19 @@
         },
         {
          "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_HGSINDIALT.zip"
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_VPFL.zip"
         },
         {
          "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_HGSINDIALT.zip"
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_VPFL.zip"
         },
         {
          "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_HGSINDIALT.zip"
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_VPFL.zip"
         },
         {
          "title": "Security Parameters ",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_HGSINDIALT.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_HGSINDIALT.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_HGSINDIALT.zip"
+         "value": "https://nsearchives.nseindia.com/content/ipo/LIVE_PARAMETERS_VPFL.zip"
         },
         {
          "title": "Processing of ASBA Applications",
@@ -705,8 +688,8 @@
          "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
         }
        ],
-       "heading": "HGS (India) Limited",
-       "symbol": "HGSINDIALT"
+       "heading": "Vedant Poly Fabs Limited",
+       "symbol": "VPFL"
       },
       "activeCat": {
        "dataList": [
@@ -720,112 +703,112 @@
         {
          "category": "Qualified Institutional Buyers(QIBs)",
          "noOfShareOffered": "0",
-         "noOfSharesBid": "75469200",
+         "noOfSharesBid": "68400",
          "noOfTotalMeant": "0.00",
          "srNo": "1"
         },
         {
          "category": "Foreign Institutional Investors(FIIs)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "18511200",
+         "noOfSharesBid": "68400",
          "noOfTotalMeant": "",
          "srNo": "1(a)"
         },
         {
          "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "10788000",
+         "noOfSharesBid": "0",
          "noOfTotalMeant": "",
          "srNo": "1(b)"
         },
         {
          "category": "Mutual funds",
          "noOfShareOffered": "",
-         "noOfSharesBid": "1333200",
+         "noOfSharesBid": "0",
          "noOfTotalMeant": "",
          "srNo": "1(c)"
         },
         {
          "category": "Others",
          "noOfShareOffered": "",
-         "noOfSharesBid": "44836800",
+         "noOfSharesBid": "0",
          "noOfTotalMeant": "",
          "srNo": "1(d)"
         },
         {
          "category": "Non Institutional Investors",
          "noOfShareOffered": "0",
-         "noOfSharesBid": "175959600",
+         "noOfSharesBid": "3432000",
          "noOfTotalMeant": "0.00",
          "srNo": "2"
         },
         {
          "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
          "noOfShareOffered": "0",
-         "noOfSharesBid": "135073200",
+         "noOfSharesBid": "1996800",
          "noOfTotalMeant": "0.00",
          "srNo": "2.1"
         },
         {
          "category": "Corporates",
          "noOfShareOffered": "",
-         "noOfSharesBid": "1936800",
+         "noOfSharesBid": "304800",
          "noOfTotalMeant": "",
          "srNo": "2.1(a)"
         },
         {
          "category": "Individuals(Other than RIIs)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "131530800",
+         "noOfSharesBid": "1692000",
          "noOfTotalMeant": "",
          "srNo": "2.1(b)"
         },
         {
          "category": "Others",
          "noOfShareOffered": "",
-         "noOfSharesBid": "1605600",
+         "noOfSharesBid": "0",
          "noOfTotalMeant": "",
          "srNo": "2.1(c)"
         },
         {
          "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
          "noOfShareOffered": "0",
-         "noOfSharesBid": "40886400",
+         "noOfSharesBid": "1435200",
          "noOfTotalMeant": "0.00",
          "srNo": "2.2"
         },
         {
          "category": "Corporates",
          "noOfShareOffered": "",
-         "noOfSharesBid": "651600",
+         "noOfSharesBid": "0",
          "noOfTotalMeant": "",
          "srNo": "2.2(a)"
         },
         {
          "category": "Individuals(Other than RIIs)",
          "noOfShareOffered": "",
-         "noOfSharesBid": "39198000",
+         "noOfSharesBid": "1262400",
          "noOfTotalMeant": "",
          "srNo": "2.2(b)"
         },
         {
          "category": "Others",
          "noOfShareOffered": "",
-         "noOfSharesBid": "1036800",
+         "noOfSharesBid": "172800",
          "noOfTotalMeant": "",
          "srNo": "2.2(c)"
         },
         {
          "category": "Total",
          "noOfShareOffered": "0.0",
-         "noOfSharesBid": "2.514288E8",
+         "noOfSharesBid": "3500400.0",
          "noOfTotalMeant": "0.00",
          "srNo": null
         }
        ],
        "heading": null,
        "symbol": null,
-       "updateTime": "Updated as on 03-Nov-2026 19:00:00"
+       "updateTime": "Updated as on 04-Nov-2026 19:00:00"
       }
      }
     },
@@ -1675,7 +1658,7 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-10-29",
    "issueEndDate": "2026-11-02",
-   "listingDate": null,
+   "listingDate": "2026-11-05",
    "priceBand": {
     "min": 78.0,
     "max": 82.0,
@@ -1721,8 +1704,28 @@
       "symbol": "BCSSL"
      },
      "detail": {
-      "companyName": "BCSSL",
-      "metaInfo": {},
+      "companyName": "Bombay Coated and Special Steels Limited",
+      "metaInfo": {
+       "symbol": "BCSSL",
+       "companyName": "Bombay Coated and Special Steels Limited",
+       "activeSeries": [
+        "BE"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE0XFY01011",
+       "listingDate": "2026-11-05",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -2210,6 +2213,7 @@
       "metaInfo": {
        "symbol": "MKJEWELS",
        "companyName": "M. K. Sons Fine Jewels Limited",
+       "industry": "Gems Jewellery And Watches",
        "activeSeries": [
         "EQ"
        ],
@@ -7832,16 +7836,16 @@
        "symbol": "RAVITA",
        "companyName": "Ravita Engineering Services Limited",
        "industry": "Civil Construction",
-       "activeSeries": [
-        "ST"
-       ],
+       "activeSeries": [],
        "debtSeries": [],
        "isFNOSec": false,
        "isCASec": false,
        "isSLBSec": false,
        "isDebtSec": false,
-       "isSuspended": false,
-       "tempSuspendedSeries": [],
+       "isSuspended": true,
+       "tempSuspendedSeries": [
+        "ST"
+       ],
        "isETFSec": false,
        "isDelisted": false,
        "isin": "INE1UEL01023",
@@ -49368,442 +49372,6 @@
        "heading": null,
        "symbol": null,
        "updateTime": "Updated as on 07-Aug-2026 19:00:00"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
-  {
-   "id": "anawil-wire-and-engineering",
-   "companyName": "Anawil Wire and Engineering Limited",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "ANAWIL",
-   "bseScripCode": null,
-   "series": "SME",
-   "status": "closed",
-   "issueType": "Book Building",
-   "issueStartDate": "2026-08-03",
-   "issueEndDate": "2026-08-05",
-   "listingDate": "2026-08-10",
-   "priceBand": {
-    "min": 257.0,
-    "max": 270.0,
-    "currency": "INR"
-   },
-   "issuePrice": 270.0,
-   "faceValue": 10.0,
-   "lotSize": 400,
-   "issueSize": {
-    "shares": null,
-    "amount": null
-   },
-   "leadManagers": [
-    "Hem Securities Limited"
-   ],
-   "registrar": "Bigshare Services Private Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 0.0,
-     "nii": 0.0
-    }
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=ANAWIL&series=SME&type=Past",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Anawil Wire and Engineering Limited",
-      "ipoEndDate": "05-AUG-2026",
-      "ipoStartDate": "03-AUG-2026",
-      "issuePrice": "270",
-      "listingDate": "10-AUG-2026",
-      "priceRange": "Rs.257 to Rs.270",
-      "securityType": "SME",
-      "symbol": "ANAWIL",
-      "company": "Anawil Wire and Engineering Limited"
-     },
-     "detail": {
-      "companyName": "Anawil Wire and Engineering Limited",
-      "metaInfo": {
-       "symbol": "ANAWIL",
-       "companyName": "Anawil Wire and Engineering Limited",
-       "industry": "Heavy Electrical Equipment",
-       "activeSeries": [
-        "SM"
-       ],
-       "debtSeries": [],
-       "isFNOSec": false,
-       "isCASec": false,
-       "isSLBSec": false,
-       "isDebtSec": false,
-       "isSuspended": false,
-       "tempSuspendedSeries": [],
-       "isETFSec": false,
-       "isDelisted": false,
-       "isin": "INE1J5V01013",
-       "listingDate": "2026-08-10",
-       "isMunicipalBond": false,
-       "isHybridSymbol": false,
-       "segment": "SME"
-      },
-      "bidDetails": [
-       {
-        "category": "Qualified Institutional Buyers(QIBs)",
-        "noOfshareBid": "205834800",
-        "noofapplication": "167",
-        "srNo": "1"
-       },
-       {
-        "category": "Foreign Institutional Investors(FIIs)",
-        "noOfshareBid": "32563200",
-        "noofapplication": "34",
-        "srNo": "1(a)"
-       },
-       {
-        "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-        "noOfshareBid": "28685600",
-        "noofapplication": "11",
-        "srNo": "1(b)"
-       },
-       {
-        "category": "Mutual funds",
-        "noOfshareBid": "4092400",
-        "noofapplication": "7",
-        "srNo": "1(c)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "140493600",
-        "noofapplication": "115",
-        "srNo": "1(d)"
-       },
-       {
-        "category": "Non Institutional Investors",
-        "noOfshareBid": "219319200",
-        "noofapplication": "71834",
-        "srNo": "2"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-        "noOfshareBid": "181068400",
-        "noofapplication": "43979",
-        "srNo": "2.1"
-       },
-       {
-        "category": "Corporates",
-        "noOfshareBid": "2358400",
-        "noofapplication": "486",
-        "srNo": "2.1(a)"
-       },
-       {
-        "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "176750800",
-        "noofapplication": "43014",
-        "srNo": "2.1(b)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "1959200",
-        "noofapplication": "479",
-        "srNo": "2.1(c)"
-       },
-       {
-        "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-        "noOfshareBid": "38250800",
-        "noofapplication": "27855",
-        "srNo": "2.2"
-       },
-       {
-        "category": "Corporates",
-        "noOfshareBid": "222000",
-        "noofapplication": "175",
-        "srNo": "2.2(a)"
-       },
-       {
-        "category": "Individuals(IND category bidding for more than 2 Lots)",
-        "noOfshareBid": "37596400",
-        "noofapplication": "27366",
-        "srNo": "2.2(b)"
-       },
-       {
-        "category": "Others",
-        "noOfshareBid": "432400",
-        "noofapplication": "314",
-        "srNo": "2.2(c)"
-       },
-       {
-        "category": "Individual Investors (IND category bidding for 2 Lots)",
-        "noOfshareBid": "228205600",
-        "noofapplication": "285257",
-        "srNo": "3"
-       },
-       {
-        "category": "Total",
-        "noOfshareBid": "653359600",
-        "noofapplication": "357258",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall, at all times, maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "ANAWIL"
-        },
-        {
-         "title": "Issue Period",
-         "value": "03-Aug-2026 to 05-Aug-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "05-Aug-2026 (upto 5:00 PM) The cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate."
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer comprising of Fresh Issue of up to 52,84,800 equity shares and Offer for Sale of up to 13,00,800 Equity Shares (Including Market Maker portion of 3,31,200 Equity Shares and Anchor Allocation of 18,75,600 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs.257 to Rs.270 per equity share"
-        },
-        {
-         "title": "Lot Size",
-         "value": "400 Equity Shares"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs.10"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re.1"
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m. (Bidding Timings on Issue Closure upto 4:00 P.M.)"
-        },
-        {
-         "title": "Maximum Bid Quantity for QIB Investors",
-         "value": "\"43,78,800 Equity Shares (Calculated at Higher Price band)\""
-        },
-        {
-         "title": "Maximum Bid Quantity for NIB Investors",
-         "value": "\"31,28,000 Equity Shares (Calculated at Higher Price band)\""
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "Hem Securities Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Kotak Mahindra Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND and NOH\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "IND (upto 5 Lakhs)"
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "Bigshare Services Private Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"Office No. S6 2, 6th floor, Pinnacle Business Park, Next to Ahura Centre, Mahakali Caves Road, Andheri East, Mumbai 400093, Maharashtra, India\""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"Babu Rapheal C., +91 022-6263 8200, ipo@bigshareonline.com\""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://bidcollection.nseindia.com/asba"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_ANAWIL.zip"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_ANAWIL.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_ANAWIL.zip"
-        },
-        {
-         "title": "Security Parameters ",
-         "value": "https://nsearchives.nseindia.com/content/ipo/PREANCHOR_PARAMETERS_ANAWIL.zip"
-        },
-        {
-         "title": "Security Parameters (Post Anchor)",
-         "value": "https://nsearchives.nseindia.com/content/ipo/POSTANCHOR_PARAMETERS_ANAWIL.zip"
-        },
-        {
-         "title": "Anchor Allocation Report",
-         "value": "https://nsearchives.nseindia.com/content/ipo/ANCHOR_ANAWIL.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "heading": "Anawil Wire and Engineering Limited",
-       "symbol": "ANAWIL"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Qualified Institutional Buyers(QIBs)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "205834800",
-         "noOfTotalMeant": "0.00",
-         "srNo": "1"
-        },
-        {
-         "category": "Foreign Institutional Investors(FIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "32563200",
-         "noOfTotalMeant": "",
-         "srNo": "1(a)"
-        },
-        {
-         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "28685600",
-         "noOfTotalMeant": "",
-         "srNo": "1(b)"
-        },
-        {
-         "category": "Mutual funds",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "4092400",
-         "noOfTotalMeant": "",
-         "srNo": "1(c)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "140493600",
-         "noOfTotalMeant": "",
-         "srNo": "1(d)"
-        },
-        {
-         "category": "Non Institutional Investors",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "219319200",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "181068400",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2.1"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "2358400",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "176750800",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "1959200",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(c)"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-         "noOfShareOffered": "0",
-         "noOfSharesBid": "38250800",
-         "noOfTotalMeant": "0.00",
-         "srNo": "2.2"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "222000",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "37596400",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "432400",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(c)"
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "4.25154E8",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on 05-Aug-2026 17:42:00"
       }
      }
     },
