@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T21:35:15Z",
+ "generatedAt": "2026-11-05T03:43:47Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -1664,7 +1664,7 @@
     "max": 82.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 82.0,
    "faceValue": 10.0,
    "lotSize": 182,
    "issueSize": {
@@ -1696,11 +1696,11 @@
       "htmSym": "bcssl",
       "ipoEndDate": "02-NOV-2026",
       "ipoStartDate": "29-OCT-2026",
-      "issuePrice": "-",
+      "issuePrice": "    82",
       "linkRemovalDate": "03-NOV-2026",
-      "listingDate": "-",
+      "listingDate": "05-NOV-2026",
       "priceRange": "Rs.78 to Rs.82",
-      "securityType": "EQ",
+      "securityType": "BE",
       "symbol": "BCSSL"
      },
      "detail": {
@@ -7836,16 +7836,16 @@
        "symbol": "RAVITA",
        "companyName": "Ravita Engineering Services Limited",
        "industry": "Civil Construction",
-       "activeSeries": [],
+       "activeSeries": [
+        "SM"
+       ],
        "debtSeries": [],
        "isFNOSec": false,
        "isCASec": false,
        "isSLBSec": false,
        "isDebtSec": false,
-       "isSuspended": true,
-       "tempSuspendedSeries": [
-        "ST"
-       ],
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
        "isETFSec": false,
        "isDelisted": false,
        "isin": "INE1UEL01023",
