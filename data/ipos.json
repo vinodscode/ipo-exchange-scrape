@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T21:40:37Z",
+ "generatedAt": "2026-11-06T03:39:07Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -428,13 +428,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-10-30",
    "issueEndDate": "2026-11-03",
-   "listingDate": null,
+   "listingDate": "2026-11-06",
    "priceBand": {
     "min": 114.0,
     "max": 120.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 120.0,
    "faceValue": 10.0,
    "lotSize": 1200,
    "issueSize": {
@@ -464,16 +464,36 @@
       "companyName": "HGS (India) Limited",
       "ipoEndDate": "03-NOV-2026",
       "ipoStartDate": "30-OCT-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "120",
+      "listingDate": "06-NOV-2026",
       "priceRange": "Rs.114 to Rs.120",
       "securityType": "SME",
       "symbol": "HGSINDIALT",
       "company": "HGS (India) Limited"
      },
      "detail": {
-      "companyName": "HGSINDIALT",
-      "metaInfo": {},
+      "companyName": "HGS (India) Limited",
+      "metaInfo": {
+       "symbol": "HGSINDIALT",
+       "companyName": "HGS (India) Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE813R01012",
+       "listingDate": "2026-11-06",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -843,13 +863,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-10-30",
    "issueEndDate": "2026-11-03",
-   "listingDate": null,
+   "listingDate": "2026-11-06",
    "priceBand": {
     "min": 150.0,
     "max": 158.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 158.0,
    "faceValue": 10.0,
    "lotSize": 800,
    "issueSize": {
@@ -879,16 +899,36 @@
       "companyName": "Maxwell Engineering Solutions Limited",
       "ipoEndDate": "03-NOV-2026",
       "ipoStartDate": "30-OCT-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "158",
+      "listingDate": "06-NOV-2026",
       "priceRange": "Rs.150 to Rs.158",
       "securityType": "SME",
       "symbol": "MAXENGS",
       "company": "Maxwell Engineering Solutions Limited"
      },
      "detail": {
-      "companyName": "MAXENGS",
-      "metaInfo": {},
+      "companyName": "Maxwell Engineering Solutions Limited",
+      "metaInfo": {
+       "symbol": "MAXENGS",
+       "companyName": "Maxwell Engineering Solutions Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1W3F01014",
+       "listingDate": "2026-11-06",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -34306,7 +34346,8 @@
        "companyName": "Priority Jewels Limited",
        "industry": "Gems Jewellery And Watches",
        "activeSeries": [
-        "BE"
+        "BE",
+        " BE"
        ],
        "debtSeries": [],
        "isFNOSec": false,
@@ -34314,9 +34355,7 @@
        "isSLBSec": false,
        "isDebtSec": false,
        "isSuspended": false,
-       "tempSuspendedSeries": [
-        "EQ"
-       ],
+       "tempSuspendedSeries": [],
        "isETFSec": false,
        "isDelisted": false,
        "isin": "INE15EH01014",
