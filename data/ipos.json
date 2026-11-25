@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T07:07:36Z",
+ "generatedAt": "2026-11-25T00:10:02Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -11,11 +11,224 @@
   }
  },
  "counts": {
-  "open": 0,
-  "upcoming": 2,
+  "open": 1,
+  "upcoming": 1,
   "closed": 82
  },
  "ipos": [
+  {
+   "id": "shree-siddhivinayak-greentech-industries",
+   "companyName": "Shree Siddhivinayak Greentech Industries Limited",
+   "exchanges": [
+    "NSE"
+   ],
+   "symbol": "SHREESIDHI",
+   "bseScripCode": null,
+   "series": "SME",
+   "status": "open",
+   "issueType": "Book Building",
+   "issueStartDate": "2026-11-25",
+   "issueEndDate": "2026-11-27",
+   "listingDate": null,
+   "priceBand": {
+    "min": 130.0,
+    "max": 142.0,
+    "currency": "INR"
+   },
+   "issuePrice": null,
+   "faceValue": 10.0,
+   "lotSize": 1000,
+   "issueSize": {
+    "shares": null,
+    "amount": null
+   },
+   "leadManagers": [
+    "Erudore Capital Private Limited"
+   ],
+   "registrar": "Mas Services Limited",
+   "subscription": {
+    "timesSubscribed": 0.0,
+    "sharesOffered": 6596000,
+    "sharesBid": null,
+    "categories": null
+   },
+   "urls": {
+    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=SHREESIDHI&series=SME&type=Active",
+    "bse": null
+   },
+   "raw": {
+    "nse": {
+     "list": {
+      "companyName": "Shree Siddhivinayak Greentech Industries Limited",
+      "issueEndDate": "27-Nov-2026",
+      "issuePrice": "Rs.130 to Rs.142",
+      "issueSize": "6596000",
+      "issueStartDate": "25-Nov-2026",
+      "orderEndDate": "2026-11-27 00:00:00",
+      "orderStartDate": "2026-11-25 00:00:00",
+      "segment": "SME",
+      "series": "SME",
+      "status": "Active",
+      "symbol": "SHREESIDHI",
+      "noOfsharesBid": "",
+      "noOfSharesOffered": "6596000",
+      "noOfTime": ""
+     },
+     "detail": {
+      "companyName": "SHREESIDHI",
+      "metaInfo": {},
+      "bidDetails": [
+       {
+        "category": "Total",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": null
+       }
+      ],
+      "issueInfo": {
+       "dataList": [
+        {
+         "title": null,
+         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall, at all times, maintain the electronic records relating to such forms for a minimum period of three years.\""
+        },
+        {
+         "title": "Symbol",
+         "value": "SHREESIDHI"
+        },
+        {
+         "title": "Issue Period",
+         "value": "25-Nov-2026 to 27-Nov-2026"
+        },
+        {
+         "title": "Cut-off time for UPI Mandate Confirmation",
+         "value": "27-Nov-2026 (upto 5:00 PM) The cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate."
+        },
+        {
+         "title": "Issue Size",
+         "value": "\"Initial Public Offer comprising of fresh issue of up to 65,96,000 Equity Shares (including Market Maker portion of 3,30,000 Equity Shares)\""
+        },
+        {
+         "title": "Issue Type",
+         "value": "Book Building"
+        },
+        {
+         "title": "Price Range",
+         "value": "Rs. 130 to Rs. 142 per equity share"
+        },
+        {
+         "title": "Lot Size",
+         "value": "1000 Equity Shares"
+        },
+        {
+         "title": "Face Value",
+         "value": "Rs.10 per Equity Share"
+        },
+        {
+         "title": "Tick Size",
+         "value": "Re.1"
+        },
+        {
+         "title": "IPO Market Timings",
+         "value": "10.00 a.m. to 5.00 p.m. (Bidding Timings on Issue Closure upto 4:00 P.M.)"
+        },
+        {
+         "title": "Book Running Lead Managers",
+         "value": "Erudore Capital Private Limited"
+        },
+        {
+         "title": "Sponsor Bank",
+         "value": "Kotak Mahindra Bank Limited"
+        },
+        {
+         "title": "Categories",
+         "value": "\"FI, IC, MF, FII, OTH, CO, IND and NOH\""
+        },
+        {
+         "title": "Sub-Categories applicable for UPI",
+         "value": "\"IND (Up to Rs. 5,00,000)\""
+        },
+        {
+         "title": "Name of the Registrar",
+         "value": "Mas Services Limited"
+        },
+        {
+         "title": "Address of the Registrar",
+         "value": "\"T34, 2nd Floor, Okhla Industrial Area,Phase 2, New Delhi 110020 \""
+        },
+        {
+         "title": "Contact person name number and Email id",
+         "value": "\"N.C. Pal, 011-26387281, ipo@masserv.com \""
+        },
+        {
+         "title": "e-form link",
+         "value": "https://ipoforms.nseindia.com/issueforms/html/index.jsp"
+        },
+        {
+         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
+         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
+        },
+        {
+         "title": "Red Herring Prospectus",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_SHREESIDHI.zip"
+        },
+        {
+         "title": "Ratios / Basis of Issue Price",
+         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_SHREESIDHI.zip"
+        },
+        {
+         "title": "Sample Application Forms",
+         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_SHREESIDHI.zip"
+        },
+        {
+         "title": "Security Parameters ",
+         "value": "https://nsearchives.nseindia.com/content/ipo/LIVE_PARAMETERS_SHREESIDHI.zip"
+        },
+        {
+         "title": "Processing of ASBA Applications",
+         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
+        },
+        {
+         "title": "List of mobile applications accepting UPI as Payment Option",
+         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
+        },
+        {
+         "title": "Video link  for UPI based ASBA process",
+         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
+        },
+        {
+         "title": "Video link  for BHIM UPI Registration",
+         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
+        }
+       ],
+       "heading": "Shree Siddhivinayak Greentech Industries Limited",
+       "symbol": "SHREESIDHI"
+      },
+      "activeCat": {
+       "dataList": [
+        {
+         "category": "Category",
+         "noOfShareOffered": "No.of shares offered/reserved",
+         "noOfSharesBid": "No. of shares bid for",
+         "noOfTotalMeant": "No. of times of total meant for the category",
+         "srNo": "Sr.No."
+        },
+        {
+         "category": "Total",
+         "noOfShareOffered": "0.0",
+         "noOfSharesBid": "0.0",
+         "noOfTotalMeant": "0.00",
+         "srNo": null
+        }
+       ],
+       "heading": null,
+       "symbol": null,
+       "updateTime": "Updated as on null"
+      }
+     }
+    },
+    "bse": {}
+   }
+  },
   {
    "id": "foodlink-f-b-holdings-india",
    "companyName": "Foodlink F&B Holdings (India) Limited",
@@ -220,216 +433,6 @@
         }
        ],
        "symbol": "FOODLINK"
-      },
-      "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "0.0",
-         "noOfSharesBid": "0.0",
-         "noOfTotalMeant": "0.00",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on null"
-      }
-     }
-    },
-    "bse": {}
-   }
-  },
-  {
-   "id": "shree-siddhivinayak-greentech-industries",
-   "companyName": "Shree Siddhivinayak Greentech Industries Limited",
-   "exchanges": [
-    "NSE"
-   ],
-   "symbol": "SHREESIDHI",
-   "bseScripCode": null,
-   "series": "SME",
-   "status": "upcoming",
-   "issueType": "Book Building",
-   "issueStartDate": "2026-11-25",
-   "issueEndDate": "2026-11-27",
-   "listingDate": null,
-   "priceBand": {
-    "min": 130.0,
-    "max": 142.0,
-    "currency": "INR"
-   },
-   "issuePrice": null,
-   "faceValue": 10.0,
-   "lotSize": 1000,
-   "issueSize": {
-    "shares": 6596000,
-    "amount": null
-   },
-   "leadManagers": [
-    "Erudore Capital Private Limited"
-   ],
-   "registrar": "Mas Services Limited",
-   "subscription": {
-    "timesSubscribed": 0.0,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": null
-   },
-   "urls": {
-    "nse": "https://www.nseindia.com/market-data/issue-information?symbol=SHREESIDHI&series=SME&type=Upcoming",
-    "bse": null
-   },
-   "raw": {
-    "nse": {
-     "list": {
-      "companyName": "Shree Siddhivinayak Greentech Industries Limited",
-      "issueEndDate": "27-Nov-2026",
-      "issuePrice": "Rs.130 to Rs.142",
-      "issueSize": "6596000",
-      "issueStartDate": "25-Nov-2026",
-      "orderEndDate": "2026-11-27 00:00:00",
-      "orderStartDate": "2026-11-25 00:00:00",
-      "segment": null,
-      "series": "SME",
-      "status": "Forthcoming",
-      "symbol": "SHREESIDHI"
-     },
-     "detail": {
-      "companyName": "SHREESIDHI",
-      "metaInfo": {},
-      "bidDetails": [
-       {
-        "category": "Total",
-        "noOfshareBid": "0",
-        "noofapplication": "0",
-        "srNo": null
-       }
-      ],
-      "issueInfo": {
-       "dataList": [
-        {
-         "title": null,
-         "value": "\"*As per SEBI circular no SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated 28 June 2019 all are requested to comply with the provisions of the aforementioned circular which states as below: Intermediaries shall retain physical application forms submitted by retail individual investors with UPI as a payment mechanism, for a period of six months and thereafter forward the same to the issuer/ Registrar to Issue. However in case of Electronic forms printouts of such applications need not be retained or sent to the issuer. Intermediaries shall, at all times, maintain the electronic records relating to such forms for a minimum period of three years.\""
-        },
-        {
-         "title": "Symbol",
-         "value": "SHREESIDHI"
-        },
-        {
-         "title": "Issue Period",
-         "value": "25-Nov-2026 to 27-Nov-2026"
-        },
-        {
-         "title": "Cut-off time for UPI Mandate Confirmation",
-         "value": "27-Nov-2026 (upto 5:00 PM) The cut-off time for UPI mandate acceptance is 05:00 PM on last day of IPO bidding. Further bids with confirmed status of mandate amount blocked (RC100) shall be considered as valid applications and hence investors are advised to submit their UPI applications in IPO well in advance to avoid any last minute technical/systemic constraints that may hamper their ability to participate in IPOs by successfully accepting the mandate."
-        },
-        {
-         "title": "Issue Size",
-         "value": "\"Initial Public Offer comprising of fresh issue of up to 65,96,000 Equity Shares (including Market Maker portion of 3,30,000 Equity Shares)\""
-        },
-        {
-         "title": "Issue Type",
-         "value": "Book Building"
-        },
-        {
-         "title": "Price Range",
-         "value": "Rs. 130 to Rs. 142 per equity share"
-        },
-        {
-         "title": "Lot Size",
-         "value": "1000 Equity Shares"
-        },
-        {
-         "title": "Face Value",
-         "value": "Rs.10 per Equity Share"
-        },
-        {
-         "title": "Tick Size",
-         "value": "Re.1"
-        },
-        {
-         "title": "IPO Market Timings",
-         "value": "10.00 a.m. to 5.00 p.m. (Bidding Timings on Issue Closure upto 4:00 P.M.)"
-        },
-        {
-         "title": "Book Running Lead Managers",
-         "value": "Erudore Capital Private Limited"
-        },
-        {
-         "title": "Sponsor Bank",
-         "value": "Kotak Mahindra Bank Limited"
-        },
-        {
-         "title": "Categories",
-         "value": "\"FI, IC, MF, FII, OTH, CO, IND and NOH\""
-        },
-        {
-         "title": "Sub-Categories applicable for UPI",
-         "value": "\"IND (Up to Rs. 5,00,000)\""
-        },
-        {
-         "title": "Name of the Registrar",
-         "value": "Mas Services Limited"
-        },
-        {
-         "title": "Address of the Registrar",
-         "value": "\"T34, 2nd Floor, Okhla Industrial Area,Phase 2, New Delhi 110020 \""
-        },
-        {
-         "title": "Contact person name number and Email id",
-         "value": "\"N.C. Pal, 011-26387281, ipo@masserv.com \""
-        },
-        {
-         "title": "e-form link",
-         "value": "https://ipoforms.nseindia.com/issueforms/html/index.jsp"
-        },
-        {
-         "title": "Branches of Self Certified Syndicate Banks (SCSBs) where syndicate / sub syndicate member to submit ASBA form",
-         "value": "<a href=http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 target=new>SCSB List</a>"
-        },
-        {
-         "title": "Red Herring Prospectus",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RHP_SHREESIDHI.zip"
-        },
-        {
-         "title": "Ratios / Basis of Issue Price",
-         "value": "https://nsearchives.nseindia.com/content/ipo/RATIOS_SHREESIDHI.zip"
-        },
-        {
-         "title": "Sample Application Forms",
-         "value": "https://nsearchives.nseindia.com/content/ipo/FORMS_SHREESIDHI.zip"
-        },
-        {
-         "title": "Security Parameters ",
-         "value": "https://nsearchives.nseindia.com/content/ipo/LIVE_PARAMETERS_SHREESIDHI.zip"
-        },
-        {
-         "title": "Processing of ASBA Applications",
-         "value": "<a href=https://archives.nseindia.com/content/circulars/IPO53197.pdf target=new>NSE Circular on ASBA Application Processing</a>"
-        },
-        {
-         "title": "List of mobile applications accepting UPI as Payment Option",
-         "value": "<a href=https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43 target=new>Mobile APP for UPI</a>"
-        },
-        {
-         "title": "Video link  for UPI based ASBA process",
-         "value": "<a href=https://youtu.be/UJ394m2Q3rg target=new>UPI Based ASBA Process</a>"
-        },
-        {
-         "title": "Video link  for BHIM UPI Registration",
-         "value": "<a href=https://youtu.be/cIUJOIH0x4c target=new>BHIM UPI Registration</a>"
-        }
-       ],
-       "heading": "Shree Siddhivinayak Greentech Industries Limited",
-       "symbol": "SHREESIDHI"
       },
       "activeCat": {
        "dataList": [
@@ -2065,7 +2068,8 @@
        "companyName": "Vedant Poly Fabs Limited",
        "industry": "Packaging",
        "activeSeries": [
-        "ST"
+        "SM",
+        " SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
@@ -2073,9 +2077,7 @@
        "isSLBSec": false,
        "isDebtSec": false,
        "isSuspended": false,
-       "tempSuspendedSeries": [
-        "SM"
-       ],
+       "tempSuspendedSeries": [],
        "isETFSec": false,
        "isDelisted": false,
        "isin": "INE2RWX01016",
