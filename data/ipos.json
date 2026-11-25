@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T00:10:02Z",
+ "generatedAt": "2026-11-25T05:39:54Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -47,9 +47,9 @@
    ],
    "registrar": "Mas Services Limited",
    "subscription": {
-    "timesSubscribed": 0.0,
+    "timesSubscribed": 0.09,
     "sharesOffered": 6596000,
-    "sharesBid": null,
+    "sharesBid": 612000,
     "categories": null
    },
    "urls": {
@@ -70,18 +70,108 @@
       "series": "SME",
       "status": "Active",
       "symbol": "SHREESIDHI",
-      "noOfsharesBid": "",
+      "noOfsharesBid": "612000",
       "noOfSharesOffered": "6596000",
-      "noOfTime": ""
+      "noOfTime": "0.09"
      },
      "detail": {
       "companyName": "SHREESIDHI",
       "metaInfo": {},
       "bidDetails": [
        {
-        "category": "Total",
+        "category": "Qualified Institutional Buyers(QIBs)",
         "noOfshareBid": "0",
         "noofapplication": "0",
+        "srNo": "1"
+       },
+       {
+        "category": "Foreign Institutional Investors(FIIs)",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "1(a)"
+       },
+       {
+        "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "1(b)"
+       },
+       {
+        "category": "Mutual funds",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "1(c)"
+       },
+       {
+        "category": "Others",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "1(d)"
+       },
+       {
+        "category": "Non Institutional Investors",
+        "noOfshareBid": "408000",
+        "noofapplication": "7",
+        "srNo": "2"
+       },
+       {
+        "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
+        "noOfshareBid": "392000",
+        "noofapplication": "2",
+        "srNo": "2.1"
+       },
+       {
+        "category": "Corporates",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "2.1(a)"
+       },
+       {
+        "category": "Individuals(IND category bidding for more than 2 Lots)",
+        "noOfshareBid": "392000",
+        "noofapplication": "2",
+        "srNo": "2.1(b)"
+       },
+       {
+        "category": "Others",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "2.1(c)"
+       },
+       {
+        "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
+        "noOfshareBid": "16000",
+        "noofapplication": "5",
+        "srNo": "2.2"
+       },
+       {
+        "category": "Corporates",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "2.2(a)"
+       },
+       {
+        "category": "Individuals(IND category bidding for more than 2 Lots)",
+        "noOfshareBid": "16000",
+        "noofapplication": "5",
+        "srNo": "2.2(b)"
+       },
+       {
+        "category": "Others",
+        "noOfshareBid": "0",
+        "noofapplication": "0",
+        "srNo": "2.2(c)"
+       },
+       {
+        "category": "Individual Investors (IND category bidding for 2 Lots)",
+        "noOfshareBid": "204000",
+        "noofapplication": "102",
+        "srNo": "3"
+       },
+       {
+        "category": "Total",
+        "noOfshareBid": "612000",
+        "noofapplication": "109",
         "srNo": null
        }
       ],
